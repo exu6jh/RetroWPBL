@@ -1,0 +1,130 @@
+PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DEBUT,PLAY.LASTGAME,MGR.DEBUT,MGR.LASTGAME,COACH.DEBUT,COACH.LASTGAME,UMP.DEBUT,UMP.LASTGAME,BATS,THROWS,HEIGHT
+"albaj201","Albayati","Jillian Graciela","Jill","05/03/2004","Anaheim","California","USA","08/02/2026",,,,,,,,"R","R","5-06"
+"apgab201","Apgar","Brittany","Britt",,"Greensboro","North Carolina","USA","08/01/2026",,,,,,,,"R","L",
+"atkic201","Atkinson","Chloe Grace","Chloe","02/09/2007","Perth","Western Australia","Australia",,,,,,,,,"R","R",
+"baira201","Baird","Addisyn","Addisyn","03/06/2008","Granger","Indiana","USA",,,,,,,,,"B","R","5-05"
+"barar201","Barajas","Rocio","Rocio",,"Puerto Vallarta","Jalisco","Mexico",,,,,,,,,"R","R",
+"barrs201","Barry","Sydney","Sydney",,"Fort McMurray","Alberta","Canada",,,,,,,,,"L","R",
+"baxte201","Baxter","Emily Anne","Emily","06/02/2000","Oakville","Ontario","Canada",,,,,,,,,"L","R","5-03"
+"bazzk201","Bazzano","Kaija","Kaija","05/07/2002","Sebastopol","California","USA",,,,,,,,,"R","R",
+"beark201","Bearpaw","Kailyn","Kailyn","2003","Sapulpa","Oklahoma","USA",,,,,,,,,"R","R","5-08"
+"beaus201","Beaulieu","Sarah","Sarah",,"Riviere-du-Loup","Quebec","Canada",,,,,,,,,"L","R",
+"bebba201","Bebbere","Allison","Allie","09/26/1994","Montmorency","Victoria","Australia",,,,,,,,,"R","R",
+"benap201","Benach","Paloma","Paloma","12/06/2003","Washington","D.C.","USA",,,,,,,,,"L","L","5-10"
+"benid201","Benites","Denae Michelle","Denae","09/10/2001","Las Vegas","Nevada","USA","08/01/2026",,,,,,,,"R","R",
+"benis201","Benitez","Samaria","Samaria","08/30/2002","Tuxpan","Nayarit","Mexico","08/01/2026",,,,,,,,"R","R",
+"bepph201","Beppu","Hinano","Hinano","12/04/1996","Nakagawa","Fukuoka","Japan",,,,,,,,,"R","R",
+"birdb201","Birdsall","Braidy","Braidy",,"Saskatoon","Saskatchewan","Canada",,,,,,,,,"R","R","5-06"
+"blunk201","Blunt","Kate Elizabeth-Ai","Kate","04/16/2003","Ladera Ranch","California","USA","08/02/2026",,,,,,,,"R","R","5-06"
+"brico201","Bricker","Olivia","Olivia","08/23/2000","Cincinnati","Ohio","USA",,,,,,,,,"L","L","5-04"
+"bryad201","Bryant","Denver Amber","Denver","07/12/2002","Albany","Georgia","USA","08/02/2026",,,,,,,,"R","R","5-06"
+"chare601","Charlesworth-Seiler","Emma","Emma",,"Golden Valley","Minnesota","USA",,,,,"08/01/2026",,,,,,
+"ciame201","Ciamarro","Elodie","Elodie",,"Mont-Saint-Hilaire","Quebec","Canada","08/01/2026",,,,,,,,"R","R",
+"corip201","Coria","Peyton","Peyton","10/30/2006","Perris","California","USA",,,,,,,,,"R","R","5-03"
+"cornl201","Cornish","Leah Lorraine Ai Han","Leah","03/08/2007","Perth","Western Australia","Australia",,,,,,,,,"R","R",
+"cortm201","Cortez","Milanyela Egilda (Urquiola)","Milanyela","03/13/1998","Barquisimeto","Lara","Venezuela",,,,,,,,,"R","R",
+"curtt201","Curtis","Trinity","Trinity","05/18/2001","Oakhurst","California","USA",,,,,,,,,"R","R",
+"davim201","Davis","Mo'ne Ikea","Mo'ne","06/24/2001","Philadelphia","Pennsylvania","USA","08/01/2026",,,,,,,,"R","R","5-05"
+"daybe201","Day-Bedard","Ela Zoe Mini","Ela","03/07/2005","Gatineau","Quebec","Canada","08/02/2026",,,,,,,,"R","R","5-04"
+"delcr201","Del Castillo","Rosa Maria (Alarcon)","Rosi","08/13/1997","Puebla","Puebla","Mexico",,,,,,,,,"R","R","5-06"
+"delee201","De Leija","Edith Elena (Sanchez)","Edith","04/13/2002","Aldama","Tamaulipas","Mexico","08/02/2026",,,,,,,,"R","L",
+"dew-k601","Dew","Karavin","Karavin","06/25/1991","Calhoun","Georgia","USA",,,,,"08/02/2026",,,,"R","R","5-05"
+"diazn201","Diaz","Nadia","Nadia","07/15/2000","Cicero","New York","USA",,,,,,,,,"R","R",
+"dumam201","Dumais","Maika","Maika","2008","Quebec City","Quebec","Canada","08/02/2026",,,,,,,,"L","R",
+"ecclc201","Eccles","Claire Kirino","Claire","10/25/1997","Vancouver","British Columbia","Canada","08/01/2026",,,,,,,,"L","L","5-08"
+"ecken201","Eckert","Cody Nicole","Niki","01/16/2003","Englewood","New Jersey","USA","08/02/2026",,,,,,,,"L","L",
+"edwas201","Edwards","Sarah Beth","Sarah","06/26/1996","Bay Shore","New York","USA","08/01/2026",,,,,,,,"B","L","5-10"
+"erwim201","Erwin","Maddison Elizabeth","Maddison","06/11/2002","Canberra","Australian Capital Territory","Australia",,,,,,,,,"R","R","5-05"
+"espib201","Espinoza-Molina","Bella","Bella","10/21/2002","Ladera Ranch","California","USA",,,,,,,,,"B","R",
+"evers201","Everett","Stephanie","Stephanie",,"Silver Spring","Maryland","USA",,,,,,,,,"R","R","5-06"
+"eynoc201","Eynon","Caitlin Jane","Caitlin","05/13/2003","Mandurah","Western Australia","Australia",,,,,,,,,"L","R",
+"eystj201","Eyster","Jordan","Jordan","2004","Royal Oak","Michigan","USA","08/02/2026",,,,,,,,"R","R",
+"falaz201","Falardeau","Zoe","Zoe","2007","Welland","Ontario","Canada",,,,,,,,,"L","R",
+"foulk001","Foulke","Keith Charles","Keith","10/19/1972","Ellsworth Air Force Base","South Dakota","USA",,,"07/26/2026",,,,,,"R","R","6-00"
+"foxxm201","Foxx","Maggie","Maggie","12/01/2005","Bedford","New Hampshire","USA","08/01/2026",,,,,,,,"R","R","5-09"
+"frana201","Frank","Adelaide","Addie","2008","Oakville","Missouri","USA",,,,,,,,,"R","R","5-05"
+"geldt201","Geldenhuis","Ticara","Ticara","09/21/2001","Waterfall","New South Wales","Australia","08/02/2026",,,,,,,,"R","R","5-07"
+"giana201","Gianelloni","Amanda","Amanda","02/17/1997","New Orleans","Louisiana","USA","08/02/2026",,,,,,,,"R","R","5-08"
+"gildl201","Gilder","Elizabeth Loren","Liz","01/19/2001","Port Moody","British Columbia","Canada",,,,,,,,,"L","L","5-10"
+"greeb201","Greenwood","Elizabeth","Beth","10/19/1999","Amherst","New Hampshire","USA","08/02/2026",,,,"08/02/2026",,,,"R","R","5-06"
+"gutis201","Gutierrez","Samantha","Samantha",,"San Diego","California","USA","08/02/2026",,,,,,,,"R","R","5-03"
+"haasg201","Haas","Gabrielle","Gabrielle",,"Palm Beach Gardens","Florida","USA","08/02/2026",,,,,,,,"R","R",
+"hastg201","Hastings","Genevieve","Genevieve",,"Billings","Montana","USA",,,,,,,,,"R","R","5-05"
+"hastl201","Hastings","Lexi","Lexi",,"Holly Springs","North Carolina","USA","08/02/2026",,,,,,,,"L","L","5-07"
+"henlj601","Henley","Jackson","Jackson",,,,,,,,,"08/01/2026",,,,,,
+"henlr601","Henley","Rachelle McCann","Rocky","01/24/1969","San Francisco","California","USA",,,"07/26/2026",,,,,,"R","R","5-06"
+"hernl201","Hernandez","Luisa","Luisa","1991","Lagos de Moreno","Jalisco","Mexico",,,,,,,,,"R","R",
+"hiral201","Hirai","Laura","Laura","09/30/1999","London",,"United Kingdom",,,,,,,,,"L","R","5-01"
+"honda201","Hondras","Amira Jai","Amira","05/27/2008","Chicago","Illinois","USA","08/01/2026",,,,,,,,"R","R","5-04"
+"hopks201","Hopkins","Alexis","Scrappy","06/11/1998","Fort Walton Beach","Florida","USA",,,,,,,,,"R","R",
+"houkm201","Houk","Meaghan Amanda","Meaghan","02/19/2003","Ravena","New York","USA",,,,,,,,,"R","R","5-09"
+"huffm201","Huff","McKenna Chase","McKenna",,"Fairfax","Virginia","USA",,,,,,,,,"R","R","5-07"
+"ibard201","Ibarra","Diana (Munoz)","Diana","12/28/1999","Tepatitlan","Jalisco","Mexico","08/01/2026",,,,,,,,"R","R","5-09"
+"inglj601","Inglin","Jeffrey","Jeff","10/08/1975","Petaluma","California","Mexico",,,,,"08/02/2026",,,,"R","R","5-11"
+"ingrk201","Ingram","Kiley","Kiley","2007","Ontario","California","USA",,,,,,,,,"R","R","5-06"
+"izumk201","Izumi","Keira","Keira","10/08/2006","San Diego","California","USA","08/01/2026",,,,,,,,"R","R",
+"jorga201","Jorge","Alexia Marie Theresa","Alexia","08/17/2003","Lyndhurst","New Jersey","USA","08/02/2026",,,,,,,,"R","R","5-05"
+"kajik201","Kajitani","Kaelei","Kaelei","2004","Madera","California","USA",,,,,,,,,"L","L",
+"kapls201","Kaplan","Skylar","Skylar",,"Glen Burnie","Maryland","USA","08/02/2026",,,,,,,,"L","R","5-06"
+"kim-h201","Kim","Hyeon-ah","Hyeonah","06/24/2000","Seoul",,"South Korea","08/02/2026",,,,,,,,"R","R","5-06"
+"kim-r201","Kim","Rak-yung","Rakyung","11/04/2000","Namyangju","Gyeonggi","South Korea","08/01/2026",,,,,,,,"R","R","5-05"
+"kladj201","Kladko","Juliette","Juliette","08/21/2003","Vancouver","British Columbia","Canada",,,,,,,,,"L","L","5-11"
+"lacea201","Lacey","Allison","Allie",,"La Crescenta","California","USA",,,,,,,,,"R","R","5-06"
+"lahnk201","Lahners","Kylee Suzanne","Kylee","02/02/1993","Pinehurst","North Carolina","USA","08/01/2026",,,,,,,,"R","R","5-08"
+"lansa201","Lansdell","Ashton Grace","Ashton","02/22/2001","Marietta","Georgia","USA","08/01/2026",,,,,,,,"R","R","5-08"
+"larks001","Larkin","Stephen Karari","Stephen","07/24/1973","Cincinnati","Ohio","USA",,,,,"08/01/2026",,,,"L","L","6-00"
+"lebla201","Leblanc","Andreanne","Andreanne","08/06/2001","Mont-Saint-Hilaire","Quebec","Canada","08/02/2026",,,,,,,,"B","R","5-06"
+"lee-j201","Lee","Jaida Marie Maclaren","Jaida","01/01/2006","St. John's","Newfoundland","Canada","08/01/2026",,,,,,,,"R","R","5-10"
+"leguj201","Leguizamon","Joely Isabel","Joely","07/17/1999","Jacksonville","Florida","USA","08/02/2026",,,,,,,,"R","R","5-05"
+"mackj201","Mackay","Jamie","Jamie","04/28/2003","Laguna Beach","California","USA","08/01/2026",,,,,,,,"R","R","5-10"
+"maxit201","Maximiliana","Thaima","Thaima","10/01/2007","Willemstad",,"Curacao","08/01/2026",,,,,,,,"R","R","5-07"
+"mayem201","Mayeux","Melissa","Melissa","11/02/1998","Louviers","Normandy","France",,,,,,,,,"R","R","5-08"
+"mccua201","McCullough","Arwen","Arwen",,"Livermore","California","USA",,,,,,,,,"R","R",
+"meidm201","Meidlinger","Megan Elizabeth","Meggie","11/09/1987","Sterling","Virginia","USA","08/01/2026",,,,,,,,"R","R","6-02"
+"minnm201","Minner","Micaela","Micaela","08/19/1985","Akron","Ohio","USA",,,,,,,,,"L","L","5-05"
+"moora201","Moore","Abigail","Abigail",,"Arlington","Texas","USA",,,,,,,,,"R","R",
+"morel201","Moreno","Luciana","Luciana","09/06/2006","Sun Prairie","Wisconsin","USA",,,,,,,,,"R","R",
+"murpk201","Murphy","Katherine","Katherine","10/16/2006","Belmont","Massachusetts","USA","08/01/2026",,,,,,,,"R","R",
+"naras201","Narasaki","Suzu","Suzu","05/17/1999","Hannan","Osaka","Japan",,,,,,,,,"R","R","5-02"
+"obitr201","Obitsu","Rio","Rio","05/11/2002","Saitama","Saitama","Japan",,,,,,,,,"R","R",
+"oneim201","O'Neill","Mary Grace","Mary Grace",,"Pleasantville","New York","USA",,,,,,,,,"L","L","5-04"
+"osulc201","O'Sullivan","Claire Lesley","Claire","02/13/1995","Maroubra","New South Wales","Australia","08/01/2026",,,,,,,,"R","R","5-08"
+"osule201","O'Sullivan","Elodie Nona","Elodie","07/29/1993","Perth","Western Australia","Australia",,,,,,,,,"R","R",
+"paddm201","Paddison","Molly Cate","Molly","10/05/2007","Pullenvale","Queensland","Australia","08/02/2026",,,,,,,,"L","L","5-09"
+"padgr201","Padgham","Raine Feria","Raine","07/19/2005","Abbotsford","British Columbia","Canada","08/02/2026",,,,,,,,"R","R","5-04"
+"parkj201","Park","Ju-a","Jua","12/02/2004","Hadong","Gyeongnam","South Korea","08/02/2026",,,,,,,,"R","R","5-05"
+"parks201","Park","Min-seo","Minseo",,"Seoul",,"South Korea",,,,,,,,,,,
+"perev201","Perez","Valerie","Valerie","08/12/1991","Corpus Christi","Texas","USA","08/01/2026",,,,,,,,"R","R","5-06"
+"ramin201","Ramirez","Nylah Lucia","Nylah","05/21/1997","Brooklyn","New York","USA",,,,,,,,,"R","R","5-10"
+"reynj201","Reynolds","Jacqueline","Jacqui","03/09/1994","Woburn","Massachusetts","USA","08/01/2026",,,,,,,,"R","R",
+"reynk201","Reynolds","Katie","Katie",,"Watertown","Massachusetts","USA",,,,,,,,,"L","R",
+"ricec201","Rice","Clara","Clara","06/06/2005",,,"USA",,,,,,,,,"R","R","5-07"
+"rivea201","Rivera","Angelis Enid (Ramos)","Angelis","2000","Juncos",,"Puerto Rico",,,,,,,,,"B","R",
+"riven201","Rivera-Moats","Nicole","Nicole","02/27/1989","Lakeside","California","USA",,,,,,,,,"L","R","5-04"
+"robis201","Robinson","Sabrina","Sabrina",,"Morristown","New Jersey","USA","08/02/2026",,,,,,,,"R","R",
+"rochm201","Roche","Michelle Maxine","Michelle","08/18/2005","Burnaby","British Columbia","Canada","08/01/2026",,,,,,,,"R","R","5-07"
+"saike201","Saiki","Emi","Emi","08/13/2001","Takamatsu","Kagawa","Japan",,,,,,,,,"L","R","5-05"
+"satoa201","Sato",Ayami,"Ayami","12/21/1989","Tokorozawa","Saitama","Japan","08/01/2026",,,,,,,,"R","R","5-05"
+"schig201","Schiano","Gisella","Gigi",,"Berrysburg","Pennsylvania","USA","08/02/2026",,,,,,,,"R","R",
+"schra201","Schroder","Allison Paige","Alli","04/25/2002","Fruitvale","British Columbia","Canada","08/02/2026",,,,,,,,"R","R","5-05"
+"segoe201","Segovia","Liliana Esthela (Arredondo)","Esthela",,"Tijuana","Baja California","Mexico",,,,,,,,,"R","R",
+"shima201","Shimano","Ayuri","Ayuri","02/20/2004","Osaka","Osaka","Japan",,,,,,,,,"L","R","5-04"
+"studl201","Studer","London","London","06/30/2006","Gahanna","Ohio","USA","08/01/2026",,,,,,,,"L","L",
+"unges601","Unger","Samantha","Sam",,,,,,,,,"08/02/2026",,,,,,
+"valea201","Valenzuela","Angela (Quintero)","Angela","05/08/2006","Phoenix","Arizona","USA",,,,,,,,,"R","R",
+"valef201","Valerio Montoya","Flor Elena","Flor Elena","12/06/2002","Tijuana","Baja California","Mexico",,,,,,,,,"R","R",
+"valem201","Valenzuela","Maria Jose (Gutierrez)","Maria Jose","07/30/1997","Hermosillo","Sonora","Mexico",,,,,,,,,"R","R",
+"villi201","Villarreal","Isabella","Isabella","07/30/2006","Newport","Michigan","USA","08/01/2026",,,,,,,,"R","R",
+"weekj001","Weeks","Jemile Nykiwa","Jemile","01/26/1987","Orlando","Florida","USA",,,,,"08/01/2026",,,,"B","R","5-09"
+"whitk201","Whitmore","Kelsie Ann-Gamboa","Kelsie","07/05/1998","San Diego","California","USA","08/02/2026",,,,,,,,"R","R","5-06"
+"wilkc201","Wilken","Celicia","Celicia","01/19/1992","Austin","Texas","USA",,,,,,,,,"L","L",
+"willm003","Williams","Matthew Derrick","Matt","11/28/1965","Bishop","California","USA",,,"07/26/2026",,,,,,"R","R","6-02"
+"willm201","Willan","Madison Grace","Madison","02/07/2001","Edmonton","Alberta","Canada","08/01/2026",,,,,,,,"R","R","5-02"
+"womab201","Womack","Britanny","Brittany","07/22/1988","San Diego","California","USA",,,,,,,,,"L","R",
+"yamaa201","Yamamoto","Ayaka","Ayaka",,"Fukuyama","Hiroshima","Japan",,,,,,,,,"R","R",
+"yamas201","Yamamoto","Suzuka","Suzuka","07/03/1999","Takarazuka","Hyogo","Japan",,,,,,,,,"L","R","5-00"
+"yonen201","Yonetani","Natsuki","Natsuki","08/08/2001","Saitama","Saitama","Japan","08/01/2026",,,,,,,,"R","R",
+"youne001","Young","Eric Orlando Sr.","Eric","05/18/1967","New Brunswick","New Jersey","USA",,,"07/26/2026",,,,,,"R","R","5-09"
+"zetta201","Zettlemoyer","Alyssa","Alyssa","03/28/2007","Murrieta","California","USA","08/01/2026",,,,,,,,"R","R","5-04"
+"zieba201","Ziebart","Adelaide","Addie","02/24/2004","Saskatoon","Saskatchewan","Canada",,,,,,,,,"L","R","5-04"
+"zions201","Zion","Sadie","Sadie",,"Danbury","Connecticut","USA",,,,,,,,,"L","L",
