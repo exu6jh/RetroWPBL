@@ -20,13 +20,13 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "bryad201","Bryant","Denver Amber","Denver","07/12/2002","Albany","Georgia","USA","08/02/2026",,,,,,,,"R","R","5-06"
 "chare601","Charlesworth-Seiler","Emma","Emma",,"Golden Valley","Minnesota","USA",,,,,"08/01/2026",,,,,,
 "ciame201","Ciamarro","Elodie","Elodie",,"Mont-Saint-Hilaire","Quebec","Canada","08/01/2026",,,,,,,,"R","R",
-"corip201","Coria","Peyton","Peyton","10/30/2006","Perris","California","USA",,,,,,,,,"R","R","5-03"
+"corip201","Coria","Peyton","Peyton","10/30/2006","Perris","California","USA","08/07/2026",,,,,,,,"R","R","5-03"
 "cornl201","Cornish","Leah Lorraine Ai Han","Leah","03/08/2007","Perth","Western Australia","Australia",,,,,,,,,"R","R",
 "cortm201","Cortez","Milanyela Egilda (Urquiola)","Milanyela","03/13/1998","Barquisimeto","Lara","Venezuela",,,,,,,,,"R","R",
 "curtt201","Curtis","Trinity","Trinity","05/18/2001","Oakhurst","California","USA",,,,,,,,,"R","R",
 "davim201","Davis","Mo'ne Ikea","Mo'ne","06/24/2001","Philadelphia","Pennsylvania","USA","08/01/2026",,,,,,,,"R","R","5-05"
 "daybe201","Day-Bedard","Ela Zoe Mini","Ela","03/07/2005","Gatineau","Quebec","Canada","08/02/2026",,,,,,,,"R","R","5-04"
-"delcr201","Del Castillo","Rosa Maria (Alarcon)","Rosi","08/13/1997","Puebla","Puebla","Mexico",,,,,,,,,"R","R","5-06"
+"delcr201","Del Castillo","Rosa Maria (Alarcon)","Rosi","08/13/1997","Puebla","Puebla","Mexico",08/07/2026,,,,,,,,"R","R","5-06"
 "delee201","De Leija","Edith Elena (Sanchez)","Edith","04/13/2002","Aldama","Tamaulipas","Mexico","08/02/2026",,,,,,,,"R","L",
 "dew-k601","Dew","Karavin","Karavin","06/25/1991","Calhoun","Georgia","USA",,,,,"08/02/2026",,,,"R","R","5-05"
 "diazn201","Diaz","Nadia","Nadia","07/15/2000","Cicero","New York","USA",,,,,,,,,"R","R",
@@ -38,7 +38,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "erwim201","Erwin","Maddison Elizabeth","Maddison","06/11/2002","Canberra","Australian Capital Territory","Australia",,,,,,,,,"R","R","5-05"
 "espib201","Espinoza-Molina","Bella","Bella","10/21/2002","Ladera Ranch","California","USA",,,,,,,,,"B","R",
 "evers201","Everett","Stephanie","Stephanie",,"Silver Spring","Maryland","USA",,,,,,,,,"R","R","5-06"
-"eynoc201","Eynon","Caitlin Jane","Caitlin","05/13/2003","Mandurah","Western Australia","Australia",,,,,,,,,"L","R",
+"eynoc201","Eynon","Caitlin Jane","Caitlin","05/13/2003","Mandurah","Western Australia","Australia",08/05/2026,,,,,,,,"L","R",
 "eystj201","Eyster","Jordan","Jordan","2004","Royal Oak","Michigan","USA","08/02/2026",,,,,,,,"R","R",
 "falaz201","Falardeau","Zoe","Zoe","2007","Welland","Ontario","Canada",,,,,,,,,"L","R",
 "foulk001","Foulke","Keith Charles","Keith","10/19/1972","Ellsworth Air Force Base","South Dakota","USA",,,"07/26/2026",,,,,,"R","R","6-00"
@@ -46,9 +46,9 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "frana201","Frank","Adelaide","Addie","2008","Oakville","Missouri","USA",,,,,,,,,"R","R","5-05"
 "geldt201","Geldenhuis","Ticara","Ticara","09/21/2001","Waterfall","New South Wales","Australia","08/02/2026",,,,,,,,"R","R","5-07"
 "giana201","Gianelloni","Amanda","Amanda","02/17/1997","New Orleans","Louisiana","USA","08/02/2026",,,,,,,,"R","R","5-08"
-"gildl201","Gilder","Elizabeth Loren","Liz","01/19/2001","Port Moody","British Columbia","Canada",,,,,,,,,"L","L","5-10"
+"gildl201","Gilder","Elizabeth Loren","Liz","01/19/2001","Port Moody","British Columbia","Canada","08/06/2026",,,,,,,,"L","L","5-10"
 "greeb201","Greenwood","Elizabeth","Beth","10/19/1999","Amherst","New Hampshire","USA","08/02/2026",,,,"08/02/2026",,,,"R","R","5-06"
-"gutis201","Gutierrez","Samantha","Samantha",,"San Diego","California","USA","08/02/2026",,,,,,,,"R","R","5-03"
+"gutis201","Gutierrez","Samantha","Samantha",,"San Diego","California","USA","08/06/2026",,,,,,,,"R","R","5-03"
 "haasg201","Haas","Gabrielle","Gabrielle",,"Palm Beach Gardens","Florida","USA","08/02/2026",,,,,,,,"R","R",
 "hastg201","Hastings","Genevieve","Genevieve",,"Billings","Montana","USA",,,,,,,,,"R","R","5-05"
 "hastl201","Hastings","Lexi","Lexi",,"Holly Springs","North Carolina","USA","08/02/2026",,,,,,,,"L","L","5-07"
@@ -90,7 +90,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "naras201","Narasaki","Suzu","Suzu","05/17/1999","Hannan","Osaka","Japan",,,,,,,,,"R","R","5-02"
 "obitr201","Obitsu","Rio","Rio","05/11/2002","Saitama","Saitama","Japan",,,,,,,,,"R","R",
 "oneim201","O'Neill","Mary Grace","Mary Grace",,"Pleasantville","New York","USA",,,,,,,,,"L","L","5-04"
-"osulc201","O'Sullivan","Claire Lesley","Claire","02/13/1995","Maroubra","New South Wales","Australia","08/01/2026",,,,,,,,"R","R","5-08"
+"osulc201","O'Sullivan","Claire Lesley","Claire","02/13/1995","Maroubra","New South Wales","Australia",,,,,,,,,"R","R","5-08"
 "osule201","O'Sullivan","Elodie Nona","Elodie","07/29/1993","Perth","Western Australia","Australia",,,,,,,,,"R","R",
 "paddm201","Paddison","Molly Cate","Molly","10/05/2007","Pullenvale","Queensland","Australia","08/02/2026",,,,,,,,"L","L","5-09"
 "padgr201","Padgham","Raine Feria","Raine","07/19/2005","Abbotsford","British Columbia","Canada","08/02/2026",,,,,,,,"R","R","5-04"

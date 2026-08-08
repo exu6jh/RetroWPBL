@@ -1,0 +1,166 @@
+id,SFF202608060
+info,visteam,NYH
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/08/06
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,(none)
+info,ump1b,(none)
+info,ump2b,(none)
+info,ump3b,(none)
+info,temp,77
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,sunny
+info,timeofgame,180
+info,attendance,0
+info,wp,lee-j201
+info,lp,gildl201
+info,save,
+start,perev201,"Valerie Perez",0,1,6
+start,yonen201,"Natsuki Yonetani",0,2,9
+start,benid201,"Denae Benites",0,3,2
+start,lahnk201,"Kylee Lahners",0,4,10
+start,ibard201,"Diana Ibarra",0,5,7
+start,kim-r201,"Rakyung Kim",0,6,3
+start,izumk201,"Keira Izumi",0,7,4
+start,zetta201,"Alyssa Zettlemoyer",0,8,5
+start,ecclc201,"Claire Eccles",0,9,8
+start,lee-j201,"Jaida Lee",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,10
+start,albaj201,"Jill Albayati",1,3,7
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,jorga201,"Alexia Jorge",1,5,2
+start,daybe201,"Ela Day-Bedard",1,6,8
+start,kapls201,"Skylar Kaplan",1,7,9
+start,leguj201,"Joely Leguizamon",1,8,6
+start,parkj201,"Jua Park",1,9,5
+start,gildl201,"Liz Gilder",1,0,1
+com,"HP umpire and base path umpire present; I was unable to find their names"
+play,1,0,perev201,10,BX,63/G
+play,1,0,yonen201,10,BX,S6
+play,1,0,benid201,21,1BBFS,WP.1-2
+play,1,0,benid201,22,1BBFS.X,9/F
+play,1,0,lahnk201,21,BCBX,4/P
+play,1,1,giana201,12,BFFX,8/F
+play,1,1,whitk201,21,CBBX,63/G
+play,1,1,albaj201,00,X,63/G
+play,2,0,ibard201,10,BX,6/P
+play,2,0,kim-r201,22,BCCBX,63/G
+com,"$Out on the tag application by Leblanc"
+play,2,0,izumk201,02,CCX,S7/L
+play,2,0,zetta201,20,BBX,S7/G.1-2
+play,2,0,ecclc201,11,BCX,6/P
+play,2,1,lebla201,12,BSCX,S8/G
+play,2,1,jorga201,11,CBX,FC5/G/FO.1X2(54);B-1
+play,2,1,daybe201,00,X,FC1/BG/SH.1X2(E1/TH);B-1
+play,2,1,kapls201,31,BB2FBB,W.2-3;1-2
+play,2,1,leguj201,00,B,WP.3-H(UR);2-3;1-2
+play,2,1,leguj201,12,B.FCS,K
+play,2,1,parkj201,11,CBX,53/G
+play,3,0,perev201,31,BBBCX,E5/TH1/G
+com,"$Offline throw caught along the basepath; Perez evaded the attempted tag application by Leblanc"
+play,3,0,yonen201,12,BCCX,S6/G.1-2
+play,3,0,benid201,30,BBBX,S7/F.2-H(UR);1-2
+play,3,0,lahnk201,22,CBCBB,WP.2-3;1-2
+play,3,0,lahnk201,32,CBCBB.FX,S7/G.3-H;2-H;B-2
+play,3,0,ibard201,12,CBCFS,K
+play,3,0,kim-r201,12,CCFBS,K.BX1(2)
+play,3,0,izumk201,22,CBBCX,S8/L.2-3
+sub,parkj201,"Jua Park",1,9,1
+sub,gutis201,"Samantha Gutierrez",1,2,5
+play,3,0,zetta201,30,BBBB,W.1-2
+play,3,0,ecclc201,22,CBBFFX,13/G
+play,3,1,giana201,32,BCFFBFFBB,W
+play,3,1,gutis201,10,BX,6(1)3/GDP
+play,3,1,albaj201,11,BCX,D8/L
+play,3,1,lebla201,31,BBCBX,63/G
+play,4,0,perev201,32,BBBCCX,S7/L
+play,4,0,yonen201,32,BBCBFX,S8/L.1-H(E8)(UR);B-2
+com,"$Ball snuck under CF's glove; unclear why this run is unearned"
+play,4,0,benid201,00,X,S8/L.2-H
+play,4,0,lahnk201,22,BBFC>B,SB2
+play,4,0,lahnk201,32,BBFC>B.B,W
+play,4,0,ibard201,32,FFBVFBB,W.2-3;1-2
+com,"$First foul ball almost caught"
+play,4,0,kim-r201,32,BBCFBX,FC1/G.3XH(12);2-3;1-2;B-1
+play,4,0,izumk201,32,CBCBBFB,W.3-H;2-3;1-2
+com,"$Last ball hit Izumi on the elbow, but this was explicitly ruled a ball rather than an HBP by HP umpire, likely due to Izumi's lack of attempt to not get hit"
+sub,daybe201,"Ela Day-Bedard",1,6,1
+sub,parkj201,"Jua Park",1,9,8
+play,4,0,zetta201,12,CCBFX,8/F/SF.3-H
+play,4,0,ecclc201,00,X,8/F
+play,4,1,jorga201,21,BSBX,S8/F
+com,"$CF might have lost ball in the lights, awkward route"
+play,4,1,daybe201,21,CBB+1>B,SB2
+play,4,1,daybe201,32,CBB+1>B.FH,HP
+play,4,1,kapls201,22,CBCFB,6/L
+com,"$Leaping catch, ball dislodged after fall but catch confirmed"
+play,4,1,leguj201,02,SCH,HP.2-3;1-2
+com,"$Hit in the helmet, stayed in the game"
+play,4,1,parkj201,21,BBCX,FC4/G.3-H(UR);2-3;1X2(E4)
+com,"$2B fumbled but SS also failed to get her foot on the bag preventing forceout"
+play,4,1,giana201,12,CBCX,23/G.3-H;(UR)2-3;1-2
+play,4,1,gutis201,12,BCFFFFX,63/G
+play,5,0,perev201,00,X,9/L
+play,5,0,yonen201,00,X,D7/L
+play,5,0,benid201,32,BBFSBX,S7/L.2-3
+play,5,0,lahnk201,00,>B,SB2
+play,5,0,lahnk201,10,>B.X,63/G
+play,5,0,ibard201,32,FBSBFFBX,S7/L.3-H;2-H;B-2
+play,5,0,kim-r201,00,X,63/G
+play,5,1,albaj201,31,BBBCX,9/F
+play,5,1,lebla201,31,BBBCX,S9/G
+play,5,1,jorga201,02,CCS,K
+play,5,1,daybe201,12,CBCS,K
+com,"$Ball hit right forearm during checked strikeout swing, ruled swinging strikeout"
+play,6,0,izumk201,02,CCX,HR/F7D
+play,6,0,zetta201,00,H,HP
+play,6,0,ecclc201,11,CBX,8/F
+play,6,0,perev201,20,BBX,FC8/F.1X2(84);B-1
+com,"$CF dropped catch possibly due to lights, got the force at first"
+play,6,0,yonen201,00,H,HP.1-2
+play,6,0,benid201,10,BX,HR/F8D.2-H;1-H
+play,6,0,lahnk201,32,BFCBBFB,W
+play,6,0,ibard201,21,BCBX,7/F
+sub,studl201,"London Studer",0,0,1
+play,6,1,kapls201,11,FBX,DGR9/L
+play,6,1,leguj201,21,BCBX,8/F.2-3
+play,6,1,parkj201,31,BSBBB,W
+com,"$Leaping block for second ball"
+play,6,1,giana201,32,BBFFBB,W.1-2
+com,"$Second foul ball almost caught at very edge of netting"
+play,6,1,gutis201,00,B,WP.3-H;2-3;1-2
+play,6,1,gutis201,41,B.BBBCB,W
+com,"$Pitch count mistake(!)"
+play,6,1,albaj201,21,BBCX,D8/L.3-H;2-H;1-3
+sub,izumk201,"Keira Izumi",0,7,1
+sub,willm201,"Madison Willan",0,4,4
+play,6,1,lebla201,10,BX,S8/L.3-H;2-H
+play,6,1,jorga201,02,FCFB,WP.1-2
+play,6,1,jorga201,22,FCFB.BX,8/F
+sub,eystj201,"Jordan Eyster",1,6,11
+play,6,1,eystj201,01,SX,9/F
+sub,lebla201,"Andreanne Leblanc",1,4,1
+sub,albaj201,"Jill Albayati",1,3,3
+sub,eystj201,"Jordan Eyster",1,6,7
+play,7,0,kim-r201,32,BBCFBB,W
+play,7,0,izumk201,22,CBBFFC,K/C
+play,7,0,zetta201,22,CBCB1,POCS2(13)
+play,7,0,zetta201,32,CBCB1.BX,7/F
+play,7,1,kapls201,00,X,6/P
+play,7,1,leguj201,12,CFBX,63/G
+play,7,1,parkj201,32,BFCBBX,8/F
+data,er,lee-j201,0
+data,er,studl201,5
+data,er,izumk201,0
+data,er,gildl201,2
+data,er,parkj201,3
+data,er,daybe201,6
+data,er,lebla201,0
