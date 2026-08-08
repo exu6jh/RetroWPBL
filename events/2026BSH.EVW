@@ -1,0 +1,159 @@
+id,BSH202608020
+info,visteam,SFF
+info,hometeam,BSH
+info,site,SPR03
+info,date,2026/08/02
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,mckej701
+info,ump1b,dinek701
+info,ump2b,(none)
+info,ump3b,(none)
+info,temp,78
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,sunny
+info,timeofgame,149
+info,attendance,0
+info,wp,whitk201
+info,lp,padgr201
+info,save,
+start,giana201,"Amanda Gianelloni",0,1,4
+start,whitk201,"Kelsie Whitmore",0,2,1
+start,albaj201,"Jill Albayati",0,3,7
+start,lebla201,"Andreanne Leblanc",0,4,3
+start,jorga201,"Alexia Jorge",0,5,2
+start,daybe201,"Ela Day-Bedard",0,6,8
+start,kapls201,"Skylar Kaplan",0,7,9
+start,leguj201,"Joely Leguizamon",0,8,6
+start,parkj201,"Jua Park",0,9,5
+start,blunk201,"Kate Blunt",1,1,4
+start,delee201,"Edith De Leija",1,2,6
+start,padgr201,"Raine Padgham",1,3,1
+start,kim-h201,"Hyeonah Kim",1,4,9
+start,geldt201,"Ticara Geldenhuis",1,5,7
+start,schra201,"Alli Schroder",1,6,3
+start,bryad201,"Denver Bryant",1,7,5
+start,greeb201,"Beth Greenwood",1,8,2
+start,haasg201,"Gabriella Haas",1,9,8
+com,"Temperature is based on Springfield, IL temperature at time of game"
+play,1,0,giana201,12,CFBS,K
+play,1,0,whitk201,00,X,53/G
+play,1,0,albaj201,10,BX,D9/F
+play,1,0,lebla201,21,BBFX,S9/F.2-H
+play,1,0,jorga201,11,CBX,53/G
+play,1,1,blunk201,22,CFBBX,43/G
+play,1,1,delee201,22,FBCBX,43/G
+play,1,1,padgr201,22,CBCBX,7/F
+play,2,0,daybe201,31,BBBCB,W
+play,2,0,kapls201,00,X,D9/G.1-3
+com,"$Past the dive of Leblanc"
+play,2,0,leguj201,22,BBCFX,53/G
+play,2,0,parkj201,22,CCX,S7/L.3-H;2-3
+play,2,0,giana201,00,X,S7/L.3-H;1-2
+play,2,0,whitk201,22,CBBSX,8/F
+play,2,0,albaj201,32,BBCFFBC,K/C
+play,2,1,kim-h201,22,FBBCBB,W
+play,2,1,geldt201,31,CBB+1BB,W.1-2
+play,2,1,schra201,12,CCBS,K
+com,"$Strikeout may have been dropped, but ruled catch so no throw down"
+play,2,1,bryad201,11,CBX,FC4/G.2-H(UR);1X2(4);B-2(E4/TH)
+com,"$Out was on the tag application before errant throw"
+play,2,1,greeb201,01,C>B,SB3
+play,2,1,greeb201,22,C>B.BFX,63/G
+play,3,0,lebla201,30,BBBB,W
+play,3,0,jorga201,10,BH,HP.1-2
+play,3,0,daybe201,10,BX,S8/G.2-3;1-2
+play,3,0,kapls201,32,CBFBFBB,W.3-H;2-3;1-2
+play,3,0,leguj201,02,CFX,D7/L.3-H;2-H;1-3
+play,3,0,parkj201,11,BCX,D8/F.3-H;2-3
+com,"$Ball deflected off of the running CF, runner at 2nd held for possible catch"
+play,3,0,giana201,00,X,S5/G.3-H;2-3
+com,"$3B made good diving stop but bouncing throw was offline, runner at 3B beat the tag"
+play,3,0,whitk201,10,BX,7/F/SF.3-H
+play,3,0,albaj201,32,BBBCFC,K/C
+play,3,0,lebla201,10,B>C,SB2
+com,"$Throw to 2nd sailed well over but runner held"
+play,3,0,lebla201,11,B>C.H,HP
+sub,dumam201,"Maika Dumais",1,3,1
+play,3,0,jorga201,32,BCBBCFX,S9/L.2-H;1-3
+play,3,0,daybe201,00,H,HP.1-2
+play,3,0,kapls201,10,BX,7/F
+play,3,1,haasg201,00,X,9/F
+play,3,1,blunk201,01,CX,8/F
+play,3,1,delee201,32,BFSBBX,S9/L
+play,3,1,dumam201,31,BCBB1X,9/F
+play,4,0,leguj201,10,BX,S8/F
+play,4,0,parkj201,31,1BBBCX,8/F
+com,"$Stellar diving catch by Haas; runner was past second but bobble on relay to 2B prevented DP"
+play,4,0,giana201,32,BBBCFX,S7/G.1-2
+play,4,0,whitk201,31,BSBBX,14(1)3/GDP
+sub,ecken201,"Niki Eckert",0,6,1
+sub,whitk201,"Kelsie Whitmore",0,2,8
+play,4,1,kim-h201,12,CBFX,E6/TH1/G
+play,4,1,geldt201,02,CFFFX,D7/L.1-3
+play,4,1,schra201,02,FSS,K.BX1(23)
+play,4,1,bryad201,00,N,BK.3-H(UR);2-3
+play,4,1,bryad201,32,N.FBSFBBS,K
+play,4,1,greeb201,31,BBFBN,BK.3-H(UR)
+play,4,1,greeb201,32,BBFBN.SB,W
+play,4,1,haasg201,22,BCSBC,K/C
+com,"Kim to catcher some point before this inning, possibly Greenwood in RF? It is not recorded on official PBP and broadcast graphics continued using erroneous positions, although commentators explicitly mention new catcher"
+play,5,0,albaj201,32,BBCBCX,8/L
+play,5,0,lebla201,32,CBCFBBFFB,W
+play,5,0,jorga201,02,FCX,S9/F.1-3;BX2(946)
+sub,eystj201,"Jordan Eyster",0,6,11
+play,5,0,eystj201,01,SX,9/F
+sub,ecken201,"Niki Eckert",0,9,1
+sub,eystj201,"Jordan Eyster",0,6,5
+com,"My guess at subs, official ones appear to be wrong"
+play,5,1,blunk201,30,BBBB,W
+play,5,1,delee201,12,BC1CX,E1/G.1-2
+sub,paddm201,"Molly Paddison",1,3,11
+play,5,1,paddm201,12,CBCFBC,K/C
+play,5,1,kim-h201,12,BCSX,53/G.2-3;1-2
+sub,hastl201,"Lexi Hastings",1,5,11
+play,5,1,hastl201,00,H,HP
+play,5,1,schra201,00,X,FC4/G.1X2(46)
+sub,schra201,"Alli Schroder",1,6,1
+sub,robis201,"Sabrina Robinson",1,3,3
+sub,hastl201,"Lexi Hastings",1,5,7
+play,6,0,kapls201,10,BX,S8/L
+play,6,0,leguj201,20,BBX,FC5/G.1X2(54);B-1
+play,6,0,ecken201,32,SBCBFBB,W.1-2
+com,"Park credited with PA in official PBP despite Eckert batting, likely due to sub errors"
+play,6,0,giana201,21,FBB>B,SB3;SB2
+com,"$Bryant appears to have attempted to fake an overthrow at 3B but runner did not attempt to move"
+play,6,0,giana201,32,FBB>B.FFX,53/G.3-H
+com,"$Bryant fumbled the ball but made a quick spin and toss; Robinson made a great nab doing the splits"
+play,6,0,whitk201,32,BCBSBB,W
+play,6,0,albaj201,00,X,9/L
+sub,albaj201,"Jill Albayati",0,3,1
+sub,eystj201,"Jordan Eyster",0,6,7
+sub,ecken201,"Niki Eckert",0,9,5
+com,"Once again a guess, particularly for Eckert"
+play,6,1,bryad201,32,BSFBBFC,K/C
+play,6,1,greeb201,12,CCBX,13/G
+com,"Play itself missing from video"
+play,6,1,haasg201,21,FBBX,163/G
+com,"$Deflected off pitcher's glove"
+sub,"schig201","Gigi Schiano",1,6,1
+play,7,0,lebla201,12,BCCX,7/F
+play,7,0,jorga201,20,BBX,S8/L
+play,7,0,eystj201,12,S1CB>B,SB2
+play,7,0,eystj201,32,S1CB>B.BC,K/C
+play,7,0,kapls201,10,BX,7/F
+play,7,1,blunk201,21,BBSX,7/L
+play,7,1,delee201,31,CBBBX,3/G
+play,7,1,robis201,20,BBX,6/P
+data,er,whitk201,0
+data,er,ecken201,0
+data,er,albaj201,0
+data,er,padgr201,10
+data,er,dumam201,0
+data,er,schra201,1
+data,er,schig201,0

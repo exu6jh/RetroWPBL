@@ -14,7 +14,6 @@ info,ump2b,(none)
 info,ump3b,(none)
 info,temp,72
 info,winddir,ltor
-info,windspeed,
 info,fieldcond,wet
 info,precip,drizzle
 info,sky,overcast
@@ -46,13 +45,13 @@ start,kim-r201,"Rakyung Kim",1,0,1
 com,"$Inaugural game of the WPBL"
 com,"$Around 1:15 rain delay"
 play,1,0,davim201,01,SX,E6/G
-play,1,0,lansa201,32,BB+1BCF*B,W.1-2
+play,1,0,lansa201,32,BB+1BCFB,W.1-2
 play,1,0,mackj201,12,CFBX,9/F
 play,1,0,edwas201,32,CBCBFFFBS,K
 play,1,0,foxxm201,00,B,WP.2-3;1-2
 play,1,0,foxxm201,10,B.X,S8/L.3-H;2-H
-play,1,0,rochm201,11,C*B>B,SB2
-play,1,0,rochm201,22,C*B>B.SFC,K/C
+play,1,0,rochm201,11,CB>B,SB2
+play,1,0,rochm201,22,CB>B.SFC,K/C
 play,1,1,perev201,00,X,S8/G
 play,1,1,yonen201,11,BCX,S7/L.1-2
 play,1,1,benid201,11,BFX,S7/L.2-3;1-2
@@ -64,37 +63,37 @@ com,"PBP seems to indicate error on catcher, but advance was not shown on feed a
 play,1,1,ibard201,22,BFFBX,S7/L.3-H
 play,1,1,studl201,21,B1SBX,64(1)3/GDP
 play,2,0,honda201,20,BBX,93/G
-play,2,0,maxit201,21,BC*BX,6/P
+play,2,0,maxit201,21,BCBX,6/P
 play,2,0,benis201,31,BBFBX,9/F
-play,2,1,izumk201,32,CBFB*BX,13/G
+play,2,1,izumk201,32,CBFBBX,13/G
 play,2,1,perev201,32,CBFBFFX,8/F
 play,2,1,yonen201,22,CCFBFBX,S7/L.B-2(E7)
 com,"PBP seems to indicate error to CF, but it was LF who fielded the ball"
 play,2,1,benid201,10,BX,S8/L.2-H(UR);B-2
 play,2,1,lahnk201,02,CSX,S7/F.2-H(UR)
-play,2,1,lee-j201,22,FBC*BS,K
+play,2,1,lee-j201,22,FBCBS,K
 play,3,0,davim201,11,BCX,7/L
 play,3,0,lansa201,12,CBFS,K
 play,3,0,mackj201,02,FFX,63/G
-play,3,1,willm201,31,*B*BCBB,W
+play,3,1,willm201,31,BBCBB,W
 play,3,1,ibard201,12,CFBFX,4/P
 play,3,1,studl201,00,X,S7/G.1-2
-play,3,1,izumk201,12,*BCFX,2/P/FL
+play,3,1,izumk201,12,BCFX,2/P/FL
 play,3,1,perev201,00,X,7/F
-play,4,0,edwas201,32,CBF*BBFB,W
+play,4,0,edwas201,32,CBFBBFB,W
 play,4,0,foxxm201,11,CVB,WP.1-2
 com,"V is speculatory and needs review, otherwise missing a ball here"
 play,4,0,foxxm201,31,CVB.BB,W
 play,4,0,rochm201,02,FCX,6/P
-play,4,0,honda201,10,*BX,D9/L.2-H;1-H
-play,4,0,maxit201,22,BCB+2S*S,K.BX1(23)
-play,4,0,benis201,20,*BBB,WP.2-3
-play,4,0,benis201,30,*BBB.B,W
+play,4,0,honda201,10,BX,D9/L.2-H;1-H
+play,4,0,maxit201,22,BCB+2SS,K.BX1(23)
+play,4,0,benis201,20,BBB,WP.2-3
+play,4,0,benis201,30,BBB.B,W
 play,4,0,davim201,10,BB,WP.3-3;1-2
 play,4,0,davim201,21,BB.CX,9/F
 sub,foxxm201,"Maggie Foxx",0,5,1
 sub,maxit201,"Thaima Maximiliana",0,8,7
-play,4,1,yonen201,32,C*BSBF*BS,K
+play,4,1,yonen201,32,CBSBFBS,K
 play,4,1,benid201,22,CBFBX,HR/F8D
 play,4,1,lahnk201,32,CBBBFFB,W
 com,"Second ball not shown because of HR replay"
@@ -102,8 +101,8 @@ play,4,1,lee-j201,32,BFBFBX,53/G.1-2
 play,4,1,willm201,11,BCX,63/G
 sub,reynj201,"Jacqui Reynolds",1,0,1
 play,5,0,lansa201,22,SBBCX,43/G
-play,5,0,mackj201,30,BBB*B,W
-play,5,0,edwas201,22,BC*BFX,46(1)3/DP
+play,5,0,mackj201,30,BBBB,W
+play,5,0,edwas201,22,BCBFX,46(1)3/DP
 com,"$Defensive miscommunication prevented foul pop-up from being caught right down the 1B line"
 sub,murpk201,"Katherine Murphy",1,7,11
 play,5,1,murpk201,12,FBSX,5/L
@@ -125,16 +124,16 @@ play,6,1,perev201,01,CX,43/G
 play,6,1,yonen201,12,FBCS,K
 play,6,1,benid201,00,X,S7/G
 play,6,1,lahnk201,30,BB1B>C,SB2
-play,6,1,lahnk201,31,BB1B>C.*B,W
+play,6,1,lahnk201,31,BB1B>C.B,W
 play,6,1,lee-j201,02,CSN,BK.2-3;1-2
-play,6,1,lee-j201,12,CSN.*BC,K/C
+play,6,1,lee-j201,12,CSN.BC,K/C
 sub,zetta201,"Alyssa Zettlemoyer",1,6,5
-play,7,0,lansa201,32,CBTFB*BS,K
+play,7,0,lansa201,32,CBTFBBS,K
 play,7,0,mackj201,31,BFBBX,S5/P
 play,7,0,edwas201,12,CFBFFC,K
 com,"$Last foul ball was tipped but not held onto"
 play,7,0,meidm201,12,CCBX,S8/G.1-2
-play,7,0,rochm201,11,F*BX,S9/P.2-H;1-3
+play,7,0,rochm201,11,FBX,S9/P.2-H;1-3
 com,"First foul ball and ball in play were both almost caught, but ball movement and weather compounded defensive miscues"
 play,7,0,honda201,20,BBX,S8/L.3-H;1-2
 sub,villi201,"Isabella Villarreal",0,8,11
@@ -143,8 +142,8 @@ sub,lee-j201,"Jaida Lee",1,5,1
 sub,studl201,"London Studer",1,8,8
 sub,lahnk201,"Kylee Lahners",1,4,3
 sub,apgab201,"Britt Apgar",0,8,12
-play,7,0,benis201,22,F*BFBFB,WP.2-3
-play,7,0,benis201,32,F*BFBFB.C,K/C
+play,7,0,benis201,22,FBFBFB,WP.2-3
+play,7,0,benis201,32,FBFBFB.C,K/C
 sub,apgab201,"Britt Apgar",0,8,7
 play,7,1,zetta201,22,CBCBX,9/F
 play,7,1,murpk201,11,BCX,53/G
