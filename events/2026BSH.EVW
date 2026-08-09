@@ -18,7 +18,6 @@ info,fieldcond,dry
 info,precip,none
 info,sky,sunny
 info,timeofgame,149
-info,attendance,0
 info,wp,whitk201
 info,lp,padgr201
 info,save,
@@ -40,7 +39,6 @@ start,schra201,"Alli Schroder",1,6,3
 start,bryad201,"Denver Bryant",1,7,5
 start,greeb201,"Beth Greenwood",1,8,2
 start,haasg201,"Gabriella Haas",1,9,8
-com,"Temperature is based on Springfield, IL temperature at time of game"
 play,1,0,giana201,12,CFBS,K
 play,1,0,whitk201,00,X,53/G
 play,1,0,albaj201,10,BX,D9/F
@@ -61,8 +59,8 @@ play,2,1,kim-h201,22,FBBCBB,W
 play,2,1,geldt201,31,CBB+1BB,W.1-2
 play,2,1,schra201,12,CCBS,K
 com,"$Strikeout may have been dropped, but ruled catch so no throw down"
-play,2,1,bryad201,11,CBX,FC4/G.2-H(UR);1X2(4);B-2(E4/TH)
-com,"$Out was on the tag application before errant throw"
+play,2,1,bryad201,11,CBX,FC4/G.2-H(UR);1X2(4);B-2(E4/TH1)
+com,"$Out was on the tag application before errant throw over 1B's head"
 play,2,1,greeb201,01,C>B,SB3
 play,2,1,greeb201,22,C>B.BFX,63/G
 play,3,0,lebla201,30,BBBB,W
@@ -95,6 +93,7 @@ play,4,0,whitk201,31,BSBBX,14(1)3/GDP
 sub,ecken201,"Niki Eckert",0,6,1
 sub,whitk201,"Kelsie Whitmore",0,2,8
 play,4,1,kim-h201,12,CBFX,E6/TH1/G
+com,"$Throw went wide to 1B's right"
 play,4,1,geldt201,02,CFFFX,D7/L.1-3
 play,4,1,schra201,02,FSS,K.BX1(23)
 play,4,1,bryad201,00,N,BK.3-H(UR);2-3
@@ -113,6 +112,7 @@ sub,eystj201,"Jordan Eyster",0,6,5
 com,"My guess at subs, official ones appear to be wrong"
 play,5,1,blunk201,30,BBBB,W
 play,5,1,delee201,12,BC1CX,E1/G.1-2
+com,"$Pitcher whiffed on attempting to pick up the ball"
 sub,paddm201,"Molly Paddison",1,3,11
 play,5,1,paddm201,12,CBCFBC,K/C
 play,5,1,kim-h201,12,BCSX,53/G.2-3;1-2

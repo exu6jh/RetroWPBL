@@ -8,7 +8,7 @@ info,gametype,regular
 info,starttime,6:30PM
 info,daynight,night
 info,innings,7
-info,umphome,(none)
+info,umphome,beras701
 info,ump1b,(none)
 info,ump2b,(none)
 info,ump3b,(none)
@@ -18,7 +18,6 @@ info,fieldcond,dry
 info,precip,none
 info,sky,sunny
 info,timeofgame,180
-info,attendance,0
 info,wp,lee-j201
 info,lp,gildl201
 info,save,
@@ -42,7 +41,7 @@ start,kapls201,"Skylar Kaplan",1,7,9
 start,leguj201,"Joely Leguizamon",1,8,6
 start,parkj201,"Jua Park",1,9,5
 start,gildl201,"Liz Gilder",1,0,1
-com,"HP umpire and base path umpire present; I was unable to find their names"
+com,"I was unable to find the name of the base path umpire"
 play,1,0,perev201,10,BX,63/G
 play,1,0,yonen201,10,BX,S6
 play,1,0,benid201,21,1BBFS,WP.1-2
@@ -59,7 +58,8 @@ play,2,0,zetta201,20,BBX,S7/G.1-2
 play,2,0,ecclc201,11,BCX,6/P
 play,2,1,lebla201,12,BSCX,S8/G
 play,2,1,jorga201,11,CBX,FC5/G/FO.1X2(54);B-1
-play,2,1,daybe201,00,X,FC1/BG/SH.1X2(E1/TH);B-1
+play,2,1,daybe201,00,X,FC1/BG/SH.1X2(E1/TH2);B-1
+com,"$Throw was wide right, but 2B backed up play preventing ball from going into center field"
 play,2,1,kapls201,31,BB2FBB,W.2-3;1-2
 play,2,1,leguj201,00,B,WP.3-H(UR);2-3;1-2
 play,2,1,leguj201,12,B.FCS,K
@@ -101,7 +101,7 @@ com,"$CF might have lost ball in the lights, awkward route"
 play,4,1,daybe201,21,CBB+1>B,SB2
 play,4,1,daybe201,32,CBB+1>B.FH,HP
 play,4,1,kapls201,22,CBCFB,6/L
-com,"$Leaping catch, ball dislodged after fall but catch confirmed"
+com,"$Excellent leaping catch, ball dislodged after fall but catch confirmed"
 play,4,1,leguj201,02,SCH,HP.2-3;1-2
 com,"$Hit in the helmet, stayed in the game"
 play,4,1,parkj201,21,BBCX,FC4/G.3-H(UR);2-3;1X2(E4)
@@ -138,7 +138,7 @@ play,6,1,giana201,32,BBFFBB,W.1-2
 com,"$Second foul ball almost caught at very edge of netting"
 play,6,1,gutis201,00,B,WP.3-H;2-3;1-2
 play,6,1,gutis201,41,B.BBBCB,W
-com,"$Pitch count mistake(!)"
+com,"$Pitch count mistake(!) Five-ball walk"
 play,6,1,albaj201,21,BBCX,D8/L.3-H;2-H;1-3
 sub,izumk201,"Keira Izumi",0,7,1
 sub,willm201,"Madison Willan",0,4,4

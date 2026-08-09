@@ -1,6 +1,6 @@
 PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DEBUT,PLAY.LASTGAME,MGR.DEBUT,MGR.LASTGAME,COACH.DEBUT,COACH.LASTGAME,UMP.DEBUT,UMP.LASTGAME,BATS,THROWS,HEIGHT
 "albaj201","Albayati","Jillian Graciela","Jill","05/03/2004","Anaheim","California","USA","08/02/2026",,,,,,,,"R","R","5-06"
-"apgab201","Apgar","Brittany","Britt",,"Greensboro","North Carolina","USA","08/01/2026",,,,,,,,"R","L",
+"apgab201","Apgar","Brittany","Britt","08/08/2003","Greensboro","North Carolina","USA","08/01/2026",,,,,,,,"R","L",
 "atkic201","Atkinson","Chloe Grace","Chloe","02/09/2007","Perth","Western Australia","Australia",,,,,,,,,"R","R",
 "baira201","Baird","Addisyn","Addisyn","03/06/2008","Granger","Indiana","USA",,,,,,,,,"B","R","5-05"
 "barar201","Barajas","Rocio","Rocio",,"Puerto Vallarta","Jalisco","Mexico",,,,,,,,,"R","R",
@@ -14,6 +14,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "benid201","Benites","Denae Michelle","Denae","09/10/2001","Las Vegas","Nevada","USA","08/01/2026",,,,,,,,"R","R",
 "benis201","Benitez","Samaria","Samaria","08/30/2002","Tuxpan","Nayarit","Mexico","08/01/2026",,,,,,,,"R","R",
 "bepph201","Beppu","Hinano","Hinano","12/04/1996","Nakagawa","Fukuoka","Japan",,,,,,,,,"R","R",
+"beras701","Berardino","Steve","Steve",,"St. Louis","Missouri","USA",,,,,,,"A",,,,
 "birdb201","Birdsall","Braidy","Braidy",,"Saskatoon","Saskatchewan","Canada",,,,,,,,,"R","R","5-06"
 "blunk201","Blunt","Kate Elizabeth-Ai","Kate","04/16/2003","Ladera Ranch","California","USA","08/02/2026",,,,,,,,"R","R","5-06"
 "brico201","Bricker","Olivia","Olivia","08/23/2000","Cincinnati","Ohio","USA",,,,,,,,,"L","L","5-04"
@@ -43,7 +44,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "falaz201","Falardeau","Zoe","Zoe","2007","Welland","Ontario","Canada",,,,,,,,,"L","R",
 "foulk001","Foulke","Keith Charles","Keith","10/19/1972","Ellsworth Air Force Base","South Dakota","USA",,,"07/26/2026",,,,,,"R","R","6-00"
 "foxxm201","Foxx","Maggie","Maggie","12/01/2005","Bedford","New Hampshire","USA","08/01/2026",,,,,,,,"R","R","5-09"
-"frana201","Frank","Adelaide","Addie","2008","Oakville","Missouri","USA",,,,,,,,,"R","R","5-05"
+"frana201","Frank","Adelaide","Addie","2008","Oakville","Missouri","USA","08/05/2026",,,,,,,,"R","R","5-05"
 "geldt201","Geldenhuis","Ticara","Ticara","09/21/2001","Waterfall","New South Wales","Australia","08/02/2026",,,,,,,,"R","R","5-07"
 "giana201","Gianelloni","Amanda","Amanda","02/17/1997","New Orleans","Louisiana","USA","08/02/2026",,,,,,,,"R","R","5-08"
 "gildl201","Gilder","Elizabeth Loren","Liz","01/19/2001","Port Moody","British Columbia","Canada","08/06/2026",,,,,,,,"L","L","5-10"
