@@ -362,8 +362,8 @@ sub,osulc201,"Claire O'Sullivan",0,4,1
 play,8,1,blunk201,01,.CX,S7/L.2-3
 com,"$Kim got the wave from Karavin Dew but she stumbled and held at the bag"
 play,8,1,delee201,22,FBCBX,S9/L.3-H(UR);1X3(96);B-2
-com,"$Blunt tagged out running to third"
-play,8,1,paddm201,11,CBX,S9/?.2XH(92)
+com,"$Blunt hesitated and was tagged out running to third"
+play,8,1,paddm201,11,CBX,S9/G.2XH(932)
 com,"$De Leija similarly tagged out running home"
 play,8,1,geldt201,00,B,WP.1-2
 play,8,1,geldt201,10,B.X,63/G

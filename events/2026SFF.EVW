@@ -110,7 +110,7 @@ play,4,1,leguj201,02,SCH,HP.2-3;1-2
 com,"$Hit in the helmet, stayed in the game"
 play,4,1,parkj201,21,BBCX,FC4/G.3-H(UR);2-3;1X2(E4);B-1
 com,"$2B fumbled but SS also failed to get her foot on the bag preventing forceout"
-play,4,1,giana201,12,CBCX,23/G.3-H;(UR)2-3;1-2
+play,4,1,giana201,12,CBCX,23/G.3-H(UR);2-3;1-2
 play,4,1,gutis201,12,BCFFFFX,63/G
 play,5,0,perev201,00,X,9/L
 play,5,0,yonen201,00,X,D7/L
