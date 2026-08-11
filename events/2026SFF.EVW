@@ -9,7 +9,7 @@ info,starttime,6:30PM
 info,daynight,night
 info,innings,7
 info,umphome,beras701
-info,ump1b,(none)
+info,ump1b,delpb701
 info,ump2b,(none)
 info,ump3b,(none)
 info,temp,77
@@ -41,7 +41,6 @@ start,kapls201,"Skylar Kaplan",1,7,9
 start,leguj201,"Joely Leguizamon",1,8,6
 start,parkj201,"Jua Park",1,9,5
 start,gildl201,"Liz Gilder",1,0,1
-com,"I was unable to find the name of the base path umpire"
 play,1,0,perev201,10,BX,63/G
 play,1,0,yonen201,10,BX,S6
 play,1,0,benid201,21,1BBFS,WP.1-2
@@ -72,10 +71,13 @@ play,3,0,lahnk201,22,CBCBB,WP.2-3;1-2
 play,3,0,lahnk201,32,CBCBB.FX,S7/G.3-H;2-H;B-2
 play,3,0,ibard201,12,CBCFS,K
 play,3,0,kim-r201,12,CCFBS,K.BX1(2)
+com,"On the tag"
 play,3,0,izumk201,22,CBBCX,S8/L.2-3
+play,3,0,zetta201,00,,NP
 sub,parkj201,"Jua Park",1,9,1
+play,3,0,zetta201,00,.,NP
 sub,gutis201,"Samantha Gutierrez",1,2,5
-play,3,0,zetta201,30,BBBB,W.1-2
+play,3,0,zetta201,30,..BBBB,W.1-2
 play,3,0,ecclc201,22,CBBFFX,13/G
 play,3,1,giana201,32,BCFFBFFBB,W
 play,3,1,gutis201,10,BX,6(1)3/GDP
@@ -83,7 +85,7 @@ play,3,1,albaj201,11,BCX,D8/L
 play,3,1,lebla201,31,BBCBX,63/G
 play,4,0,perev201,32,BBBCCX,S7/L
 play,4,0,yonen201,32,BBCBFX,S8/L.1-H(E8)(UR);B-2
-com,"$Ball snuck under CF's glove; unclear why this run is unearned"
+com,"$Ball snuck under CF's glove"
 play,4,0,benid201,00,X,S8/L.2-H
 play,4,0,lahnk201,22,BBFC>B,SB2
 play,4,0,lahnk201,32,BBFC>B.B,W
@@ -92,19 +94,21 @@ com,"$First foul ball almost caught"
 play,4,0,kim-r201,32,BBCFBX,FC1/G.3XH(12);2-3;1-2;B-1
 play,4,0,izumk201,32,CBCBBFB,W.3-H;2-3;1-2
 com,"$Last ball hit Izumi on the elbow, but this was explicitly ruled a ball rather than an HBP by HP umpire, likely due to Izumi's lack of attempt to not get hit"
+play,4,0,zetta201,00,,NP
 sub,daybe201,"Ela Day-Bedard",1,6,1
+play,4,0,zetta201,00,.,NP
 sub,parkj201,"Jua Park",1,9,8
-play,4,0,zetta201,12,CCBFX,8/F/SF.3-H
+play,4,0,zetta201,12,..CCBFX,8/F/SF.3-H
 play,4,0,ecclc201,00,X,8/F
 play,4,1,jorga201,21,BSBX,S8/F
 com,"$CF might have lost ball in the lights, awkward route"
 play,4,1,daybe201,21,CBB+1>B,SB2
 play,4,1,daybe201,32,CBB+1>B.FH,HP
-play,4,1,kapls201,22,CBCFB,6/L
+play,4,1,kapls201,22,CBCFBX,6/L
 com,"$Excellent leaping catch, ball dislodged after fall but catch confirmed"
 play,4,1,leguj201,02,SCH,HP.2-3;1-2
 com,"$Hit in the helmet, stayed in the game"
-play,4,1,parkj201,21,BBCX,FC4/G.3-H(UR);2-3;1X2(E4)
+play,4,1,parkj201,21,BBCX,FC4/G.3-H(UR);2-3;1X2(E4);B-1
 com,"$2B fumbled but SS also failed to get her foot on the bag preventing forceout"
 play,4,1,giana201,12,CBCX,23/G.3-H;(UR)2-3;1-2
 play,4,1,gutis201,12,BCFFFFX,63/G
@@ -129,8 +133,10 @@ play,6,0,yonen201,00,H,HP.1-2
 play,6,0,benid201,10,BX,HR/F8D.2-H;1-H
 play,6,0,lahnk201,32,BFCBBFB,W
 play,6,0,ibard201,21,BCBX,7/F
+play,6,1,kapls201,00,,NP
 sub,studl201,"London Studer",0,0,1
-play,6,1,kapls201,11,FBX,DGR9/L
+play,6,1,kapls201,11,.FBX,DGR/L
+com,"$Bounced over the right field fence"
 play,6,1,leguj201,21,BCBX,8/F.2-3
 play,6,1,parkj201,31,BSBBB,W
 com,"$Leaping block for second ball"
@@ -140,17 +146,23 @@ play,6,1,gutis201,00,B,WP.3-H;2-3;1-2
 play,6,1,gutis201,41,B.BBBCB,W
 com,"$Pitch count mistake(!) Five-ball walk"
 play,6,1,albaj201,21,BBCX,D8/L.3-H;2-H;1-3
+play,6,1,lebla201,00,,NP
 sub,izumk201,"Keira Izumi",0,7,1
+play,6,1,lebla201,00,.,NP
 sub,willm201,"Madison Willan",0,4,4
-play,6,1,lebla201,10,BX,S8/L.3-H;2-H
+play,6,1,lebla201,10,..BX,S8/L.3-H;2-H
 play,6,1,jorga201,02,FCFB,WP.1-2
 play,6,1,jorga201,22,FCFB.BX,8/F
+play,6,1,daybe201,00,,NP
 sub,eystj201,"Jordan Eyster",1,6,11
-play,6,1,eystj201,01,SX,9/F
+play,6,1,eystj201,01,.SX,9/F
+play,7,0,kim-r201,00,,NP
 sub,lebla201,"Andreanne Leblanc",1,4,1
+play,7,0,kim-r201,00,.,NP
 sub,albaj201,"Jill Albayati",1,3,3
+play,7,0,kim-r201,00,..,NP
 sub,eystj201,"Jordan Eyster",1,6,7
-play,7,0,kim-r201,32,BBCFBB,W
+play,7,0,kim-r201,32,...BBCFBB,W
 play,7,0,izumk201,22,CBBFFC,K/C
 play,7,0,zetta201,22,CBCB1,POCS2(13)
 play,7,0,zetta201,32,CBCB1.BX,7/F
@@ -164,3 +176,144 @@ data,er,gildl201,2
 data,er,parkj201,3
 data,er,daybe201,6
 data,er,lebla201,0
+id,SFF202608080
+info,visteam,LAQ
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/08/08
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,monaa701
+info,ump1b,delpb701
+info,ump2b,(none)
+info,ump3b,(none)
+info,temp,83
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,sunny
+info,timeofgame,117
+info,wp,albaj201
+info,lp,mackj201
+info,save,ecken201
+start,eynoc201,"Caitlin Eynon",0,1,6
+start,foxxm201,"Maggie Foxx",0,2,2
+start,lansa201,"Ashton Lansdell",0,3,5
+start,edwas201,"Sarah Edwards",0,4,9
+start,mackj201,"Jamie Mackay",0,5,3
+start,maxit201,"Thaima Maximiliana",0,6,7
+start,frana201,"Addie Frank",0,7,10
+start,benis201,"Samaria Benitez",0,8,4
+start,apgab201,"Britt Apgar",0,9,8
+start,rochm201,"Michelle Roche",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,8
+start,albaj201,"Jill Albayati",1,3,1
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,leguj201,"Joely Leguizamon",1,5,6
+start,daybe201,"Ela Day-Bedard",1,6,9
+start,parkj201,"Jua Park",1,7,5
+start,gutis201,"Samantha Gutierrez",1,8,2
+start,eystj201,"Jordan Eyster",1,9,7
+play,1,0,eynoc201,02,CCX,63/G
+play,1,0,foxxm201,31,BBCBX,S8/L
+play,1,0,lansa201,10,BX,FC5/G.1X2;B-1
+play,1,0,edwas201,00,X,5/P/FL
+play,1,1,giana201,32,FBCBBFFB,W
+play,1,1,whitk201,00,X,S7/L.1-2
+com,"$Down the left field line"
+play,1,1,albaj201,00,X,S8/F.2-H;1-H
+com,"$Fumble by 2B on the relay and deft avoidance of the tag allowed runner from 1st to score"
+play,1,1,lebla201,01,CX,3(B)6(1)/G
+play,1,1,leguj201,22,FBBSX,S7/L
+play,1,1,daybe201,00,B,WP.1-2
+play,1,1,daybe201,22,B.SBFFC,K/C
+play,2,0,mackj201,01,CX,E5/G/TH1.B-2
+com,"$Throw went high over 1B's head"
+play,2,0,maxit201,01,CX,6/L
+play,2,0,frana201,22,BCFBS,K.BX1(23)
+play,2,0,benis201,01,CX,S6/G.2-3
+com,"$Leguizamon made a good stop, but could not make a throw to first in time so held onto the ball"
+play,2,0,apgab201,31,BBCBB,W.1-2
+play,2,0,eynoc201,22,FBFBC,K/C
+play,2,1,parkj201,02,CFS,K
+com,"$Park swung too far while attempting to duck away from a high pich"
+play,2,1,gutis201,31,BBCBX,63/G
+play,2,1,eystj201,00,X,D9/L
+play,2,1,giana201,10,BX,63/G
+play,3,0,foxxm201,00,X,63/G
+play,3,0,lansa201,32,BBCCBS,K
+play,3,0,edwas201,01,CX,E3/G
+com,"$1B turned to the side to make the catch but missed"
+play,3,0,mackj201,11,F1B1X,HR/F7D.1-H(UR);B-H(UR)
+play,3,0,maxit201,12,SFBX,S6/L
+com,"$Leguizamon managed to deflect the ball on the run but couldn't grab it"
+play,3,0,frana201,02,FCX,43/G
+play,3,1,whitk201,21,BBCX,13/G
+com,"$Roche made a quick grab on the one-hopper"
+play,3,1,albaj201,00,X,S6/G
+com,"$Ball bounced higher than expected and deflected off of Eynon's glove as she charged"
+play,3,1,lebla201,31,BB1BCB,W.1-2
+play,3,1,leguj201,02,CFX,3/P/IF
+play,3,1,daybe201,02,CCFS,K.BX1(23)
+play,4,0,benis201,02,CCX,S9/L
+play,4,0,apgab201,12,B1CC>B,CS2(24)
+play,4,0,apgab201,32,B1CC>B.BS,K
+play,4,0,eynoc201,22,BBCFFFX,53/G
+play,4,1,parkj201,32,SBBSFBB,W
+play,4,1,gutis201,00,11X,FC5/G.1X2(54);B-2(E4/TH1)
+com,"$Throw bounced close to 1B, went wide"
+play,4,1,eystj201,21,BF2BX,S8/L.2-3
+play,4,1,giana201,01,1FX,9/F/SF.3-H(UR)
+play,4,1,whitk201,11,1FBX,S7/L.1-2
+play,4,1,albaj201,30,BBBB,W.2-3;1-2
+play,4,1,lebla201,00,X,D8/F.3-H(UR);2-H(UR);1-3
+play,4,1,leguj201,00,,NP
+sub,mackj201,"Jamie Mackay",0,5,1
+play,4,1,leguj201,00,.,NP
+sub,edwas201,"Sarah Edwards",0,4,3
+play,4,1,leguj201,00,..,NP
+sub,rochm201,"Michelle Roche",0,7,9
+play,4,1,leguj201,00,...X,S9/F.3-H(UR);2-H(UR)
+play,4,1,daybe201,10,BH,HP.1-2
+play,4,1,parkj201,10,BX,E5/G/TH1.2-3;1-2
+com,"$Offline throw by 3B pulled 1B off of the bag"
+play,4,1,gutis201,32,BBFSFBB,W.3-H(UR);2-3;1-2
+play,4,1,eystj201,32,FBBSBFB,W.3-H(UR);2-3;1-2
+play,4,1,giana201,12,FBCX,FC6.1X2(64)
+play,5,0,foxxm201,00,,NP
+sub,ecken201,"Niki Eckert",1,7,1
+play,5,0,foxxm201,00,.,NP
+sub,albaj201,"Jill Albayati",1,3,5
+play,5,0,foxxm201,22,..FBBFX,7/F
+play,5,0,lansa201,21,BBCX,9/F
+play,5,0,edwas201,31,CBBBX,5/L
+play,5,1,whitk201,00,X,4/L
+com,"$Basket catch on the run"
+play,5,1,albaj201,32,BBCFBX,D8/L
+play,5,1,lebla201,10,BX,5/P
+play,5,1,leguj201,00,X,S8/F.2-H;BX2(846)
+com,"$Deflected by CF (possibly lost in lights); nevertheless, great relay play to nab batter just in time"
+play,6,0,mackj201,01,CH,HP
+play,6,0,maxit201,02,CSB,WP.1-2
+play,6,0,maxit201,12,CSB.X,8/F
+play,6,0,rochm201,00,X,9/F
+play,6,0,benis201,10,BX,8/F
+play,6,1,daybe201,32,CBFBBFX,63/G
+play,6,1,ecken201,22,CFBFBS,K
+play,6,1,gutis201,12,FBSX,63/G
+play,7,0,apgab201,32,VBCBCB,W
+com,"V is speculatory, otherwise missing a ball here"
+play,7,0,eynoc201,30,BBBB,W.1-2
+play,7,0,foxxm201,01,CX,8/F
+play,7,0,lansa201,22,BBCFT,K
+play,7,0,edwas201,21,BBCX,S8/F.2-H;1-2
+play,7,0,mackj201,11,BFX,8/F
+com,"$Three-inning save by Eckert is WPBL's first save"
+data,er,rochm201,2
+data,er,mackj201,1
+data,er,albaj201,0
+data,er,ecken201,1

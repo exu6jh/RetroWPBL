@@ -66,9 +66,10 @@ play,2,0,honda201,20,BBX,93/G
 play,2,0,maxit201,21,BCBX,6/P
 play,2,0,benis201,31,BBFBX,9/F
 play,2,1,izumk201,32,CBFBBX,13/G
-play,2,1,perev201,32,CBFBFFX,8/F
+play,2,1,perev201,22,CBFBFFX,8/F
 play,2,1,yonen201,22,CCFBFBX,S7/L.B-2(E8)
-com,"Bobbled ball; PBP says error to CF, but it was LF who fielded it"
+com,"$Bobbled ball"
+com,"PBP says error to CF, but it was LF who fielded it"
 play,2,1,benid201,10,BX,S8/L.2-H(UR);B-2
 play,2,1,lahnk201,02,CSX,S7/F.2-H(UR)
 play,2,1,lee-j201,22,FBCBS,K
@@ -82,7 +83,7 @@ play,3,1,izumk201,12,BCFX,2/P/FL
 play,3,1,perev201,00,X,7/F
 play,4,0,edwas201,32,CBFBBFB,W
 play,4,0,foxxm201,11,CVB,WP.1-2
-com,"V is speculatory and needs review, otherwise missing a ball here"
+com,"V is speculatory, otherwise missing a ball here"
 play,4,0,foxxm201,31,CVB.BB,W
 play,4,0,rochm201,02,FCX,6/P
 play,4,0,honda201,10,BX,D9/L.2-H;1-H
@@ -91,67 +92,265 @@ play,4,0,benis201,20,BBB,WP.2-3
 play,4,0,benis201,30,BBB.B,W
 play,4,0,davim201,10,BB,WP.3-3;1-2
 play,4,0,davim201,21,BB.CX,9/F
+play,4,1,yonen201,00,,NP
 sub,foxxm201,"Maggie Foxx",0,5,1
+play,4,1,yonen201,00,.,NP
 sub,maxit201,"Thaima Maximiliana",0,8,7
-play,4,1,yonen201,32,CBSBFBS,K
+play,4,1,yonen201,32,..CBSBFBS,K
 play,4,1,benid201,22,CBFBX,HR/F8D
 play,4,1,lahnk201,32,CBBBFFB,W
 com,"Second ball not shown because of HR replay"
 play,4,1,lee-j201,32,BFBFBX,53/G.1-2
 play,4,1,willm201,11,BCX,63/G
+play,5,0,lansa201,00,,NP
 sub,reynj201,"Jacqui Reynolds",1,0,1
-play,5,0,lansa201,22,SBBCX,43/G
+play,5,0,lansa201,22,.SBBCX,43/G
 play,5,0,mackj201,30,BBBB,W
 play,5,0,edwas201,22,BCBFX,46(1)3/DP
 com,"$Defensive miscommunication prevented foul pop-up from being caught right down the 1B line"
+play,5,1,ibard201,00,,NP
 sub,murpk201,"Katherine Murphy",1,7,11
-play,5,1,murpk201,12,FBSX,5/L
+play,5,1,murpk201,12,.FBSX,5/L
 com,"$Murphy ducked but ball hit off the tip of her bat for a foul"
 play,5,1,studl201,22,CBBFC,K/C
+play,5,1,izumk201,00,,NP
 sub,ciame201,"Elodie Ciamarro",1,9,11
-play,5,1,ciame201,00,X,13/G
+play,5,1,ciame201,00,.X,13/G
+play,6,0,foxxm201,00,,NP
 sub,ciame201,"Elodie Ciamarro",1,9,4
+play,6,0,foxxm201,00,.,NP
 sub,murpk201,"Katherine Murphy",1,7,7
-play,6,0,foxxm201,20,BBX,D7/L
+play,6,0,foxxm201,20,..BBX,D7/L
 play,6,0,rochm201,00,X,D7/L.2-H
 play,6,0,honda201,02,CFB,WP.2-3
 play,6,0,honda201,12,CFB.FFX,3/G.3-H
 play,6,0,maxit201,02,CSX,S6/G
 play,6,0,benis201,11,CBX,FC6/G.1X2(64)
 play,6,0,davim201,11,CBX,13/G
+play,6,1,perev201,00,,NP
 sub,meidm201,"Meggie Meidlinger",0,5,1
-play,6,1,perev201,01,CX,43/G
+play,6,1,perev201,01,.CX,43/G
 play,6,1,yonen201,12,FBCS,K
 play,6,1,benid201,00,X,S7/G
 play,6,1,lahnk201,30,BB1B>C,SB2
 play,6,1,lahnk201,31,BB1B>C.B,W
 play,6,1,lee-j201,02,CSN,BK.2-3;1-2
 play,6,1,lee-j201,12,CSN.BC,K/C
+play,7,0,lansa201,00,,NP
 sub,zetta201,"Alyssa Zettlemoyer",1,6,5
-play,7,0,lansa201,32,CBTFBBS,K
+play,7,0,lansa201,32,.CBTFBBS,K
 play,7,0,mackj201,31,BFBBX,S5/P
-play,7,0,edwas201,12,CFBFFC,K
+play,7,0,edwas201,12,CFBFFC,K/C
 com,"$Last foul ball was tipped but not held onto"
 play,7,0,meidm201,12,CCBX,S8/G.1-2
 play,7,0,rochm201,11,FBX,S9/P.2-H;1-3
 com,"$First foul ball and ball in play were both almost caught, but ball movement and weather compounded defensive miscues"
 play,7,0,honda201,20,BBX,S8/L.3-H;1-2
+play,7,0,maxit201,00,,NP
 sub,villi201,"Isabella Villarreal",0,8,11
-play,7,0,villi201,31,BCBBX,D8/L.2-H;1-H
+play,7,0,villi201,31,.BCBBX,D8/L.2-H;1-H
+play,7,0,benis201,00,,NP
 sub,lee-j201,"Jaida Lee",1,5,1
+play,7,0,benis201,00,.,NP
 sub,studl201,"London Studer",1,8,8
+play,7,0,benis201,00,..,NP
 sub,lahnk201,"Kylee Lahners",1,4,3
+play,7,0,benis201,00,...,NP
 sub,apgab201,"Britt Apgar",0,8,12
-play,7,0,benis201,22,FBFBFB,WP.2-3
-play,7,0,benis201,32,FBFBFB.C,K/C
+play,7,0,benis201,22,....FBFBFB,WP.2-3
+play,7,0,benis201,32,....FBFBFB.C,K/C
+play,7,1,zetta201,00,,NP
 sub,apgab201,"Britt Apgar",0,8,7
-play,7,1,zetta201,22,CBCBX,9/F
+play,7,1,zetta201,22,.CBCBX,9/F
 play,7,1,murpk201,11,BCX,53/G
+play,7,1,studl201,00,,NP
 sub,ecclc201,"Claire Eccles",1,8,11
-play,7,1,ecclc201,12,CFBFX,53/G
+play,7,1,ecclc201,12,.CFBFX,53/G
 data,er,satoa201,4
 data,er,foxxm201,1
 data,er,meidm201,0
 data,er,kim-r201,4
 data,er,reynj201,6
 data,er,lee-j201,0
+id,NYH202608080
+info,visteam,BSH
+info,hometeam,NYH
+info,site,SPR03
+info,date,2026/08/08
+info,number,0
+info,gametype,regular
+info,starttime,1:00PM
+info,daynight,day
+info,innings,7
+info,umphome,beras701
+info,ump1b,monaa701
+info,ump2b,(none)
+info,ump3b,(none)
+info,temp,87
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,sunny
+info,timeofgame,180
+info,wp,dumam201
+info,lp,izumk201
+info,save,
+start,blunk201,"Kate Blunt",0,1,6
+start,delee201,"Edith De Leija",0,2,4
+start,paddm201,"Molly Paddison",0,3,9
+start,geldt201,"Ticara Geldenhuis",0,4,7
+start,schra201,"Alli Schroder",0,5,10
+start,kim-h201,"Hyeonah Kim",0,6,2
+start,bryad201,"Denver Bryant",0,7,5
+start,haasg201,"Gabrielle Haas",0,8,8
+start,robis201,"Samantha Robinson",0,9,3
+start,padgr201,"Raine Padgham",0,0,1
+start,lee-j201,"Jaida Lee",1,1,10
+start,yonen201,"Natsuki Yonetani",1,2,9
+start,benid201,"Denae Benites",1,3,2
+start,lahnk201,"Kylee Lahners",1,4,3
+start,ibard201,"Diana Ibarra",1,5,7
+start,zetta201,"Alyssa Zettlemoyer",1,6,5
+start,izumk201,"Keira Izumi",1,7,4
+start,willm201,"Madison Willan",1,8,6
+start,ecclc201,"Claire Eccles",1,9,8
+start,kim-r201,"Rakyung Kim",1,0,1
+com,"Feed often cut out throughout game, some pitches are taken from official PBP or surmised"
+play,1,0,blunk201,22,BCBCFX,7/F
+play,1,0,delee201,22,CSVBX,6/L
+play,1,0,paddm201,12,SFBX,7/F
+play,1,1,lee-j201,12,BFCS,K
+play,1,1,yonen201,10,BX,53/G
+com,"$Bryant initially fumbled the ball but recovered and made a quick throw"
+play,1,1,benid201,32,BCFFFBBX,HR/F7D
+com,"$Hit the outer fence, to the scoreboard"
+play,1,1,lahnk201,22,CBSBFC,K/C
+play,2,0,geldt201,12,BCCS,K
+play,2,0,schra201,01,FX,9/F
+play,2,0,kim-h201,21,BCBX,43/G
+com,"Video feed cut out after strike 1 and returned shortly into the break"
+play,2,1,ibard201,12,SBFX,7/F
+com,"Video feet cut out again after ball 1 and returned after the out"
+play,2,1,zetta201,01,CX,S7/L
+play,2,1,izumk201,22,CBBCX,S8/F.1-2
+com,"$Got past the left fielder charging in"
+play,2,1,willm201,01,CX,S8/F.2-3;1-2
+play,2,1,ecclc201,00,X,8/F/SF.3-H;2-3
+com,"$Zettlemoyer hesitated on the way home but made it nevertheless"
+play,2,1,lee-j201,12,SBCX,53/G
+play,3,0,bryad201,10,BX,E3/L
+com,"$Lahners stopped to make the catch but misread the ball, which went to her right"
+play,3,0,haasg201,20,B1BX,4/P
+com,"Video feed cut out again after ball 1 and returned for the out, pickoff not shown but surmised from audio"
+play,3,0,robis201,11,BC>S+1,SB2
+com,"$Throw by 1B after attempted pickoff went offline"
+play,3,0,robis201,12,BC>S+1.>B,CS3(25)
+com,"$Ball got away from Benites, who recovered and threw out Bryant, who attempted a flying swim move"
+play,3,0,robis201,22,BC>S+1.>B.C,K/C
+play,3,1,yonen201,00,X,D7/G
+com,"$Down the line"
+play,3,1,benid201,00,B,WP.2-3
+play,3,1,benid201,22,B.CSFBX,HR/F7D.3-H
+play,3,1,lahnk201,02,FCH,HP
+play,3,1,ibard201,12,CFBFFFFX,5/P/FL
+com,"$Last foul ball before out hit the knob, initially thought to be HBP"
+com,"$Bryant blocked the sun by holding her cap in her hand"
+play,3,1,zetta201,11,CBX,D7/F.1-3
+play,3,1,izumk201,32,BCCBBS,K
+com,"Video feed cut out again after strike 1, returned for ball 2"
+play,3,1,willm201,12,CCBFX,43/G
+play,4,0,blunk201,00,X,6/L
+play,4,0,delee201,21,BCBX,7/F
+play,4,0,paddm201,01,CX,S8/G
+play,4,0,geldt201,11,CBX,13/G
+play,4,1,ecclc201,01,LX,9/F
+play,4,1,lee-j201,32,BSCBBB,W
+play,4,1,yonen201,11,BS>B,SB2
+play,4,1,yonen201,22,BS>B.CFX,S7/L.2-H(E7)(UR)
+com,"$Bobbled ball"
+play,4,1,benid201,10,B>B,SB2.1-3(E2/TH2)
+com,"$Errant throw sailed to center field"
+play,4,1,benid201,32,B>B.BFCX,7/F/SF.3-H(UR)
+play,4,1,lahnk201,12,CFFFFBFH,HP
+play,4,1,ibard201,21,BBFX,FC6/G.1X2(64)
+com,"$Nice stop on the grounder"
+play,5,0,schra201,02,FCH,HP
+play,5,0,kim-h201,12,BS+1FFH,HP.1-2
+com,"$Strike 2 hit Kim, but it was ruled a foul ball (crowding, lack of movement)."
+com,"$Moot point; Kim got hit anyway" 
+play,5,0,bryad201,01,SX,S7/G.2-H;1-2
+play,5,0,haasg201,21,BBCH,HP.2-3;1-2
+com,"$Third HBP of the inning, this time squarely on the helmet"
+play,5,0,robis201,00,X,7/F/SF.3-H;2-3;1-2
+com,"Video feed cut out again after play, but returned in time for next PA"
+play,5,0,blunk201,12,CCBX,6/F
+play,5,0,delee201,31,CBBBX,3/G
+com,"Video feed cut out again after ball 2 but returned for ball 3"
+play,5,1,zetta201,00,,NP
+sub,dumam201,"Maika Dumais",0,0,1
+play,5,1,zetta201,00,.X,53/G
+play,5,1,izumk201,12,CCBX,53/G
+play,5,1,willm201,22,BCBCC,K/C
+play,6,0,paddm201,00,X,3/G
+com,"Video feed cut out during fielding, returned in time for next batter"
+play,6,0,geldt201,02,CCX,E6/G
+com,"$Bobbled ball"
+play,6,0,schra201,10,1BN,BK.1-2
+play,6,0,schra201,30,1BN.BBB,W
+play,6,0,kim-h201,22,BBSCFFH,HP.2-3;1-2
+com,"$Third time Rakyung Kim hit Hyeonah Kim, second time it counted as a HBP"
+play,6,0,bryad201,10,BX,D9/F.3-H;2-H(UR);1-H(UR);B-3(E4/TH2)
+com,"$To the wall, 2B threw errant while trying to nab Bryant at second"
+com,"$LF backed up play at 3B preventing Bryant from going home on error"
+play,6,0,haasg201,00,,NP
+sub,izumk201,"Keira Izumi",1,7,1
+play,6,0,haasg201,00,.,NP
+sub,ciame201,"Elodie Ciamarro",1,1,4
+play,6,0,haasg201,21,..BBCX,S8/L.3-H
+play,6,0,robis201,31,BC1BBB,W.1-2
+play,6,0,blunk201,20,BBB,WP.2-3;1-2
+com,"$Ball skipped away from catcher, who threw errant to 3B but not enough to bring in the runner"
+play,6,0,blunk201,31,BBB.CB,W
+play,6,0,delee201,32,CBSBBB,W.3-H;2-3;1-2
+play,6,0,paddm201,32,FBSBBB,W.3-H;2-3;1-2
+play,6,0,geldt201,00,,NP
+sub,zetta201,"Alyssa Zettlemoyer",1,6,1
+play,6,0,geldt201,00,.,NP
+sub,ciame201,"Elodie Ciamarro",1,1,5
+play,6,0,geldt201,00,..,NP
+sub,izumk201,"Keira Izumi",1,7,4
+play,6,0,geldt201,21,...CBBX,S8/F.3-H(UR);2-3;1-2
+com,"$Long single to the wall"
+play,6,0,schra201,32,BBBFFX,2/P/FL
+play,6,0,kim-h201,00,X,6/P
+play,6,1,ecclc201,22,CCBBX,S7/F
+com,"$LF, SS, and 3B all converged but none made it; shortstop made a diving attempt to no avail"
+play,6,1,ciame201,22,C1CBBX,FC4.1X2(46)
+com,"$2B bobbled but a potential DP ball but recovered for the force"
+play,6,1,yonen201,32,CFB1BBB,W.1-2
+com,"$1B attempted deke on pickoff pretending ball got past her but runner was not fooled"
+play,6,1,benid201,31,BFBBX,7/F
+play,6,1,lahnk201,22,BCBC,NP
+com,"umpchange,6,umphome,monaa701"
+com,"umpchange,6,ump1b,chare601"
+com,"$HP umpire Steve Berardino collapsed from heat exhaustion, was attended to on the field before he was able to stand up and be carted off for further treatment"
+com,"$Base path umpire Annie Monachello moves to home, Queens coach and minor league umpire Emma Charlesworth-Seiler comes in as base path umpire"
+play,6,1,lahnk201,32,BCBC.BS,K
+play,7,0,bryad201,00,,NP
+sub,murpk201,"Katherine Murphy",1,5,7
+play,7,0,bryad201,22,.BBFCX,63/G
+play,7,0,haasg201,10,BX,S8/F
+play,7,0,robis201,32,BBBCFB,W.1-2
+com,"Video feed cut out right after walk, returned after ball 1 of the next PA"
+play,7,0,blunk201,32,BBCFBFX,8/F
+play,7,0,delee201,11,FBX,43/G
+play,7,1,murpk201,12,CFBX,53/G
+play,7,1,zetta201,21,BCBH,HP
+play,7,1,izumk201,32,CBBCBB,W.1-2
+play,7,1,willm201,11,BCX,8/F
+play,7,1,ecclc201,12,CFBX,6/L
+data,er,padgr201,4
+data,er,dumam201,0
+data,er,kim-r201,4
+data,er,izumk201,2
+data,er,zetta201,0

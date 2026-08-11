@@ -10,16 +10,16 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "beark201","Bearpaw","Kailyn","Kailyn","2003","Sapulpa","Oklahoma","USA",,,,,,,,,"R","R","5-08"
 "beaus201","Beaulieu","Sarah","Sarah",,"Riviere-du-Loup","Quebec","Canada",,,,,,,,,"L","R",
 "bebba201","Bebbere","Allison","Allie","09/26/1994","Montmorency","Victoria","Australia",,,,,,,,,"R","R",
-"benap201","Benach","Paloma","Paloma","12/06/2003","Washington","D.C.","USA",,,,,,,,,"L","L","5-10"
+"benap201","Benach","Paloma","Paloma","12/06/2003","Washington","D.C.","USA","08/09/2026",,,,,,,,"L","L","5-10"
 "benid201","Benites","Denae Michelle","Denae","09/10/2001","Las Vegas","Nevada","USA","08/01/2026",,,,,,,,"R","R",
 "benis201","Benitez","Samaria","Samaria","08/30/2002","Tuxpan","Nayarit","Mexico","08/01/2026",,,,,,,,"R","R",
 "bepph201","Beppu","Hinano","Hinano","12/04/1996","Nakagawa","Fukuoka","Japan",,,,,,,,,"R","R",
-"beras701","Berardino","Steve","Steve",,"St. Louis","Missouri","USA",,,,,,,"A",,,,
+"beras701","Berardino","Steve","Steve",,"St. Louis","Missouri","USA",,,,,,,"08/05/2026",,,,
 "birdb201","Birdsall","Braidy","Braidy",,"Saskatoon","Saskatchewan","Canada",,,,,,,,,"R","R","5-06"
 "blunk201","Blunt","Kate Elizabeth-Ai","Kate","04/16/2003","Ladera Ranch","California","USA","08/02/2026",,,,,,,,"R","R","5-06"
 "brico201","Bricker","Olivia","Olivia","08/23/2000","Cincinnati","Ohio","USA",,,,,,,,,"L","L","5-04"
 "bryad201","Bryant","Denver Amber","Denver","07/12/2002","Albany","Georgia","USA","08/02/2026",,,,,,,,"R","R","5-06"
-"chare601","Charlesworth-Seiler","Emma","Emma",,"Golden Valley","Minnesota","USA",,,,,"08/01/2026",,,,,,
+"chare601","Charlesworth-Seiler","Emma","Emma",,"Golden Valley","Minnesota","USA",,,,,"08/01/2026",,"08/08/2026","08/08/2026",,,
 "ciame201","Ciamarro","Elodie","Elodie",,"Mont-Saint-Hilaire","Quebec","Canada","08/01/2026",,,,,,,,"R","R",
 "corip201","Coria","Peyton","Peyton","10/30/2006","Perris","California","USA","08/07/2026",,,,,,,,"R","R","5-03"
 "cornl201","Cornish","Leah Lorraine Ai Han","Leah","03/08/2007","Perth","Western Australia","Australia",,,,,,,,,"R","R",
@@ -29,6 +29,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "daybe201","Day-Bedard","Ela Zoe Mini","Ela","03/07/2005","Gatineau","Quebec","Canada","08/02/2026",,,,,,,,"R","R","5-04"
 "delcr201","Del Castillo","Rosa Maria (Alarcon)","Rosi","08/13/1997","Puebla","Puebla","Mexico",08/07/2026,,,,,,,,"R","R","5-06"
 "delee201","De Leija","Edith Elena (Sanchez)","Edith","04/13/2002","Aldama","Tamaulipas","Mexico","08/02/2026",,,,,,,,"R","L",
+"delpb701","Delp","Brian","Brian",,,,,,,,,,,"08/06/2026",,,,
 "dew-k601","Dew","Karavin","Karavin","06/25/1991","Calhoun","Georgia","USA",,,,,"08/02/2026",,,,"R","R","5-05"
 "diazn201","Diaz","Nadia","Nadia","07/15/2000","Cicero","New York","USA",,,,,,,,,"R","R",
 "dinek701","Elliott Dine","Kelly","Kelly",,"Hudson","Ohio","USA",,,,,,,"08/01/2026",,,,
@@ -42,7 +43,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "eynoc201","Eynon","Caitlin Jane","Caitlin","05/13/2003","Mandurah","Western Australia","Australia",08/05/2026,,,,,,,,"L","R",
 "eystj201","Eyster","Jordan","Jordan","2004","Royal Oak","Michigan","USA","08/02/2026",,,,,,,,"R","R",
 "falaz201","Falardeau","Zoe","Zoe","2007","Welland","Ontario","Canada",,,,,,,,,"L","R",
-"foulk001","Foulke","Keith Charles","Keith","10/19/1972","Ellsworth Air Force Base","South Dakota","USA",,,"07/26/2026",,,,,,"R","R","6-00"
+"foulk001","Foulke","Keith Charles","Keith","10/19/1972","Ellsworth Air Force Base","South Dakota","USA",,,"07/26/2026","08/08/2026",,,,,"R","R","6-00"
 "foxxm201","Foxx","Maggie","Maggie","12/01/2005","Bedford","New Hampshire","USA","08/01/2026",,,,,,,,"R","R","5-09"
 "frana201","Frank","Adelaide","Addie","2008","Oakville","Missouri","USA","08/05/2026",,,,,,,,"R","R","5-05"
 "geldt201","Geldenhuis","Ticara","Ticara","09/21/2001","Waterfall","New South Wales","Australia","08/02/2026",,,,,,,,"R","R","5-07"
@@ -85,13 +86,14 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "mckej701","Thomas McKeen","Janet","Janet",,"Woodstock","Georgia","USA",,,,,,,"08/01/2026",,,,
 "meidm201","Meidlinger","Megan Elizabeth","Meggie","11/09/1987","Sterling","Virginia","USA","08/01/2026",,,,,,,,"R","R","6-02"
 "minnm201","Minner","Micaela","Micaela","08/19/1985","Akron","Ohio","USA",,,,,,,,,"L","L","5-05"
+"monaa701","Monachello","Annie","Annie",,"St. Louis","Missouri","USA",,,,,,,"08/08/2026",,,,
 "moora201","Moore","Abigail","Abigail",,"Arlington","Texas","USA",,,,,,,,,"R","R",
 "morel201","Moreno","Luciana","Luciana","09/06/2006","Sun Prairie","Wisconsin","USA",,,,,,,,,"R","R",
 "murpk201","Murphy","Katherine","Katherine","10/16/2006","Belmont","Massachusetts","USA","08/01/2026",,,,,,,,"R","R",
 "naras201","Narasaki","Suzu","Suzu","05/17/1999","Hannan","Osaka","Japan",,,,,,,,,"R","R","5-02"
 "obitr201","Obitsu","Rio","Rio","05/11/2002","Saitama","Saitama","Japan",,,,,,,,,"R","R",
 "oneim201","O'Neill","Mary Grace","Mary Grace",,"Pleasantville","New York","USA",,,,,,,,,"L","L","5-04"
-"osulc201","O'Sullivan","Claire Lesley","Claire","02/13/1995","Maroubra","New South Wales","Australia",,,,,,,,,"R","R","5-08"
+"osulc201","O'Sullivan","Claire Lesley","Claire","02/13/1995","Maroubra","New South Wales","Australia","08/09/2026",,,,,,,,"R","R","5-08"
 "osule201","O'Sullivan","Elodie Nona","Elodie","07/29/1993","Perth","Western Australia","Australia",,,,,,,,,"R","R",
 "paddm201","Paddison","Molly Cate","Molly","10/05/2007","Pullenvale","Queensland","Australia","08/02/2026",,,,,,,,"L","L","5-09"
 "padgr201","Padgham","Raine Feria","Raine","07/19/2005","Abbotsford","British Columbia","Canada","08/02/2026",,,,,,,,"R","R","5-04"
@@ -118,7 +120,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "valef201","Valerio Montoya","Flor Elena","Flor Elena","12/06/2002","Tijuana","Baja California","Mexico",,,,,,,,,"R","R",
 "valem201","Valenzuela","Maria Jose (Gutierrez)","Maria Jose","07/30/1997","Hermosillo","Sonora","Mexico",,,,,,,,,"R","R",
 "villi201","Villarreal","Isabella","Isabella","07/30/2006","Newport","Michigan","USA","08/01/2026",,,,,,,,"R","R",
-"weekj001","Weeks","Jemile Nykiwa","Jemile","01/26/1987","Orlando","Florida","USA",,,,,"08/01/2026",,,,"B","R","5-09"
+"weekj001","Weeks","Jemile Nykiwa","Jemile","01/26/1987","Orlando","Florida","USA",,,"08/09/2026",,"08/01/2026","08/08/2026",,,"B","R","5-09"
 "whitk201","Whitmore","Kelsie Ann-Gamboa","Kelsie","07/05/1998","San Diego","California","USA","08/02/2026",,,,,,,,"R","R","5-06"
 "wilkc201","Wilken","Celicia","Celicia","01/19/1992","Austin","Texas","USA",,,,,,,,,"L","L",
 "willm003","Williams","Matthew Derrick","Matt","11/28/1965","Bishop","California","USA",,,"07/26/2026",,,,,,"R","R","6-02"

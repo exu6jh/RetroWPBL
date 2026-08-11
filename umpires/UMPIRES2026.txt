@@ -1,3 +1,6 @@
 ID,last,first
+beras701,Berardino,Steve
+delpb701,Delp,Brian
 dinek701,Elliott Dine,Kelly
 mckej701,Thomas McKeen,Janet
+monaa701,Monachello,Annie

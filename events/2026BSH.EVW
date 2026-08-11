@@ -51,11 +51,11 @@ play,2,0,daybe201,31,BBBCB,W
 play,2,0,kapls201,00,X,D9/G.1-3
 com,"$Past the dive of Leblanc"
 play,2,0,leguj201,22,BBCFX,53/G
-play,2,0,parkj201,22,CCX,S7/L.3-H;2-3
+play,2,0,parkj201,02,CCX,S7/L.3-H;2-3
 play,2,0,giana201,00,X,S7/L.3-H;1-2
 play,2,0,whitk201,22,CBBSX,8/F
 play,2,0,albaj201,32,BBCFFBC,K/C
-play,2,1,kim-h201,22,FBBCBB,W
+play,2,1,kim-h201,32,FBBCBB,W
 play,2,1,geldt201,31,CBB+1BB,W.1-2
 play,2,1,schra201,12,CCBS,K
 com,"$Strikeout may have been dropped, but ruled catch so no throw down"
@@ -77,6 +77,7 @@ play,3,0,albaj201,32,BBBCFC,K/C
 play,3,0,lebla201,10,B>C,SB2
 com,"$Throw to 2nd sailed well over but runner held"
 play,3,0,lebla201,11,B>C.H,HP
+play,3,0,jorga201,00,,NP
 sub,dumam201,"Maika Dumais",1,3,1
 play,3,0,jorga201,32,BCBBCFX,S9/L.2-H;1-3
 play,3,0,daybe201,00,H,HP.1-2
@@ -90,9 +91,11 @@ play,4,0,parkj201,31,1BBBCX,8/F
 com,"$Stellar diving catch by Haas; runner was past second but bobble on relay to 2B prevented DP"
 play,4,0,giana201,32,BBBCFX,S7/G.1-2
 play,4,0,whitk201,31,BSBBX,14(1)3/GDP
+play,4,1,kim-h201,00,,NP
 sub,ecken201,"Niki Eckert",0,6,1
+play,4,1,kim-h201,00,.,NP
 sub,whitk201,"Kelsie Whitmore",0,2,8
-play,4,1,kim-h201,12,CBFX,E6/TH1/G
+play,4,1,kim-h201,12,..CBFX,E6/TH1/G
 com,"$Throw went wide to 1B's right"
 play,4,1,geldt201,02,CFFFX,D7/L.1-3
 play,4,1,schra201,02,FSS,K.BX1(23)
@@ -101,48 +104,61 @@ play,4,1,bryad201,32,N.FBSFBBS,K
 play,4,1,greeb201,31,BBFBN,BK.3-H(UR)
 play,4,1,greeb201,32,BBFBN.SB,W
 play,4,1,haasg201,22,BCSBC,K/C
-com,"Kim to catcher some point before this inning, possibly Greenwood in RF? It is not recorded on official PBP and broadcast graphics continued using erroneous positions, although commentators explicitly mention new catcher"
+com,"Kim to catcher some point before this inning, possibly Greenwood in RF."
+com,"It isn't recorded on PBP and graphics continued using wrong positions, but commentators mention new catcher"
 play,5,0,albaj201,32,BBCBCX,8/L
 play,5,0,lebla201,32,CBCFBBFFB,W
 play,5,0,jorga201,02,FCX,S9/F.1-3;BX2(946)
+play,5,0,ecken201,00,,NP
 sub,eystj201,"Jordan Eyster",0,6,11
-play,5,0,eystj201,01,SX,9/F
+play,5,0,eystj201,01,.SX,9/F
+play,5,1,blunk201,00,,NP
 sub,ecken201,"Niki Eckert",0,9,1
+play,5,1,blunk201,00,.,NP
 sub,eystj201,"Jordan Eyster",0,6,5
 com,"My guess at subs, official ones appear to be wrong"
-play,5,1,blunk201,30,BBBB,W
+play,5,1,blunk201,30,..BBBB,W
 play,5,1,delee201,12,BC1CX,E1/G.1-2
 com,"$Pitcher whiffed on attempting to pick up the ball"
+play,5,1,dumam201,00,,NP
 sub,paddm201,"Molly Paddison",1,3,11
-play,5,1,paddm201,12,CBCFBC,K/C
+play,5,1,paddm201,22,.CBCFBC,K/C
 play,5,1,kim-h201,12,BCSX,53/G.2-3;1-2
+play,5,1,geldt201,00,,NP
 sub,hastl201,"Lexi Hastings",1,5,11
-play,5,1,hastl201,00,H,HP
+play,5,1,hastl201,00,.H,HP
 play,5,1,schra201,00,X,FC4/G.1X2(46)
+play,6,0,kapls201,00,,NP
 sub,schra201,"Alli Schroder",1,6,1
+play,6,0,kapls201,00,.,NP
 sub,robis201,"Sabrina Robinson",1,3,3
+play,6,0,kapls201,00,..,NP
 sub,hastl201,"Lexi Hastings",1,5,7
-play,6,0,kapls201,10,BX,S8/L
+play,6,0,kapls201,10,...BX,S8/L
 play,6,0,leguj201,20,BBX,FC5/G.1X2(54);B-1
 play,6,0,ecken201,32,SBCBFBB,W.1-2
 com,"Park credited with PA in official PBP despite Eckert batting, likely due to sub errors"
 play,6,0,giana201,21,FBB>B,SB3;SB2
 com,"$Bryant appears to have attempted to fake an overthrow at 3B but runner did not attempt to move"
-play,6,0,giana201,32,FBB>B.FFX,53/G.3-H
+play,6,0,giana201,32,FBB>B.FFX,53/G.3-H;2-2
 com,"$Bryant fumbled the ball but made a quick spin and toss; Robinson made a great nab doing the splits"
 play,6,0,whitk201,32,BCBSBB,W
 play,6,0,albaj201,00,X,9/L
+play,6,1,bryad201,00,,NP
 sub,albaj201,"Jill Albayati",0,3,1
+play,6,1,bryad201,00,.,NP
 sub,eystj201,"Jordan Eyster",0,6,7
+play,6,1,bryad201,00,..,NP
 sub,ecken201,"Niki Eckert",0,9,5
 com,"Once again a guess, particularly for Eckert"
-play,6,1,bryad201,32,BSFBBFC,K/C
+play,6,1,bryad201,32,...BSFBBFC,K/C
 play,6,1,greeb201,12,CCBX,13/G
 com,"Play itself missing from video"
 play,6,1,haasg201,21,FBBX,163/G
 com,"$Deflected off pitcher's glove"
+play,7,0,lebla201,00,,NP
 sub,"schig201","Gigi Schiano",1,6,1
-play,7,0,lebla201,12,BCCX,7/F
+play,7,0,lebla201,12,.BCCX,7/F
 play,7,0,jorga201,20,BBX,S8/L
 play,7,0,eystj201,12,S1CB>B,SB2
 play,7,0,eystj201,32,S1CB>B.BC,K/C
@@ -157,3 +173,203 @@ data,er,padgr201,10
 data,er,dumam201,0
 data,er,schra201,1
 data,er,schig201,0
+id,BSH202608090
+info,visteam,NYH
+info,hometeam,BSH
+info,site,SPR03
+info,date,2026/08/09
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,8
+info,umphome,delpb701
+info,ump1b,monaa701
+info,ump2b,(none)
+info,ump3b,(none)
+info,temp,87
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,sunny
+info,timeofgame,162
+info,wp,osulc201
+info,lp,blunk201
+info,save,
+start,yonen201,"Natsuki Yonetani",0,1,9
+start,perev201,"Val Perez",0,2,6
+start,benid201,"Denae Benites",0,3,2
+start,lahnk201,"Kylee Lahners",0,4,10
+start,murpk201,"Katherine Murphy",0,5,7
+start,zetta201,"Alyssa Zettlemoyer",0,6,5
+start,studl201,"London Studer",0,7,3
+start,ciame201,"Elodie Ciamarro",0,8,4
+start,ecclc201,"Claire Eccles",0,9,8
+start,reynj201,"Jacqui Reynolds",0,0,1
+start,blunk201,"Kate Blunt",1,1,10
+start,delee201,"Edith De Leija",1,2,4
+start,paddm201,"Molly Paddison",1,3,9
+start,geldt201,"Ticara Geldenhuis",1,4,7
+start,bryad201,"Denver Bryant",1,5,5
+start,padgr201,"Raine Padgham",1,6,6
+start,dumam201,"Maika Dumais",1,7,3
+start,haasg201,"Gabrielle Haas",1,8,8
+start,greeb201,"Beth Greenwood",1,9,2
+start,schig201,"Gigi Schiano",1,0,1
+play,1,0,yonen201,32,BBCSBX,S7/G
+com,"$Bryant, turning to the side for the catch, accidentally let the ball get by"
+play,1,0,perev201,01,CX,5/L.1-2(E5/TH1)
+com,"$Good stop by Bryant this time but throw went wide"
+play,1,0,benid201,00,X,S7/L.2-H(UR)
+play,1,0,lahnk201,21,BBF1>C,SB2
+com,"$Throw to 2nd went high but runner held on CF backup"
+play,1,0,lahnk201,22,BBF1>C.X,7/F
+play,1,0,murpk201,30,BBBB,W
+play,1,0,zetta201,02,CF>B,SB3;SB2
+play,1,0,zetta201,22,CF>B.BFX,8/F
+play,1,1,blunk201,02,CFX,53/G
+play,1,1,delee201,30,BBBB,W
+play,1,1,paddm201,02,1SSFX,E5/G.1-2
+com,"$Ball got by Zettlemoyer"
+play,1,1,geldt201,32,BBBCFB,W.2-3;1-2
+play,1,1,bryad201,11,CBX,S7/G.3-H(UR);2-3;1-2
+play,1,1,padgr201,22,CBCBX,FC5/L.3XH(52);2-3;1-2;B-1
+com,"$Low liner blocked by Zettlemoyer to get the force at home"
+play,1,1,dumam201,02,CSS,K
+play,2,0,studl201,10,BX,43/G
+play,2,0,ciame201,11,CBX,DGR/L
+com,"$Up the left field line and under the left field fence"
+play,2,0,ecclc201,01,CX,3/G.2-3
+play,2,0,yonen201,22,BFFBC,K/C
+play,2,1,haasg201,00,H,HP
+play,2,1,greeb201,11,CBX,8/F
+play,2,1,blunk201,10,B1>C,CS2(24)
+play,2,1,blunk201,22,B1>C.FBX,63/G
+com,"$Excellent charge and throw by Perez on the slow roller"
+play,3,0,perev201,30,BBBB,W
+play,3,0,benid201,10,BX,HR/F8D.1-H
+com,"$League-leading 5th home run for Benites in only 4 games"
+play,3,0,lahnk201,22,BFCBX,D7/L
+com,"$Up the third base line"
+play,3,0,murpk201,01,CX,7/F
+play,3,0,zetta201,00,X,6/L.2X2(64)
+play,3,1,delee201,00,X,7/F
+com,"$Great catch on the run by Murphy"
+play,3,1,paddm201,12,BCCX,D9/G
+com,"$Down the right field line"
+play,3,1,geldt201,01,CX,7/F.2-3
+com,"$Another great grab by Murphy who crashes into the wall (no warning track)"
+play,3,1,bryad201,12,CBSX,3/P
+play,4,0,studl201,00,,NP
+sub,schra201,"Alli Schroder",1,5,5
+play,4,0,studl201,10,.BX,8/F
+play,4,0,ciame201,00,X,S9/L.B-2(E8)
+com,"$To center field, CF slowed to catch the bounce but it got past her"
+play,4,0,ecclc201,32,BBCBCB,W
+play,4,0,yonen201,00,,NP
+sub,benap201,"Paloma Benach",1,0,1
+play,4,0,yonen201,21,.B+1CBX,S7/L.2-3;1-2
+play,4,0,perev201,00,X,6/P/IF
+play,4,0,benid201,00,N,BK.3-H(UR);2-3;1-2
+play,4,0,benid201,01,N.FX,S6/G.3-H;2-3
+com,"$Excellent diving stop by Padgham to prevent further damage"
+play,4,0,lahnk201,12,C1SVS,K
+com,"V is speculatory; umpires conferred and after returning, count was 1-2"
+play,4,1,padgr201,22,CFBBS,K
+play,4,1,dumam201,01,FX,43/G
+play,4,1,haasg201,01,CX,S7/G
+play,4,1,greeb201,31,BBCBB,W.1-2
+play,4,1,blunk201,22,SBBCX,E1/G.2-H(UR);1-3;B-2
+com,"$Throw went well over the 1B's head"
+play,4,1,delee201,31,BBBCX,7/F
+play,5,0,murpk201,00,X,8/F
+play,5,0,zetta201,00,,NP
+sub,izumk201,"Keira Izumi",0,6,11
+play,5,0,izumk201,22,.CBCBX,6/F
+com,"$Over-the-shoulder grab"
+play,5,0,studl201,10,BX,E8/L
+com,"$Ball popped out of CF's glove"
+com,"Broadcast skipped, play itself missing except for replay"
+play,5,0,ciame201,11,BCX,1/P
+play,5,1,paddm201,00,,NP
+sub,izumk201,"Keira Izumi",0,6,5
+play,5,1,paddm201,00,.,NP
+sub,lee-j201,"Jaida Lee",0,0,1
+play,5,1,paddm201,12,..FSFBX,S8/G
+play,5,1,geldt201,32,CF1BFBBS,K
+play,5,1,schra201,32,CCBBB1B,W.1-2
+play,5,1,padgr201,32,CCBBBFB,W.2-3;1-2
+play,5,1,dumam201,32,SBSBBFB,W.3-H;2-3;1-2
+play,5,1,haasg201,32,BBBCFX,S9/L.3-H;2-H;1-2
+play,5,1,greeb201,00,,NP
+sub,osulc201,"Claire O'Sullivan",0,0,1
+play,5,1,greeb201,12,.BCFX,9/F
+play,5,1,blunk201,11,CBX,S1/G.2-3;1-2
+com,"$Ball quickly went back up the mound; O'Sullivan had little time to react and the ball went right through her legs"
+com,"$Defensive miscommunication caused 2B and shortstop to collide near the ball"
+play,5,1,delee201,32,BBFFBX,3/G
+play,6,0,ecclc201,12,CBSS,K
+play,6,0,yonen201,20,BBX,53/G
+play,6,0,perev201,02,CCX,63/G
+play,6,1,paddm201,10,BX,7/F
+play,6,1,geldt201,01,CX,E7/F.B-2
+com,"$Dropped fly ball by the otherwise-solid Murphy"
+play,6,1,schra201,22,BFFBS,K
+play,6,1,padgr201,02,CFS,K
+play,7,0,benid201,00,,NP
+sub,blunk201,"Kate Blunt",1,1,1
+play,7,0,benid201,11,.CBX,S8/L
+play,7,0,lahnk201,20,BB>B,SB2
+com,"$Swam around the tag"
+play,7,0,lahnk201,30,BB>B.B,W
+play,7,0,murpk201,00,,NP
+sub,ibard201,"Diana Ibarra",0,5,11
+play,7,0,ibard201,11,.BCX,43/G.2-3;1-2
+play,7,0,izumk201,00,,NP
+sub,willm201,"Madison Willan",0,4,12
+play,7,0,izumk201,02,.CCC,K/C
+play,7,0,studl201,00,X,4/P
+play,7,1,dumam201,00,X,8/F
+com,"$Over the shoulder grab"
+play,7,1,haasg201,00,,NP
+sub,ibard201,"Diana Ibarra",0,5,7
+play,7,1,haasg201,12,.CBCS,K
+play,7,1,greeb201,00,,NP
+sub,hastl201,"Lexi Hastings",1,9,11
+play,7,1,hastl201,12,.BCFX,E4/L
+com,"$Fumbled catch on the bounce of the low liner"
+play,7,1,blunk201,01,FS,POCS2(26)
+com,"$First extra-innings game in WPBL history"
+com,"$Attempt not shown but it seems that, well after strike 2, Hastings was too far off first and was easily caught"
+radj,studl201,2
+com,"$London Studer starts inning at 2nd base"
+play,8,0,ciame201,00,,NP
+sub,kim-h201,"Hyeonah Kim",1,9,2
+play,8,0,ciame201,21,.LBBX,S9/L.2-3
+play,8,0,ecclc201,00,X,S1/BG.3-3;1-2
+play,8,0,yonen201,10,BX,D8/L.3-H(UR);2-H;1-3
+play,8,0,perev201,32,BBBCSB,W
+play,8,0,benid201,02,SCS,K
+play,8,0,willm201,00,,NP
+sub,osulc201,"Claire O'Sullivan",0,4,11
+com,"Pitcher replaces DH in lineup, not sure if this substitution is how it is normally handled"
+play,8,0,osulc201,32,.BCBBFFX,6/F
+play,8,0,ibard201,10,BX,8/F
+radj,kim-h201,2
+com,"$Hyeonah Kim starts inning at 2nd base"
+play,8,1,blunk201,00,,NP
+sub,osulc201,"Claire O'Sullivan",0,4,1
+play,8,1,blunk201,01,.CX,S7/L.2-3
+com,"$Kim got the wave from Karavin Dew but she stumbled and held at the bag"
+play,8,1,delee201,22,FBCBX,S9/L.3-H(UR);1X3(96);B-2
+com,"$Blunt tagged out running to third"
+play,8,1,paddm201,11,CBX,S9/?.2XH(92)
+com,"$De Leija similarly tagged out running home"
+play,8,1,geldt201,00,B,WP.1-2
+play,8,1,geldt201,10,B.X,63/G
+data,er,reynj201,0
+data,er,lee-j201,3
+data,er,osulc201,0
+data,er,schig201,3
+data,er,benap201,0
+data,er,blunk201,1
