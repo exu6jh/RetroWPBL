@@ -9,6 +9,7 @@ The purpose of this project is to create a Retrosheet-like repository for Women'
 "aaaaa7xx" IDs are umpires, akin to "aaaaa9xx" IDs.
 The only exceptions are people who already exist (for example, many managers/coaches are former MLB players.) In such cases, the Retrosheet IDs are used but the MLB career timespans are ignored.
 2. Although rosters are shown with 29-30 people in each, there is actually some nuance here. Rosters are 15 people max, but players drafted by teams are restricted to playing for those teams in cases of, for example, injury. All drafted players are included even if they are not technically on the roster.
+3. Without further information about scoring decisions, I have set team earned runs in gamelogs to be the same as earned runs.
 ### Event file notes:
 1. No hit location is provided since I do not have the means to automatically determine the position of batted balls in respect to stadium shapes/sizes.
 2. Additional note to point 1: I'm fairly sure this is what Retrosheet does but it's worth reiterating, numbers after hits are the first fielder to reach the ball rather than hit location. For example, an S9 is a single to the right fielder but may be in center field.
