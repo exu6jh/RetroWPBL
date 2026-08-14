@@ -57,7 +57,7 @@ play,1,1,eynoc201,12,FCBX,D8/F
 play,1,1,maxit201,10,BX,S8/G.2-H(RBI);B-3(E8/THH)
 com,"$Offline throw went to the 3B dugout fence"
 play,1,1,frana201,32,BBBCFB,W
-play,1,1,apgab201,32,BBCSBFX,FC6/G.3-H(RBI)(UR);1X2(64);B-1
+play,1,1,apgab201,32,BBCSBFX,64(1)/FO/G.3-H(RBI)(UR)
 play,1,1,davim201,12,CC>B,SB2
 play,1,1,davim201,12,CC>B.C,K
 play,2,0,geldt201,12,BCSX,5/P/FL
@@ -145,7 +145,7 @@ play,7,0,robis201,30,B>B.BB,W
 play,7,0,paddm201,32,CBBBSB,W.2-3;1-2
 play,7,0,haasg201,00,,NP
 sub,dumam201,"Maika Dumais",0,8,11
-play,7,0,dumam201,21,.BCBX,FC4/G.3-H(RBI);2-3;1X2(46);B-1
+play,7,0,dumam201,21,.BCBX,46(1)/G.3-H(RBI);2-3
 play,7,0,greeb201,11,C>B,SB2
 play,7,0,greeb201,12,C>B.SH,HP
 play,7,0,blunk201,11,CBX,4(B)6(2)/LDP

@@ -126,7 +126,7 @@ play,6,0,rochm201,00,X,D7/L.2-H(RBI)
 play,6,0,honda201,02,CFB,WP.2-3
 play,6,0,honda201,12,CFB.FFX,3/G.3-H(RBI)
 play,6,0,maxit201,02,CSX,S6/G
-play,6,0,benis201,11,CBX,FC6/G.1X2(64)
+play,6,0,benis201,11,CBX,64(1)/FO/G
 play,6,0,davim201,11,CBX,13/G
 play,6,1,perev201,00,,NP
 sub,meidm201,"Meggie Meidlinger",0,5,1
@@ -275,7 +275,7 @@ play,4,1,benid201,10,B>B,SB2.1-3(E2/TH2)
 com,"$Errant throw sailed to center field"
 play,4,1,benid201,32,B>B.BFCX,7/F/SF.3-H(RBI)(UR)
 play,4,1,lahnk201,12,CFFFFBFH,HP
-play,4,1,ibard201,21,BBFX,FC6/G.1X2(64)
+play,4,1,ibard201,21,BBFX,64(1)/FO/G
 com,"$Nice stop on the grounder"
 play,5,0,schra201,02,FCH,HP
 play,5,0,kim-h201,12,BS+1FFH,HP.1-2
@@ -328,7 +328,7 @@ play,6,0,schra201,32,BBBFFX,2/P/FL
 play,6,0,kim-h201,00,X,6/P
 play,6,1,ecclc201,22,CCBBX,S7/F
 com,"$LF, SS, and 3B all converged but none made it; shortstop made a diving attempt to no avail"
-play,6,1,ciame201,22,C1CBBX,FC4.1X2(46)
+play,6,1,ciame201,22,C1CBBX,46(1)/FO/G
 com,"$2B bobbled but a potential DP ball but recovered for the force"
 play,6,1,yonen201,32,CFB1BBB,W.1-2
 com,"$1B attempted deke on pickoff pretending ball got past her but runner was not fooled"
@@ -414,16 +414,16 @@ play,1,1,willm201,31,CBBBB,W
 play,1,1,benid201,00,B,WP.1-2
 play,1,1,benid201,32,B.CBFBB,W
 play,1,1,osulc201,12,BCCX,S9/G.2-3;1-2
-play,1,1,murpk201,12,BCCX,FC1/G.3XH(12);2-3;1-2;B-1
+play,1,1,murpk201,12,BCCX,12(3)/FO/G
 com,"$Bouncer deflected off Schroder's glove but she quickly recovered for the force at home"
 com,"$However ball was dropped on the transfer preventing the DP at first"
-play,1,1,ibard201,22,FFBBFX,FC5/G.3-3;2X3(5);1-2;B-1
+play,1,1,ibard201,22,FFBBFX,5(3)/FO/G
 play,2,0,kim-h201,20,BBX,13/G
 play,2,0,padgr201,22,CBCBX,63/G
 play,2,0,hastl201,22,BCCBS,K
 play,2,1,lee-j201,02,CSC,K/C
 play,2,1,zetta201,22,FBCBX,S7/L
-play,2,1,izumk201,32,BCBFBFX,FC5.1X2(54);B-1
+play,2,1,izumk201,32,BCBFBFX,54(1)/FO/G
 com,"$First foul ball was dropped was 3B, also hesitation possibly prevented DP"
 play,2,1,yonen201,00,1X,S7/G.1-2
 play,2,1,willm201,20,BBX,7/F

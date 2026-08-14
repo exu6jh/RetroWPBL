@@ -58,8 +58,8 @@ play,2,0,izumk201,02,CCX,S7/L
 play,2,0,zetta201,20,BBX,S7/G.1-2
 play,2,0,ecclc201,11,BCX,6/P
 play,2,1,lebla201,12,BSCX,S8/G
-play,2,1,jorga201,11,CBX,FC5/G/FO.1X2(54);B-1
-play,2,1,daybe201,00,X,FC1/BG.1X2(E1/TH2);B-1
+play,2,1,jorga201,11,CBX,54(1)/FO/G
+play,2,1,daybe201,00,X,FC1/BG.1-2(E1/TH2);B-1
 com,"$Throw was wide right, but 2B backed up play preventing ball from going into center field"
 play,2,1,kapls201,31,BB2FBB,W.2-3;1-2
 play,2,1,leguj201,00,B,WP.3-H(NR)(UR);2-3;1-2
@@ -93,7 +93,7 @@ play,4,0,lahnk201,22,BBFC>B,SB2
 play,4,0,lahnk201,32,BBFC>B.B,W
 play,4,0,ibard201,32,FFBVFBB,W.2-3;1-2
 com,"$First foul ball almost caught"
-play,4,0,kim-r201,32,BBCFBX,FC1/G.3XH(12);2-3;1-2;B-1
+play,4,0,kim-r201,32,BBCFBX,12(3)/FO/G
 play,4,0,izumk201,32,CBCBBFB,W.3-H(RBI);2-3;1-2
 com,"$Last ball hit Izumi on the elbow, but this was explicitly ruled a ball rather than an HBP by HP umpire, likely due to Izumi's lack of attempt to not get hit"
 play,4,0,zetta201,00,,NP
@@ -110,7 +110,7 @@ play,4,1,kapls201,22,CBCFBX,6/L
 com,"$Excellent leaping catch, ball dislodged after fall but catch confirmed"
 play,4,1,leguj201,02,SCH,HP.2-3;1-2
 com,"$Hit in the helmet, stayed in the game"
-play,4,1,parkj201,21,BBCX,FC4/G.3-H(RBI)(UR);2-3;1X2(E4);B-1
+play,4,1,parkj201,21,BBCX,FC4/G.3-H(RBI)(UR);2-3;1-2(E4);B-1
 com,"$2B fumbled but SS also failed to get her foot on the bag preventing forceout"
 play,4,1,giana201,12,CBCX,23/G.3-H(RBI)(UR);2-3;1-2
 play,4,1,gutis201,12,BCFFFFX,63/G
@@ -129,7 +129,7 @@ com,"$Ball hit right forearm during checked strikeout swing, ruled swinging stri
 play,6,0,izumk201,02,CCX,HR/F7D
 play,6,0,zetta201,00,H,HP
 play,6,0,ecclc201,11,CBX,8/F
-play,6,0,perev201,20,BBX,FC8/F.1X2(84);B-1
+play,6,0,perev201,20,BBX,84(1)/FO/F
 com,"$CF dropped catch possibly due to lights, got the force at first"
 play,6,0,yonen201,00,H,HP.1-2
 play,6,0,benid201,10,BX,HR/F8D.2-H(RBI);1-H(RBI)
@@ -224,7 +224,7 @@ start,gutis201,"Samantha Gutierrez",1,8,2
 start,eystj201,"Jordan Eyster",1,9,7
 play,1,0,eynoc201,02,CCX,63/G
 play,1,0,foxxm201,31,BBCBX,S8/L
-play,1,0,lansa201,10,BX,FC5/G.1X2(54);B-1
+play,1,0,lansa201,10,BX,54(1)/FO/G
 play,1,0,edwas201,00,X,5/P/FL
 play,1,1,giana201,32,FBCBBFFB,W
 play,1,1,whitk201,00,X,S7/L.1-2
@@ -268,7 +268,7 @@ play,4,0,apgab201,12,B1CC>B,CS2(24)
 play,4,0,apgab201,32,B1CC>B.BS,K
 play,4,0,eynoc201,22,BBCFFFX,53/G
 play,4,1,parkj201,32,SBBSFBB,W
-play,4,1,gutis201,00,11X,FC5/G.1X2(54);B-2(E4/TH1)
+play,4,1,gutis201,00,11X,54(1)/FO/G.B-2(E4/TH1)
 com,"$Throw bounced close to 1B, went wide"
 play,4,1,eystj201,21,BF2BX,S8/L.2-3
 play,4,1,giana201,01,1FX,9/F/SF.3-H(RBI)(UR)
@@ -287,7 +287,7 @@ play,4,1,parkj201,10,BX,E5/G/TH1.2-3;1-2
 com,"$Offline throw by 3B pulled 1B off of the bag"
 play,4,1,gutis201,32,BBFSFBB,W.3-H(RBI)(UR);2-3;1-2
 play,4,1,eystj201,32,FBBSBFB,W.3-H(RBI)(UR);2-3;1-2
-play,4,1,giana201,12,FBCX,FC6.1X2(64)
+play,4,1,giana201,12,FBCX,64(1)/FO/G
 play,5,0,foxxm201,00,,NP
 sub,ecken201,"Niki Eckert",1,7,1
 play,5,0,foxxm201,00,.,NP
