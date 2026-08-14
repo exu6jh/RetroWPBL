@@ -17,7 +17,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "beras701","Berardino","Steve","Steve",,"St. Louis","Missouri","USA",,,,,,,"08/05/2026",,,,
 "birdb201","Birdsall","Braidy","Braidy",,"Saskatoon","Saskatchewan","Canada",,,,,,,,,"R","R","5-06"
 "blunk201","Blunt","Kate Elizabeth-Ai","Kate","04/16/2003","Ladera Ranch","California","USA","08/02/2026",,,,,,,,"R","R","5-06"
-"brico201","Bricker","Olivia","Olivia","08/23/2000","Cincinnati","Ohio","USA",,,,,,,,,"L","L","5-04"
+"brico201","Bricker","Olivia","Olivia","08/23/2000","Cincinnati","Ohio","USA","08/13/2026",,,,,,,,"L","L","5-04"
 "bryad201","Bryant","Denver Amber","Denver","07/12/2002","Albany","Georgia","USA","08/02/2026",,,,,,,,"R","R","5-06"
 "chare601","Charlesworth-Seiler","Emma","Emma",,"Golden Valley","Minnesota","USA",,,,,"08/01/2026",,"08/08/2026","08/08/2026",,,
 "ciame201","Ciamarro","Elodie","Elodie",,"Mont-Saint-Hilaire","Quebec","Canada","08/01/2026",,,,,,,,"R","R",
@@ -128,7 +128,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "willm201","Willan","Madison Grace","Madison","02/07/2001","Edmonton","Alberta","Canada","08/01/2026",,,,,,,,"R","R","5-02"
 "womab201","Womack","Britanny","Brittany","07/22/1988","San Diego","California","USA",,,,,,,,,"L","R",
 "yamaa201","Yamamoto","Ayaka","Ayaka",,"Fukuyama","Hiroshima","Japan",,,,,,,,,"R","R",
-"yamas201","Yamamoto","Suzuka","Suzuka","07/03/1999","Takarazuka","Hyogo","Japan",,,,,,,,,"L","R","5-00"
+"yamas201","Yamamoto","Suzuka","Suzuka","07/03/1999","Takarazuka","Hyogo","Japan","08/13/2026",,,,,,,,"L","R","5-00"
 "yonen201","Yonetani","Natsuki","Natsuki","08/08/2001","Saitama","Saitama","Japan","08/01/2026",,,,,,,,"R","R",
 "youne001","Young","Eric Orlando Sr.","Eric","05/18/1967","New Brunswick","New Jersey","USA",,,"07/26/2026",,,,,,"R","R","5-09"
 "zetta201","Zettlemoyer","Alyssa","Alyssa","03/28/2007","Murrieta","California","USA","08/01/2026",,,,,,,,"R","R","5-04"
