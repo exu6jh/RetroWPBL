@@ -456,3 +456,156 @@ data,er,meidm201,1
 data,er,gildl201,2
 data,er,delcr201,0
 data,er,corip201,0
+id,SFF202608140
+info,visteam,LAQ
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/08/14
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,mckej701
+info,ump1b,herpe701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,83
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,overcast
+info,timeofgame,141
+info,wp,whitk201
+info,lp,naras201
+info,save,(none)
+start,honda201,"Amira Hondras",0,1,4
+start,davim201,"Mo'ne Davis",0,2,8
+start,lansa201,"Ashton Lansdell",0,3,5
+start,mackj201,"Jamie Mackay",0,4,10
+start,foxxm201,"Maggie Foxx",0,5,2
+start,edwas201,"Sarah Edwards",0,6,3
+start,eynoc201,"Caitlin Eynon",0,7,6
+start,maxit201,"Thaima Maximiliana",0,8,7
+start,benis201,"Samaria Benitez",0,9,9
+start,naras201,"Suzu Narasaki",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,1
+start,albaj201,"Jill Albayati",1,3,5
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,jorga201,"Alexia Jorge",1,5,2
+start,kapls201,"Skylar Kaplan",1,6,9
+start,leguj201,"Joely Leguizamon",1,7,6
+start,eystj201,"Jordan Eyster",1,8,8
+start,parkj201,"Jua Park",1,9,7
+play,1,0,honda201,02,CFX,9/F
+play,1,0,davim201,32,BCBCBX,1/P
+play,1,0,lansa201,12,SBCX,S7/L
+play,1,0,mackj201,11,1CBX,64(1)/FO/G
+play,1,1,giana201,32,BBBCFB,W
+play,1,1,whitk201,01,CX,3/P
+play,1,1,albaj201,10,B>B,SB2
+play,1,1,albaj201,31,B>B.BCB,W
+play,1,1,lebla201,12,CBFS,K
+play,1,1,jorga201,21,BFBX,S7/L.2-H(RBI);1-3
+com,"$LF moved forward a bit too far to make the play on the fast liner"
+play,1,1,kapls201,31,BBBCX,S8/L.3-H(RBI);1-2
+play,1,1,leguj201,10,BX,S7/L.2-H(RBI);1-3;B-2
+com,"$Runners took an extra base as the ball skipped away during the tag attempt"
+play,1,1,eystj201,00,X,1/P
+play,2,0,foxxm201,21,BBCX,8/F
+play,2,0,edwas201,22,BCCFBFX,43/G
+play,2,0,eynoc201,12,SFBT,K
+play,2,1,parkj201,00,X,8/F
+play,2,1,giana201,11,CBX,S8/F
+play,2,1,whitk201,11,FBX,E6/G.1-2
+com,"$Fumbled catch"
+play,2,1,albaj201,32,CCBBBFB,W.2-3;1-2
+play,2,1,lebla201,20,BBX,S9/G.3-H(UR)(RBI);2-3;1-2
+com,"$Both balls nearly hit Leblanc"
+play,2,1,jorga201,22,BFFBX,S8/F.3-H(UR)(RBI);2-H(UR)(RBI);1-3;B-2
+com,"$Jorge ducked to avoid a HBP, but the ball hit her still-upright bat leading to foul ball 1"
+play,2,1,kapls201,00,,NP
+sub,mackj201,"Jamie Mackay",0,4,1
+play,2,1,kapls201,00,.X,D9/L.3-H(RBI);2-H(RBI)
+play,2,1,leguj201,00,X,13/BG/SH.2-3
+play,2,1,eystj201,21,CBBX,9/F
+play,3,0,maxit201,00,X,9/L
+play,3,0,benis201,02,CFC,K/C
+play,3,0,honda201,00,X,31/G
+play,3,1,parkj201,31,CBBBX,63/G
+play,3,1,giana201,11,BFH,HP
+play,3,1,whitk201,00,1X,HR/F7D.1-H(RBI)
+play,3,1,albaj201,22,BCFBX,3/F
+com,"Great over the shoulder catch as RF, 2B, and 1B all converged"
+play,3,1,lebla201,21,CBBX,63/G
+play,4,0,davim201,31,BBBCB,W
+play,4,0,lansa201,10,BX,D8/L.1-3
+play,4,0,mackj201,02,CCB,WP.3-H(NR);2-3
+play,4,0,mackj201,12,CCB.FX,S6/G.3-H(RBI)
+com,"$Good stop on the ball, but a combination of distance from 1B and an offline throw allowed Mackay on base"
+play,4,0,foxxm201,02,CCX,54(1)/FO/G
+play,4,0,edwas201,01,CX,7/F
+play,4,0,eynoc201,00,X,S7/G.1-2
+com,"$Down the left field line"
+play,4,0,maxit201,00,X,31/G
+play,4,1,jorga201,12,CBFX,8/F
+play,4,1,kapls201,10,BX,D8/L
+play,4,1,leguj201,01,CX,7/F
+play,4,1,eystj201,00,X,S8/F.2-H(RBI)
+com,"$Davis came very close to a stellar catch on the dive"
+play,4,1,parkj201,22,BFBFX,S8/L.1-2
+com,"$Second foul ball almost caught on the long run by Maximiliana"
+play,4,1,giana201,20,BBH,HP.2-3;1-2
+play,4,1,whitk201,11,CBX,HR/F8D.3-H(RBI);2-H(RBI);1-H(RBI)
+play,4,1,albaj201,02,CFX,D8/F
+play,4,1,lebla201,00,X,53/G
+play,5,0,benis201,00,,NP
+sub,bepph201,"Hinano Beppu",1,1,4
+play,5,0,benis201,12,.FBCX,S9/G
+play,5,0,honda201,30,BBBB,W.1-2
+play,5,0,davim201,00,,NP
+sub,daybe201,"Ela Day-Bedard",1,2,1
+play,5,0,davim201,22,.CBFBX,46(1)3/GDP.2-3
+play,5,0,lansa201,31,BBCBX,7/F
+play,5,1,jorga201,12,FFBFX,HR/F7D
+play,5,1,kapls201,00,X,S8/G
+play,5,1,leguj201,12,CBFC,K/C
+play,5,1,eystj201,32,BBFBFB,W.1-2
+play,5,1,parkj201,02,CCFX,S7/L.2-3;1-2
+play,5,1,bepph201,12,CSBC,K/C
+play,5,1,daybe201,32,BBCSFBS,K
+play,6,0,mackj201,12,BFCS,K
+play,6,0,foxxm201,32,SCBBFBFFX,D7/L
+play,6,0,edwas201,00,B,WP.2-3
+play,6,0,edwas201,32,B.BCSBX,31/G.3-H(RBI)
+play,6,0,eynoc201,21,BBCX,S8/L
+play,6,0,maxit201,10,BH,HP.1-2
+play,6,0,benis201,10,BX,43/G
+play,6,1,albaj201,00,,NP
+sub,frana201,"Addie Frank",0,4,1
+play,6,1,albaj201,31,.BBBCB,W
+play,6,1,lebla201,00,,NP
+sub,yamaa201,"Ayaka Yamamoto",1,3,12
+play,6,1,lebla201,12,.BCCX,46(1)3/GDP
+play,6,1,jorga201,31,BBSBB,W
+play,6,1,kapls201,00,B,WP.1-2
+play,6,1,kapls201,32,B.BCFBB,W
+play,6,1,leguj201,32,CSBFBFBB,W.2-3;1-2
+play,6,1,eystj201,32,BBBCFB,W.3-H(RBI);2-3;1-2
+play,6,1,parkj201,12,CCBX,4/F
+play,7,0,honda201,00,,NP
+sub,yamaa201,"Ayaka Yamamoto",1,3,5
+play,7,0,honda201,00,.,NP
+sub,corip201,"Peyton Coria",1,2,1
+play,7,0,honda201,31,..BBBCX,13/G
+play,7,0,davim201,22,BCSBX,3/P
+play,7,0,lansa201,11,BCX,S9/F.BX2(96)
+data,er,naras201,5
+data,er,mackj201,8
+data,er,frana201,1
+data,er,whitk201,2
+data,er,daybe201,1
+data,er,corip201,0
