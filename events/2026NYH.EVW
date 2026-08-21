@@ -80,6 +80,7 @@ play,3,0,lansa201,12,CBFS,K
 play,3,0,mackj201,02,FFX,63/G
 play,3,1,willm201,31,BBCBB,W
 play,3,1,ibard201,12,CFBFX,4/P
+com,"$2B caught it right in front of 1B on the long run"
 play,3,1,studl201,00,X,S7/G.1-2
 play,3,1,izumk201,12,BCFX,2/P/FL
 play,3,1,perev201,00,X,7/F
@@ -122,6 +123,7 @@ sub,ciame201,"Elodie Ciamarro",1,9,4
 play,6,0,foxxm201,00,.,NP
 sub,murpk201,"Katherine Murphy",1,7,7
 play,6,0,foxxm201,20,..BBX,D7/L
+com,"$LF attempted to field too far forward and was only able to deflect the ball while backpedaling"
 play,6,0,rochm201,00,X,D7/L.2-H(RBI)
 play,6,0,honda201,02,CFB,WP.2-3
 play,6,0,honda201,12,CFB.FFX,3/G.3-H(RBI)
@@ -131,6 +133,7 @@ play,6,0,davim201,11,CBX,13/G
 play,6,1,perev201,00,,NP
 sub,meidm201,"Meggie Meidlinger",0,5,1
 play,6,1,perev201,01,.CX,43/G
+com,"$2B fumbled initially but quickly recovered"
 play,6,1,yonen201,12,FBCS,K
 play,6,1,benid201,00,X,S7/G
 play,6,1,lahnk201,30,BB1B>C,SB2
@@ -206,7 +209,7 @@ start,schra201,"Alli Schroder",0,5,10
 start,kim-h201,"Hyeonah Kim",0,6,2
 start,bryad201,"Denver Bryant",0,7,5
 start,haasg201,"Gabrielle Haas",0,8,8
-start,robis201,"Samantha Robinson",0,9,3
+start,robis201,"Sabrina Robinson",0,9,3
 start,padgr201,"Raine Padgham",0,0,1
 start,lee-j201,"Jaida Lee",1,1,10
 start,yonen201,"Natsuki Yonetani",1,2,9
@@ -523,3 +526,177 @@ data,er,schig201,0
 data,er,ecclc201,2
 data,er,kim-r201,2
 data,er,studl201,0
+id,NYH202608150
+info,visteam,SFF
+info,hometeam,NYH
+info,site,SPR03
+info,date,2026/08/15
+info,number,0
+info,gametype,regular
+info,starttime,1:00PM
+info,daynight,day
+info,innings,7
+info,umphome,herpe701
+info,ump1b,mckej701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,85
+info,winddir,tolf
+info,fieldcond,wet
+info,precip,none
+info,sky,overcast
+info,timeofgame,144
+info,wp,albaj201
+info,lp,lee-j201
+info,save,ecken201
+start,giana201,"Amanda Gianelloni",0,1,4
+start,whitk201,"Kelsie Whitmore",0,2,8
+start,albaj201,"Jill Albayati",0,3,1
+start,lebla201,"Andreanne Leblanc",0,4,3
+start,kapls201,"Skylar Kaplan",0,5,9
+start,leguj201,"Joely Leguizamon",0,6,6
+start,daybe201,"Ela Day-Bedard",0,7,7
+start,parkj201,"Jua Park",0,8,5
+start,gutis201,"Samantha Gutierrez",0,9,2
+start,yonen201,"Natsuki Yonetani",1,1,9
+start,ciame201,"Elodie Ciamarro",1,2,4
+start,benid201,"Denae Benites",1,3,2
+start,lahnk201,"Kylee Lahners",1,4,3
+start,zetta201,"Alyssa Zettlemoyer",1,5,5
+start,ibard201,"Diana Ibarra",1,6,8
+start,studl201,"London Studer",1,7,7
+start,lee-j201,"Jaida Lee",1,8,1
+start,izumk201,"Keira Izumi",1,9,6
+play,1,0,giana201,12,BSSS,K
+play,1,0,whitk201,22,SBFBX,S7/L
+play,1,0,albaj201,22,C1BB+1FX,8/L
+play,1,0,lebla201,01,CX,S8/G.1-2
+play,1,0,kapls201,10,BX,6(1)/FO/G
+play,1,1,yonen201,00,X,63/G
+play,1,1,ciame201,10,BX,S6/L
+com,"$SS had a long run; she stumbled on the grass but batter likely would have made it anyhow"
+play,1,1,benid201,10,BX,S7/L.1-2
+play,1,1,lahnk201,00,X,64(1)/G.2-H(E4/TH1)(UR)
+com,"2B threw a bit high and the ball tipped off the end of the 1B's glove"
+play,1,1,zetta201,22,SBFBC,K/C
+play,2,0,leguj201,11,BCX,7/F
+play,2,0,daybe201,02,CFH,HP
+play,2,0,parkj201,12,BFCFS+1,K
+play,2,0,gutis201,01,FB,WP.1-2
+play,2,0,gutis201,11,FB.B,WP.2-3
+play,2,0,gutis201,21,FB.B.X,S8/G.3-H(RBI)
+play,2,0,giana201,12,BSFX,8/F
+com,"$2B, CF, and RF all converged on the long run"
+play,2,1,ibard201,12,CCBH,HP
+play,2,1,studl201,10,BX,S8/L.1-2
+play,2,1,lee-j201,12,BCSS,K
+play,2,1,izumk201,00,H,HP.2-3;1-2
+com,"$Ball hit Izumi's shoulder; was so loud that it was initially called a foul ball off the bat"
+play,2,1,yonen201,11,CBX,12(3)/FO/G
+play,2,1,ciame201,12,BFFC,K/C
+play,3,0,whitk201,10,BX,S5/L
+com,"$Zettlemoyer deflected the fast liner, slowing it and preventing extra bases"
+play,3,0,albaj201,12,BCCF1X,HR/F7D.1-H(RBI)
+play,3,0,lebla201,11,BCX,7/F
+play,3,0,kapls201,01,FX,S8/G
+play,3,0,leguj201,01,FX,S9/G.1-2
+play,3,0,daybe201,22,CSFBBS,K
+play,3,0,parkj201,32,BBCCBFB,W.2-3;1-2
+play,3,0,gutis201,02,CCH,HP.3-H(RBI);2-3;1-2
+play,3,0,giana201,12,FCBFS,K
+play,3,1,benid201,00,X,4/P
+play,3,1,lahnk201,32,BCBFBX,7/F
+play,3,1,zetta201,31,BBBFB,W
+play,3,1,ibard201,01,FX,S7/L.1-2
+play,3,1,studl201,32,BBBCCX,S6/G.2-3;1-2
+com,"$Excellent diving stop by Leguizamon; she slipped getting up preventing the out but likely saved a run"
+play,3,1,lee-j201,12,SBCS,K
+play,4,0,whitk201,22,BCBSC,K/C
+play,4,0,albaj201,11,BCH,HP
+com,"$Directly on the ear flaps"
+play,4,0,lebla201,00,X,DGR/F.1-3
+com,"$Ball became irretrievably lodged underneath the temporary fence in CF"
+play,4,0,kapls201,00,,NP
+sub,osulc201,"Claire O'Sullivan",1,8,1
+play,4,0,kapls201,32,.BCFBBB,W
+play,4,0,leguj201,02,CFX,S9/L.3-H(RBI);2-3;1-2
+com,"$The ball landed on the grass inches in front of the sliding RF's glove"
+play,4,0,daybe201,12,FSBX,4/P
+play,4,0,parkj201,01,CX,S7/L.3-H(RBI);2XH(752);1-2
+play,4,1,izumk201,12,CCBS,K
+com,"$Izumi checked her swing for ball 1"
+play,4,1,yonen201,00,X,5/L
+play,4,1,ciame201,00,,NP
+sub,reynj201,"Jacqui Reynolds",1,2,11
+play,4,1,reynj201,32,.BBCSBB,W
+play,4,1,benid201,01,CX,HR/F8D.1-H(RBI)
+play,4,1,lahnk201,12,CCBFX,4/P
+play,5,0,gutis201,00,,NP
+sub,willm201,"Madison Willan",1,2,4
+play,5,0,gutis201,01,.FX,S7/G
+play,5,0,giana201,00,X,S7/L.1-2
+play,5,0,whitk201,02,FCX,HR/F7D.2-H(RBI);1-H(RBI)
+com,"$Out of the stadium and into the street"
+play,5,0,albaj201,22,CBBCFX,S9/F
+play,5,0,lebla201,10,BX,13/G.1-2
+play,5,0,kapls201,21,BFBX,8/L.2-3
+play,5,0,leguj201,00,X,3/P/FL
+play,5,1,zetta201,00,,NP
+sub,ecken201,"Niki Eckert",0,7,1
+play,5,1,zetta201,00,.,NP
+sub,parkj201,"Jua Park",0,8,7
+play,5,1,zetta201,00,..,NP
+sub,albaj201,"Jill Albayati",0,3,5
+play,5,1,zetta201,12,...FCFBS,K
+play,5,1,ibard201,22,BBCFX,13/G
+play,5,1,studl201,00,X,7/L
+play,6,0,ecken201,12,FBFX,7/F
+play,6,0,parkj201,00,X,63/G
+play,6,0,gutis201,11,BCH,HP
+com,"$Gutierrez turned away and it hit the back of her helmet"
+play,6,0,giana201,11,BFX,S8/L.1-2
+play,6,0,whitk201,30,BBBB,W.2-3;1-2
+play,6,0,albaj201,01,FX,53/G
+play,6,1,osulc201,12,CFBFFX,4/P
+play,6,1,izumk201,32,CBBCBX,D8/F
+com,"$LF made a diving effort on the run but couldn't quite reach it"
+play,6,1,yonen201,00,>B,SB3
+play,6,1,yonen201,12,>B.CCX,D8/F.3-H(RBI)
+play,6,1,willm201,31,BCBBB,W
+play,6,1,benid201,12,CFBX,S7/G.2-H(RBI);1-2
+play,6,1,lahnk201,31,CB+1BBH,HP.2-3;1-2
+play,6,1,zetta201,11,BCC,OA.3XH(242);2-3;1-2
+com,"$Benites was caught off 2nd base on the pickoff throw, at which point Reynolds also took off from 3rd"
+com,"$The throw from 2B got to the catcher in time for the rundown, Reynolds was called out for leaving the baseline"
+play,6,1,zetta201,22,BCC.BX,53/G
+play,7,0,lebla201,00,,NP
+sub,izumk201,"Keira Izumi",1,9,1
+play,7,0,lebla201,00,.,NP
+sub,willm201,"Madison Willan",1,2,6
+play,7,0,lebla201,00,..,NP
+sub,zetta201,"Alyssa Zettlemoyer",1,5,4
+play,7,0,lebla201,00,...,NP
+sub,osulc201,"Claire O'Sullivan",1,8,5
+play,7,0,lebla201,00,....X,DGR/L
+com,"$Lodged underneath the temporary fence in RF"
+play,7,0,kapls201,10,BX,43/G.2-3
+play,7,0,leguj201,01,FX,S7/G.3-H(RBI)
+play,7,0,ecken201,10,B>B,SB2
+play,7,0,ecken201,21,B>B.FX,5/P/FL
+play,7,0,parkj201,10,BB,WP.2-3
+play,7,0,parkj201,31,BB.CBB,W
+play,7,0,gutis201,01,CX,S8/F.3-H(RBI);1-3
+play,7,0,giana201,12,FBCFX,8/F
+play,7,1,ibard201,00,,NP
+sub,kim-r201,"Rakyung Kim",1,6,11
+play,7,1,kim-r201,11,.CBX,63/G
+play,7,1,studl201,32,FBBCBX,31/G
+play,7,1,osulc201,22,FBFBFX,HR/F7D
+play,7,1,izumk201,10,BX,8/F
+data,er,albaj201,2
+data,er,ecken201,3
+data,er,lee-j201,6
+data,er,osulc201,3
+data,er,izumk201,2

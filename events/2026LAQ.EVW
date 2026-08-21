@@ -24,7 +24,7 @@ info,wp,rochm201
 info,lp,schra201
 info,save,(none)
 start,blunk201,"Kate Blunt",0,1,4
-start,delee201,"Edith de Leija",0,2,10
+start,delee201,"Edith De Leija",0,2,10
 start,bryad201,"Denver Bryant",0,3,5
 start,geldt201,"Ticara Geldenhuis",0,4,7
 start,padgr201,"Raine Padgham",0,5,6
@@ -247,7 +247,7 @@ play,4,0,delcr201,02,CCC,K/C
 play,4,1,eynoc201,00,,NP
 sub,whitk201,"Kelsie Whitmore",0,2,8
 play,4,1,eynoc201,00,.,NP
-sub,delcr201,"Rosi del Castillo",0,6,7
+sub,delcr201,"Rosi Del Castillo",0,6,7
 play,4,1,eynoc201,00,..,NP
 sub,albaj201,"Jill Albayati",0,3,5
 play,4,1,eynoc201,00,...,NP
@@ -288,7 +288,7 @@ play,6,0,kapls201,00,,NP
 sub,meidm201,"Meggie Meidlinger",1,0,1
 play,6,0,kapls201,01,.CX,7/F
 play,6,1,foxxm201,00,,NP
-sub,delcr201,"Rosi del Castillo",0,6,1
+sub,delcr201,"Rosi Del Castillo",0,6,1
 play,6,1,foxxm201,00,.,NP
 sub,eystj201,"Jordan Eyster",0,9,7
 play,6,1,foxxm201,11,..BCX,S7/L.BX2(74)

@@ -40,7 +40,7 @@ start,geldt201,"Ticara Geldenhuis",1,5,7
 start,schra201,"Alli Schroder",1,6,3
 start,bryad201,"Denver Bryant",1,7,5
 start,greeb201,"Beth Greenwood",1,8,2
-start,haasg201,"Gabriella Haas",1,9,8
+start,haasg201,"Gabrielle Haas",1,9,8
 play,1,0,giana201,12,CFBS,K
 play,1,0,whitk201,00,X,53/G
 play,1,0,albaj201,10,BX,D9/F
@@ -95,10 +95,14 @@ com,"$Stellar diving catch by Haas; runner was past second but bobble on relay t
 play,4,0,giana201,32,BBBCFX,S7/G.1-2
 play,4,0,whitk201,31,BSBBX,14(1)3/GDP
 play,4,1,kim-h201,00,,NP
-sub,ecken201,"Niki Eckert",0,6,1
+sub,ecken201,"Niki Eckert",0,9,1
 play,4,1,kim-h201,00,.,NP
+sub,albaj201,"Jill Albayati",0,3,5
+play,4,1,kim-h201,00,..,NP
+sub,daybe201,"Ela Day-Bedard",0,6,7
+play,4,1,kim-h201,00,...,NP
 sub,whitk201,"Kelsie Whitmore",0,2,8
-play,4,1,kim-h201,12,..CBFX,E6/TH1/G
+play,4,1,kim-h201,12,....CBFX,E6/TH1/G
 com,"$Throw went wide to 1B's right"
 play,4,1,geldt201,02,CFFFX,D7/L.1-3
 play,4,1,schra201,02,FSS,K.BX1(23)
@@ -107,19 +111,22 @@ play,4,1,bryad201,32,N.FBSFBBS,K
 play,4,1,greeb201,31,BBFBN,BK.3-H(NR)(UR)
 play,4,1,greeb201,32,BBFBN.SB,W
 play,4,1,haasg201,22,BCSBC,K/C
-com,"Kim to catcher some point before this inning, possibly Greenwood in RF."
-com,"It isn't recorded on PBP and graphics continued using wrong positions, but commentators mention new catcher"
-play,5,0,albaj201,32,BBCBCX,8/L
+play,5,0,albaj201,00,,NP
+sub,kim-h201,"Hyeonah Kim",1,4,2
+play,5,0,albaj201,00,.,NP
+sub,greeb201,"Beth Greenwood",1,8,9
+play,5,0,albaj201,00,..,NP
+sub,hastl201,"Lexi Hastings",1,5,7
+com,"Graphics continued using wrong positions, but commentators mentioned new catcher"
+play,5,0,albaj201,32,...BBCBCX,8/L
 play,5,0,lebla201,32,CBCFBBFFB,W
 play,5,0,jorga201,02,FCX,S9/F.1-3;BX2(946)
 play,5,0,ecken201,00,,NP
 sub,eystj201,"Jordan Eyster",0,6,11
 play,5,0,eystj201,01,.SX,9/F
 play,5,1,blunk201,00,,NP
-sub,ecken201,"Niki Eckert",0,9,1
 play,5,1,blunk201,00,.,NP
-sub,eystj201,"Jordan Eyster",0,6,5
-com,"My guess at subs, official ones appear to be wrong"
+sub,eystj201,"Jordan Eyster",0,6,7
 play,5,1,blunk201,30,..BBBB,W
 play,5,1,delee201,12,BC1CX,E1/G.1-2
 com,"$Pitcher whiffed on attempting to pick up the ball"
@@ -127,16 +134,14 @@ play,5,1,dumam201,00,,NP
 sub,paddm201,"Molly Paddison",1,3,11
 play,5,1,paddm201,22,.CBCFBC,K/C
 play,5,1,kim-h201,12,BCSX,53/G.2-3;1-2
-play,5,1,geldt201,00,,NP
-sub,hastl201,"Lexi Hastings",1,5,11
-play,5,1,hastl201,00,.H,HP
+play,5,1,hastl201,00,H,HP
 play,5,1,schra201,00,X,46(1)/FO/G
 play,6,0,kapls201,00,,NP
 sub,schra201,"Alli Schroder",1,6,1
 play,6,0,kapls201,00,.,NP
-sub,robis201,"Sabrina Robinson",1,3,3
+sub,paddm201,"Molly Paddison",1,3,9
 play,6,0,kapls201,00,..,NP
-sub,hastl201,"Lexi Hastings",1,5,7
+sub,robis201,"Sabrina Robinson",1,4,3
 play,6,0,kapls201,10,...BX,S8/L
 play,6,0,leguj201,20,BBX,54(1)/FO/G
 play,6,0,ecken201,32,SBCBFBB,W.1-2
@@ -150,11 +155,8 @@ play,6,0,albaj201,00,X,9/L
 play,6,1,bryad201,00,,NP
 sub,albaj201,"Jill Albayati",0,3,1
 play,6,1,bryad201,00,.,NP
-sub,eystj201,"Jordan Eyster",0,6,7
-play,6,1,bryad201,00,..,NP
-sub,ecken201,"Niki Eckert",0,9,5
-com,"Once again a guess, particularly for Eckert"
-play,6,1,bryad201,32,...BSFBBFC,K/C
+sub,gutis201,"Samantha Gutierrez",0,9,5
+play,6,1,bryad201,32,..BSFBBFC,K/C
 play,6,1,greeb201,12,CCBX,13/G
 com,"Play itself missing from video"
 play,6,1,haasg201,21,FBBX,163/G
@@ -202,7 +204,7 @@ info,wp,osulc201
 info,lp,blunk201
 info,save,(none)
 start,yonen201,"Natsuki Yonetani",0,1,9
-start,perev201,"Val Perez",0,2,6
+start,perev201,"Valerie Perez",0,2,6
 start,benid201,"Denae Benites",0,3,2
 start,lahnk201,"Kylee Lahners",0,4,10
 start,murpk201,"Katherine Murphy",0,5,7
@@ -378,3 +380,168 @@ data,er,osulc201,0
 data,er,schig201,3
 data,er,benap201,0
 data,er,blunk201,1
+id,BSH202608150
+info,visteam,LAQ
+info,hometeam,BSH
+info,site,SPR03
+info,date,2026/08/15
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,mckej701
+info,ump1b,herpe701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,85
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,cloudy
+info,timeofgame,144
+info,wp,rochm201
+info,lp,benap201
+info,save,(none)
+start,davim201,"Mo'ne Davis",0,1,8
+start,honda201,"Amira Hondras",0,2,4
+start,lansa201,"Ashton Lansdell",0,3,5
+start,foxxm201,"Maggie Foxx",0,4,2
+start,mackj201,"Jamie Mackay",0,5,10
+start,frana201,"Addie Frank",0,6,3
+start,maxit201,"Thaima Maximiliana",0,7,7
+start,benis201,"Samaria Benitez",0,8,6
+start,naras201,"Suzu Narasaki",0,9,9
+start,rochm201,"Michelle Roche",0,0,1
+start,yamas201,"Suzuka Yamamoto",1,1,6
+start,hastl201,"Lexi Hastings",1,2,8
+start,paddm201,"Molly Paddison",1,3,9
+start,geldt201,"Ticara Geldenhuis",1,4,7
+start,kim-h201,"Hyeonah Kim",1,5,10
+start,dumam201,"Maika Dumais",1,6,3
+start,blunk201,"Kate Blunt",1,7,5
+start,greeb201,"Beth Greenwood",1,8,2
+start,haasg201,"Gabrielle Haas",1,9,4
+start,benap201,"Paloma Benach",1,0,1
+play,1,0,davim201,11,CBX,4/F
+play,1,0,honda201,02,CCX,S9/G.BX2(96)
+com,"$Down the RF line, great throw"
+play,1,0,lansa201,31,BSBBB,W
+play,1,0,foxxm201,00,X,S8/L.1-3(E8)
+com,"$Runner advanced to third after the bounce deflected off the CF's glove"
+play,1,0,mackj201,12,SFB1X,E3/P.3-H(UR)(RBI);1-3
+com,"$1B called off 2B and RF but misjudged ball which fell just out of reach"
+play,1,0,frana201,00,X,S8/L.3-H(UR)(RBI);1-3
+play,1,0,maxit201,02,FCX,13/G
+play,1,1,yamas201,11,CBX,63/G
+com,"$Benitez initially fumbled the low one-hopper, but recovered for the quick toss"
+play,1,1,hastl201,32,SBBFBFFX,5/P
+play,1,1,paddm201,12,CFBX,8/F
+play,2,0,benis201,32,FSBBBX,S6/G
+com,"$Long throw, pulled 1B off base"
+play,2,0,naras201,21,CBBX,3/P/FL
+play,2,0,davim201,21,B1CBX,S8/L.1-2
+play,2,0,honda201,02,LMX,1(B)6(2)/L
+com,"$Stellar play by Benach and Yamamoto; a quick snag and throw allowed Yamamoto to get Benitez right as she slid back foot-first"
+play,2,1,geldt201,02,CFX,HR/F7D
+play,2,1,kim-h201,10,BX,63/G
+play,2,1,dumam201,01,CX,3/G
+play,2,1,blunk201,22,BFBCX,9/F
+play,3,0,lansa201,00,X,9/F
+play,3,0,foxxm201,32,FBCBFFBX,9/F
+play,3,0,mackj201,21,CBBX,HR/F89D
+play,3,0,frana201,02,CFX,9/F
+play,3,1,greeb201,21,VFBX,S9/F
+com,"$Right along the 1B line; 1B, 2B (diving for the ball), and RF all converged but none could catch it"
+play,3,1,haasg201,32,BB1CFBX,7/F
+play,3,1,yamas201,12,CFBFX,3/G.1-2
+com,"$Frank dove for and deflected the ball, which bounced next to the bag; she was able to stand on the bag and pick the ball up for the out"
+play,3,1,hastl201,00,B,WP.2-3
+play,3,1,hastl201,31,B.FBBB,W
+play,3,1,paddm201,01,C1>B,SBH;SB2
+com,"$Catcher seemed to throw in time for the out at second but ball bounced out of 2B's glove, CF backed up the play"
+com,"$Runner on third took off as the ball bobbled out, CF's throw made for a close play but ultimately the runner won out"
+play,3,1,paddm201,11,C1>B.X,43/G
+play,4,0,maxit201,32,BCBBFB,W
+play,4,0,benis201,11,BC1,PO1(136)
+play,4,0,benis201,32,BC1.CFBBX,8/F
+com,"$Over-the-shoulder catch"
+play,4,0,naras201,02,CFX,53/G
+play,4,1,geldt201,22,BBCCFFX,8/F
+play,4,1,kim-h201,31,BBFBB,W
+play,4,1,dumam201,11,CBX,64(1)/FO/G
+com,"$SS stumbled, got the force out but was slowed enough to prevent the out at first"
+play,4,1,blunk201,22,BCBFX,D7/G.1-H(RBI)
+com,"$Blunt didn't initially realize that the ball, which was hit right along the line into the left outfield corner, was fair"
+play,4,1,greeb201,00,X,S7/G.2-3
+play,4,1,haasg201,00,X,64(1)/FO/G
+play,5,0,davim201,00,,NP
+sub,padgr201,"Raine Padgham",1,0,1
+play,5,0,davim201,31,.BCBBB,W
+play,5,0,honda201,00,X,5/L
+play,5,0,lansa201,00,X,S6/G.1-2
+com,"$SS bobbled the ball, but it would have been a very long throw anyhow"
+play,5,0,foxxm201,32,BBCSFBFX,S6/L.2-3;1-2
+com,"$SS had to dive for the ball, glove got detached in the process arresting the progress of the ball and preventing any further advances"
+play,5,0,mackj201,00,B,WP.3-H(NR);2-3;1-2
+play,5,0,mackj201,32,B.FBFB,WP.3-H(NR);2-3
+play,5,0,mackj201,32,B.FBFB.X,HR/F7D.3-H(RBI)
+play,5,0,frana201,30,BBBX,3/G
+play,5,0,maxit201,12,SFBS,K
+play,5,1,yamas201,00,,NP
+sub,satoa201,"Ayami Sato",0,0,1
+play,5,1,yamas201,32,.BBCCBS,K
+play,5,1,hastl201,12,BSCC,K/C
+play,5,1,paddm201,01,CX,63/G
+play,6,0,benis201,00,,NP
+sub,brico201,"Olivia Bricker",1,0,1
+play,6,0,benis201,22,.BBCFX,9/F
+play,6,0,naras201,11,BFX,D8/F
+play,6,0,davim201,12,BCF>B,SB3
+play,6,0,davim201,22,BCF>B.X,S9/L.3-H(RBI)
+play,6,0,honda201,20,B1BX,5/L
+play,6,0,lansa201,00,,NP
+sub,dumam201,"Maika Dumais",1,6,1
+play,6,0,lansa201,00,.,NP
+sub,robis201,"Sabrina Robinson",1,5,3
+play,6,0,lansa201,32,..CBCFFBBFB,W.1-2
+play,6,0,foxxm201,10,BB+1,OA.2-H(E2/TH)(UR)(NR);1-3
+com,"$Attempted pickoff throw went far wide"
+play,6,0,foxxm201,32,BB+1.FBFX,E6/TH1.3-H(UR)(RBI)
+com,"$Throw pulled Robinson off the bag"
+play,6,0,mackj201,02,CFX,D8/F.1-3
+play,6,0,frana201,31,FBBBX,S9/L.3-H(RBI)(UR);2-H(RBI)
+play,6,0,maxit201,22,BBFCX,13/G
+play,6,1,geldt201,00,,NP
+sub,meidm201,"Meggie Meidlinger",0,0,1
+play,6,1,geldt201,32,.BBCBSFFFC,K/C
+play,6,1,robis201,22,CBBFX,53/G
+com,"$Good stretch and grab by the 1B"
+play,6,1,dumam201,12,CFFBC,K/C
+play,7,0,benis201,01,CX,S8/G
+play,7,0,naras201,22,1BBCFS,K
+play,7,0,davim201,00,,NP
+sub,apgab201,"Britt Apgar",0,1,11
+play,7,0,apgab201,22,.BCBFFC,K/C
+play,7,0,honda201,10,BX,D8/F.1-H(RBI)
+play,7,0,lansa201,00,,NP
+sub,eynoc201,"Caitlin Eynon",0,3,11
+play,7,0,eynoc201,02,.CCX,8/F
+play,7,1,blunk201,00,,NP
+sub,apgab201,"Britt Apgar",0,1,8
+play,7,1,blunk201,00,.,NP
+sub,eynoc201,"Caitlin Eynon",0,3,5
+play,7,1,blunk201,00,..,NP
+sub,schra201,"Alli Schroder",1,7,11
+play,7,1,schra201,22,...FBFBFC,K/C
+play,7,1,greeb201,00,X,3/P/FL
+play,7,1,haasg201,10,BX,4/P
+data,er,rochm201,3
+data,er,satoa201,0
+data,er,meidm201,0
+data,er,benap201,1
+data,er,padgr201,4
+data,er,brico201,1
+data,er,dumam201,2
