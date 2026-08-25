@@ -700,3 +700,184 @@ data,er,ecken201,3
 data,er,lee-j201,6
 data,er,osulc201,3
 data,er,izumk201,2
+id,NYH202608160
+info,visteam,BSH
+info,hometeam,NYH
+info,site,SPR03
+info,date,2026/08/16
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,herpe701
+info,ump1b,pullj701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,79
+info,winddir,ltor
+info,fieldcond,wet
+info,precip,rain
+info,sky,cloudy
+info,timeofgame,146
+info,wp,schig201
+info,lp,zetta201
+info,save,(none)
+start,haasg201,"Gabrielle Haas",0,1,8
+start,delee201,"Edith De Leija",0,2,5
+start,paddm201,"Molly Paddison",0,3,9
+start,bryad201,"Denver Bryant",0,4,10
+start,geldt201,"Ticara Geldenhuis",0,5,7
+start,kim-h201,"Hyeonah Kim",0,6,2
+start,padgr201,"Raine Padgham",0,7,6
+start,dumam201,"Maika Dumais",0,8,3
+start,yamas201,"Suzuka Yamamoto",0,9,4
+start,blunk201,"Kate Blunt",0,0,1
+start,yonen201,"Natsuki Yonetani",1,1,9
+start,benid201,"Denae Benites",1,2,2
+start,osulc201,"Claire O'Sullivan",1,3,5
+start,lahnk201,"Kylee Lahners",1,4,10
+start,perev201,"Valerie Perez",1,5,6
+start,studl201,"London Studer",1,6,7
+start,ibard201,"Diana Ibarra",1,7,8
+start,kim-r201,"Rakyung Kim",1,8,3
+start,izumk201,"Keira Izumi",1,9,4
+start,reynj201,"Jacqui Reynolds",1,0,1
+play,1,0,haasg201,02,CCS,K
+play,1,0,delee201,32,BFBBTB,W
+play,1,0,paddm201,00,1X,5/P
+com,"$Right on the 3B line"
+play,1,0,bryad201,22,BCCBFX,S7/G.1-2
+play,1,0,geldt201,31,BBBCB,W.2-3;1-2
+play,1,0,kim-h201,12,BCCS,K
+play,1,1,yonen201,31,BBBCB,W
+play,1,1,benid201,01,F1X,D7/G.1-H(RBI)
+com,"Fielding attempt prior to throw was not shown in footage"
+play,1,1,osulc201,11,CB>C,SB3
+play,1,1,osulc201,12,CB>C.FFX,7/F/SF.3-H(RBI)
+play,1,1,lahnk201,31,CBBBX,S7/G
+play,1,1,perev201,11,CBX,46(1)/FO/G
+com,"$Throw to first went errant but batter held at first"
+play,1,1,studl201,11,CB>B,SB2
+play,1,1,studl201,21,CB>B.X,S8/L.2-H(RBI)
+play,1,1,ibard201,22,B1T1SB1,BK.1-2
+com,"$Disengagement violation"
+play,1,1,ibard201,22,B1T1SB1.S,K
+play,2,0,padgr201,11,CBX,2/P/FL
+play,2,0,dumam201,10,BX,S9/G
+com,"$2B got over but her glove went over the ball"
+play,2,0,yamas201,00,>B,SB2
+play,2,0,yamas201,10,>B.X,S2/BG.2-3
+com,"$Catcher's throw pulled 1B off of the bag"
+play,2,0,haasg201,11,CB>S,CS2(24)
+play,2,0,haasg201,22,CB>S.BX,63/L
+com,"$Great run and stretch for the catch"
+play,2,1,kim-r201,22,BCCBX,3/L
+play,2,1,izumk201,31,BCBBB,W
+play,2,1,yonen201,11,BC>B,SB2
+play,2,1,yonen201,21,BC>B.X,7/F/FL.2-3
+com,"$Great catch on the long run, a few inches foul down the 3B line"
+play,2,1,benid201,30,BBBB,W
+play,2,1,osulc201,00,>B,SB2
+play,2,1,osulc201,21,>B.FBX,3/P
+play,3,0,delee201,01,C,NP
+sub,zetta201,"Alyssa Zettlemoyer",1,0,1
+com,"$Reynolds was removed with an unspecified injury, possibly leg discomfort"
+play,3,0,delee201,11,C.BX,8/F
+play,3,0,paddm201,22,CBFBX,9/F
+com,"$On the long run by Yonetani"
+play,3,0,bryad201,01,FX,3/F
+play,3,1,lahnk201,22,CBFBX,63/G
+play,3,1,perev201,00,X,8/F
+play,3,1,studl201,00,X,S8/G
+com,"$Ball deflected off of Blunt's back"
+play,3,1,ibard201,12,BF1FX,E5/G.1-2
+com,"$Bobbled ball"
+play,3,1,kim-r201,22,ACBFFBX,S7/F.2-H(RBI)(UR);1-3;BX2(764)
+com,"$Shortstop cut off the throw to 3B and threw quickly to the 2B to nab Kim, who slipped near the base"
+play,4,0,geldt201,31,BCBBB,W
+play,4,0,kim-h201,02,C1C+1X,S9/F.1-2
+play,4,0,padgr201,00,X,FC4/G.2-H(NR);1-3;B-2(E4/TH2)
+com,"$Potential DP ball thrown over the shortstop's head"
+play,4,0,dumam201,21,BCBX,D8/L.3-H(RBI);2-H(RBI)(UR)
+play,4,0,yamas201,11,CBX,S7/P.2-2
+com,"$Very long run for the LF who couldn't make it, runner at 2nd held for potential catch"
+play,4,0,haasg201,00,X,13/BG/SH.2-3;1-2
+play,4,0,delee201,00,X,7/F/SF.3-H(RBI)(UR)
+play,4,0,paddm201,02,FC>B,SB3
+play,4,0,paddm201,12,FC>B.S,K
+play,4,1,izumk201,00,,NP
+sub,schig201,"Gigi Schiano",0,0,1
+play,4,1,izumk201,31,.BBBCX,8/F
+play,4,1,yonen201,02,CCX,8/L
+com,"$Great diving catch by Haas"
+play,4,1,benid201,20,BBX,HR/F7D
+play,4,1,osulc201,10,BX,53/G
+play,5,0,bryad201,00,,NP
+sub,willm201,"Madison Willan",1,9,4
+play,5,0,bryad201,31,.BBBSB,W
+play,5,0,geldt201,11,BF1>B,SB2
+play,5,0,geldt201,31,BF1>B.BB,W
+play,5,0,kim-h201,00,H,HP.2-3;1-2
+com,"$Throw got Kim right on the back of the helmet (which flew off) as she turned away to avoid it"
+play,5,0,padgr201,32,BFCBFBX,64(1)/FO/P.3-H(RBI);2-3
+com,"$Shortstop could not get a good read on the ball and hesitated, fell between her and CF"
+play,5,0,dumam201,10,B>B,SB2
+com,"$Sudden downpour of rain"
+play,5,0,dumam201,31,B>B.FBB,W
+com,"$Few minutes delay to replace cleat cleaner and to make substitutions during the rain, which continued drizzling"
+play,5,0,yamas201,00,,NP
+sub,studl201,"London Studer",1,6,1
+play,5,0,yamas201,00,.,NP
+sub,kim-r201,"Rakyung Kim",1,8,7
+play,5,0,yamas201,00,..,NP
+sub,osulc201,"Claire O'Sullivan",1,3,3
+play,5,0,yamas201,00,...,NP
+sub,zetta201,"Alyssa Zettlemoyer",1,4,5
+play,5,0,yamas201,10,....BX,S6/L.3-H(RBI);2XH(621);1-3;B-2
+com,"$High liner went over third base and fell between shortstop and LF, SS threw wide past 3B to dugout wall causing"
+com,"$runner from 2nd to attempt to advance home; catcher retrieved ball and made a quick throw to the pitcher to nab"
+com,"$the runner at the plate"
+play,5,0,haasg201,10,BB,WP.3-H(NR);2-3
+com,"$Benites made a huge diving leap for the errant (perhaps rain-slippery) pitch but could only deflect it"
+play,5,0,haasg201,31,BB.CBB,W
+play,5,0,delee201,02,CCX,S1/G.3-H(RBI);1-2
+com,"$Fumbled catch got past Studer"
+play,5,0,paddm201,22,BFSBS,K.BX1(23)
+play,5,1,zetta201,12,CCFBX,4/P
+com,"$1B, 2B, and RF all converged; 2B got there first"
+play,5,1,perev201,31,BCBBX,63/G
+play,5,1,studl201,22,BBFCC,K/C
+play,6,0,bryad201,12,FBFX,13/G
+play,6,0,geldt201,30,BBBB,W
+play,6,0,kim-h201,00,B,WP.1-2
+play,6,0,kim-h201,12,B.CSFS,K
+play,6,0,padgr201,00,>B,SB3
+play,6,0,padgr201,20,>B.BX,S6/G.3-H(RBI)
+com,"$SS made a good diving stop on the ball up the middle, but by then it was already too late"
+play,6,0,dumam201,12,TCB>B,SB2
+play,6,0,dumam201,32,TCB>B.BS,K
+play,6,1,ibard201,01,CX,4/P
+play,6,1,kim-r201,12,CBCX,7/F
+play,6,1,willm201,01,CX,6/L
+play,7,0,yamas201,31,BBCBB,W
+play,7,0,haasg201,01,1FX,4/P
+play,7,0,delee201,00,X,46(1)3/GDP
+play,7,1,yonen201,32,BCCFFBBFX,8/F
+com,"$At the wall"
+play,7,1,benid201,32,BFCBBS,K
+play,7,1,osulc201,01,FX,S9/L
+com,"$Deflected off the glove of the diving 2B"
+play,7,1,zetta201,11,BSX,E5/TH1/G.1-2
+com,"$Wide throw forced 1B off the bag, and she was not able to get Zettlemoyer as the latter"
+com,"$slid in awkwardly during the tag attempt"
+play,7,1,perev201,20,BBX,D8/L.2-H(RBI)(UR);1-3
+play,7,1,studl201,10,BN,BK.3-H(NR)(UR);2-3
+play,7,1,studl201,11,BN.FX,7/F
+data,er,blunk201,3
+data,er,schig201,1
+data,er,reynj201,0
+data,er,zetta201,5
+data,er,studl201,2

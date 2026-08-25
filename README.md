@@ -19,4 +19,13 @@ The only exceptions are people who already exist (for example, many managers/coa
 3. Biographical info is gathered piecemeal from online sources and may be inaccurate.
 ### Roster notes:
 1. Although rosters are shown with 29-30 people in each, there is actually some nuance here. Active rosters are 15 people max, but players drafted by teams are restricted to playing for those teams in cases of, for example, injury. All drafted players are included as part of a sort of inactive roster even if they are not active.
-2. The discrepancy in roster sizes can likely be traced to three people who were drafted but appear to have opted out of becoming part of their drafted teams' respective rosters, as well as one active player (Val Perez) who was not one of the drafted players but later signed.
+2. The discrepancy in roster sizes can likely be traced to three people each on different teams who were drafted but appear to have opted out of becoming part of their drafted teams' respective rosters, as well as one active player (Val Perez) who was not one of the drafted players but later signed.
+
+## How information is gathered
+I go through a standardized process:
+1. I watch and score all games live directly in the event file, making notes of plays that I have either missed or that need to be reviewed later.
+2. I go through archived game footage on Youtube and fill in said missing information.
+3. I cross reference with official PBP, checking for discrepancies in scoring decisions, listed events, or pitch sequences.
+4. I once again go through game footage to compare, making notes for potential scoring mistakes (e.g. incorrect runner advances, incorrect error attribution), and amending pitch sequences if I am mistaken (if the official pitch sequence is mistaken, I use my own.)
+5. Once all events are verified, I fill out event file game metadata.
+6. I then construct game logs and box scores from event files.

@@ -57,7 +57,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "henlj601","Henley","Jackson","Jackson",,,,,,,,,"08/01/2026",,,,,,
 "henlr601","Henley","Rachelle McCann","Rocky","01/24/1969","San Francisco","California","USA",,,"07/26/2026",,,,,,"R","R","5-06"
 "hernl201","Hernandez","Luisa","Luisa","07/05/1991","Lagos de Moreno","Jalisco","Mexico",,,,,,,,,"R","R",
-"herpe701","Herpick","Emilie","Emilie",,,,,,,,,,,"08/12/2026",,,,
+"herpe701","Herpick","Emilie","Emilie",,,"Michigan","USA",,,,,,,"08/12/2026",,,,
 "hiral201","Hirai","Laura","Laura","09/30/1999","London",,"United Kingdom",,,,,,,,,"L","R","5-01"
 "honda201","Hondras","Amira Jai","Amira","05/27/2008","Chicago","Illinois","USA","08/01/2026",,,,,,,,"R","R","5-04"
 "hopks201","Hopkins","Alexis","Scrappy","06/11/1998","Fort Walton Beach","Florida","USA",,,,,,,,,"R","R",
@@ -101,6 +101,7 @@ PLAYERID,LAST,FIRST,NICKNAME,BIRTHDATE,FROM.CITY,FROM.STATE,FROM.COUNTRY,PLAY.DE
 "parkj201","Park","Ju-a","Jua","12/02/2004","Hadong","Gyeongnam","South Korea","08/02/2026",,,,,,,,"R","R","5-05"
 "parks201","Park","Min-seo","Minseo","06/02/2004","Seoul",,"South Korea",,,,,,,,,,,
 "perev201","Perez","Valerie Marie","Valerie","08/12/1991","Corpus Christi","Texas","USA","08/01/2026",,,,,,,,"R","R","5-06"
+"pullj701","Pullano","Joelyn","Joelyn",,"Las Vegas","Nevada","USA",,,,,,,"08/19/2026",,,,
 "ramin201","Ramirez","Nylah Lucia","Nylah","05/21/1997","Brooklyn","New York","USA",,,,,,,,,"R","R","5-10"
 "reynj201","Reynolds","Jacqueline","Jacqui","03/09/1994","Woburn","Massachusetts","USA","08/01/2026",,,,,,,,"R","R",
 "reynk201","Reynolds","Katherine","Katie","09/29/2001","Watertown","Massachusetts","USA",,,,,,,,,"L","R",

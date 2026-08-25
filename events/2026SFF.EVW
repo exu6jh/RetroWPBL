@@ -609,3 +609,155 @@ data,er,frana201,1
 data,er,whitk201,2
 data,er,daybe201,1
 data,er,corip201,0
+id,SFF202608190
+info,visteam,NYH
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/08/19
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,6
+info,umphome,pullj701
+info,ump1b,herpe701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,79
+info,winddir,fromcf
+info,fieldcond,dry
+info,precip,none
+info,sky,overcast
+info,timeofgame,130
+info,wp,osulc201
+info,lp,daybe201
+info,save,(none)
+start,yonen201,"Natsuki Yonetani",0,1,9
+start,benid201,"Denae Benites",0,2,2
+start,perev201,"Valerie Perez",0,3,6
+start,studl201,"London Studer",0,4,7
+start,lahnk201,"Kylee Lahners",0,5,10
+start,zetta201,"Alyssa Zettlemoyer",0,6,5
+start,kim-r201,"Rakyung Kim",0,7,3
+start,ciame201,"Elodie Ciamarro",0,8,4
+start,ecclc201,"Claire Eccles",0,9,8
+start,izumk201,"Keira Izumi",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,8
+start,albaj201,"Jill Albayati",1,3,5
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,jorga201,"Alexia Jorge",1,5,2
+start,kapls201,"Skylar Kaplan",1,6,9
+start,leguj201,"Joely Leguizamon",1,7,6
+start,parkj201,"Jua Park",1,8,7
+start,daybe201,"Ela Day-Bedard",1,9,10
+start,gildl201,"Liz Gilder",1,0,1
+play,1,0,yonen201,32,BBBCFFB,W
+play,1,0,benid201,00,B,PB.1-2
+play,1,0,benid201,12,B.CCX,S7/G.2-H(RBI)
+play,1,0,perev201,00,X,S7/G.1-2
+play,1,0,studl201,11,BSX,S7/G.2-H(RBI);1-3
+play,1,0,lahnk201,10,B>B,SB2
+play,1,0,lahnk201,20,B>B.X,D7/G.3-H(RBI);2-H(RBI)
+com,"$Down the LF line"
+play,1,0,zetta201,00,X,63/G.2-3
+play,1,0,kim-r201,02,CFS,K
+play,1,0,ciame201,00,X,S8/G.3-H(RBI)(UR)
+com,"Unclear why this was scored as unearned"
+play,1,0,ecclc201,01,CX,8/F
+play,1,1,giana201,30,BBBB,W
+play,1,1,whitk201,10,BX,HR/F78D.1-H(RBI)
+play,1,1,albaj201,31,BCBBB,W
+play,1,1,lebla201,11,CBX,S8/G.1-3
+com,"$Brushed by Izumi and past the diving shortstop"
+play,1,1,jorga201,22,BCFFBX,54(1)/FO/G.3-3
+play,1,1,kapls201,32,BBBCSX,HR/F9D.3-H(RBI);1-H(RBI)
+play,1,1,leguj201,32,BSBBSX,D8/F
+com,"$Took an awkward hop off of a pole in the wall"
+play,1,1,parkj201,01,CB,WP.2-3
+play,1,1,parkj201,21,CB.BX,53/G.3-H(RBI)
+play,1,1,daybe201,01,CX,13/G
+play,2,0,yonen201,31,CBBBB,W
+play,2,0,benid201,10,B1X,43/G.1-2
+play,2,0,perev201,10,BX,2/P/FL
+play,2,0,studl201,00,>B,SB3.2-H(E2/TH3)(NR)(UR)
+com,"$Ball went wide right and got past the 3B"
+play,2,0,studl201,12,>B.CCX,13/G
+com,"$Pitcher fumbled the initial catch but recovered quickly"
+play,2,1,giana201,11,FBX,9/F
+com,"$Caught on a long run"
+play,2,1,whitk201,30,BBBX,S8/L
+play,2,1,albaj201,00,1B,WP.1-2
+play,2,1,albaj201,30,1B.BBB,W
+play,2,1,lebla201,00,,NP
+sub,osulc201,"Claire O'Sullivan",0,0,1
+play,2,1,lebla201,00,.X,3/G.2-3;1-2
+com,"$Ball took a high hop and hit 1B at chest level; deflected over to first base bag where she made the out"
+play,2,1,jorga201,22,BBCCX,S5/G.3-H(RBI);2-3
+com,"$SS fumbled twice"
+play,2,1,kapls201,12,CCFBX,E5/TH1.3-H(RBI)(UR);1-3;B-2
+com,"$Zettlemoyer seemed to slip and airmailed the throw out of play"
+play,2,1,leguj201,02,FSX,8/F
+play,3,0,lahnk201,32,CBSBBX,S8/G
+play,3,0,zetta201,00,1H,HP.1-2
+play,3,0,kim-r201,02,CCC,K/C
+play,3,0,ciame201,22,CSBBFFX,5/P
+play,3,0,ecclc201,01,FX,8/F
+play,3,1,parkj201,00,X,S5/G
+com,"$Very long throw. Replay indicates Park was out but ump ruled safe, and no formal replay could overturn call"
+play,3,1,daybe201,02,SSS,K
+play,3,1,giana201,01,CX,3/P/FL.1-2
+com,"$C and 1B both ran in for the catch, 1B made the catch but took a tumble, allowing runner to tag"
+play,3,1,whitk201,32,BCCFBBB,W
+play,3,1,albaj201,22,BFBCS,K
+play,4,0,yonen201,10,BX,8/F
+play,4,0,benid201,22,BBCFFX,4/P
+play,4,0,perev201,20,BBX,S9/G
+play,4,0,studl201,20,BBB,WP.1-2
+play,4,0,studl201,31,BBB.CB,W
+play,4,0,lahnk201,00,,NP
+sub,daybe201,"Ela Day-Bedard",1,9,1
+play,4,0,lahnk201,22,.BCCBX,64(1)/FO/G
+play,4,1,lebla201,00,X,43/G
+play,4,1,jorga201,00,H,HP
+play,4,1,kapls201,22,BBCC,CS2(16)
+play,4,1,kapls201,32,BBCC.BX,63/G
+play,5,0,zetta201,32,BFFBBX,43/G
+play,5,0,kim-r201,12,FBFX,S9/L
+play,5,0,ciame201,02,FCX,8/F
+play,5,0,ecclc201,12,M+1BF>B,SB2
+com,"$On pickoff attempt after missed bunt, it seems the runner was tagged out but the call was safe"
+com,"$Runner took off on ball that got away from catcher, ruled stolen base instead of wild pitch due to timing"
+play,5,0,ecclc201,22,M+1BF>B.X,D9/L.2-H(RBI)
+com,"$Right down the 1B line"
+play,5,0,yonen201,01,CB,WP.2-3
+play,5,0,yonen201,32,CB.BFBB,W
+play,5,0,benid201,01,CX,HR/L89D.3-H(RBI);1-H(RBI)
+play,5,0,perev201,32,BCBFBH,HP
+play,5,0,studl201,12,TBFX,43/G
+play,5,1,leguj201,21,BCBX,9/F
+play,5,1,parkj201,31,FBBBB,W
+play,5,1,daybe201,02,CFC,K/C
+play,5,1,giana201,00,X,63/G
+play,6,0,lahnk201,00,,NP
+sub,corip201,"Peyton Coria",1,9,1
+play,6,0,lahnk201,12,.CCBC,K/C
+play,6,0,zetta201,22,BFCBC,K/C
+play,6,0,kim-r201,32,BBCCBB,W
+play,6,0,ciame201,32,BBBCCX,S9/G.1-2
+play,6,0,ecclc201,02,FCX,S8/F.2-H(RBI);1-2
+com,"$SS and CF converged on the high fly but it fell between them"
+play,6,0,yonen201,10,BX,6/L
+play,6,1,whitk201,00,X,E5/G
+com,"$1B was not able to glove the long throw from Zettlemoyer"
+play,6,1,albaj201,32,F1BBFBX,9/F
+com,"$After 46 minute delay, game was called for lightning"
+com,"$Game was initially officially listed as a 10-8 victory concluding after 5 innings,"
+com,"$this was later changed to an 11-8 game with the partial 6th inning being counted."
+data,er,izumk201,7
+data,er,osulc201,0
+data,er,gildl201,4
+data,er,daybe201,4
+data,er,corip201,1
