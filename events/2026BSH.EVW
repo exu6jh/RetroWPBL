@@ -545,3 +545,176 @@ data,er,benap201,1
 data,er,padgr201,4
 data,er,brico201,1
 data,er,dumam201,2
+id,BSH202608200
+info,visteam,NYH
+info,hometeam,BSH
+info,site,SPR03
+info,date,2026/08/20
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,herpe701
+info,ump1b,pullj701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,80
+info,winddir,fromcf
+info,fieldcond,dry
+info,precip,none
+info,sky,sunny
+info,timeofgame,138
+info,wp,ecclc201
+info,lp,schra201
+info,save,(none)
+start,yonen201,"Natsuki Yonetani",0,1,9
+start,benid201,"Denae Benites",0,2,2
+start,osulc201,"Claire O'Sullivan",0,3,3
+start,studl201,"London Studer",0,4,7
+start,lahnk201,"Kylee Lahners",0,5,10
+start,zetta201,"Alyssa Zettlemoyer",0,6,5
+start,ciame201,"Elodie Ciamarro",0,7,4
+start,willm201,"Madison Willan",0,8,6
+start,ibard201,"Diana Ibarra",0,9,8
+start,ecclc201,"Claire Eccles",0,0,1
+start,bryad201,"Denver Bryant",1,1,10
+start,paddm201,"Molly Paddison",1,2,9
+start,geldt201,"Ticara Geldenhuis",1,3,7
+start,padgr201,"Raine Padgham",1,4,6
+start,blunk201,"Kate Blunt",1,5,5
+start,dumam201,"Maika Dumais",1,6,3
+start,yamas201,"Suzuka Yamamoto",1,7,4
+start,greeb201,"Beth Greenwood",1,8,2
+start,hastl201,"Lexi Hastings",1,9,8
+start,schra201,"Alli Schroder",1,0,1
+play,1,0,yonen201,02,SCX,S8/L
+play,1,0,benid201,11,CBX,64(1)3/GDP
+play,1,0,osulc201,32,CFFFBBFBX,43/G
+play,1,1,bryad201,32,FBBFBS,K
+play,1,1,paddm201,21,BCBX,S8/G
+play,1,1,geldt201,20,BBH,HP.1-2
+play,1,1,padgr201,01,CX,7/F
+play,1,1,blunk201,00,X,6/L
+play,2,0,studl201,20,BBX,9/L
+play,2,0,lahnk201,32,BCBBCB,W
+com,"$Lahners checked her swing on ball 4"
+play,2,0,zetta201,10,BH,HP.1-2
+play,2,0,ciame201,00,X,S8/L.2-3;1-2
+play,2,0,willm201,01,CX,63/G.3-H(RBI);2-3;1-2
+com,"$Ball bounced high into SS's chest but she recovered for the quick throw to first"
+play,2,0,ibard201,02,FFX,6/L
+play,2,1,dumam201,01,CX,S9/L
+com,"$Throw from the RF almost beat out Dumais"
+play,2,1,yamas201,31,BBCB+1B,W.1-2
+play,2,1,greeb201,20,BBX,46(1)3/GDP.2-3
+play,2,1,hastl201,31,BBCBB,W
+play,2,1,bryad201,00,>B,SB2
+play,2,1,bryad201,10,>B.B,WP.3-H(NR);2-3
+play,2,1,bryad201,30,>B.B.BX,3/P/FL
+play,3,0,yonen201,22,SBBCX,53/G
+play,3,0,benid201,02,CSFS,K
+play,3,0,osulc201,31,FBBBB,W
+play,3,0,studl201,10,B1>B,SB2
+play,3,0,studl201,20,B1>B.X,63/G
+com,"$On the long throw"
+play,3,1,paddm201,00,X,63/G
+play,3,1,geldt201,30,BBBB,W
+play,3,1,padgr201,30,B1BBB,W.1-2
+play,3,1,blunk201,12,CBCX,5(2)/FO/G
+play,3,1,dumam201,32,SFBBBS,K
+play,4,0,lahnk201,22,BSCFBC,K/C
+play,4,0,zetta201,10,BX,S8/G
+play,4,0,ciame201,22,BFBFX,FC5/G.1-2(E5/TH2);B-1
+com,"$Throw went wide and deflected off the 2B's glove over to the 1B."
+play,4,0,willm201,00,>C,SB3;SB2
+com,"$3B could not secure the ball on the hop, but it didn't get away"
+play,4,0,willm201,32,>C.BBBCB,W
+play,4,0,ibard201,00,,NP
+sub,ecclc201,"Claire Eccles",0,9,11
+play,4,0,ecclc201,32,.BBBCFFX,46(1)/FO/G.3-H(RBI)(UR);2-3
+play,4,0,yonen201,01,C>B,SB2
+play,4,0,yonen201,31,C>B.BBX,D9/L.3-H(RBI)(UR);2-H(RBI)(UR)
+play,4,0,benid201,00,X,7/F
+com,"$Right in front of the wall"
+play,4,1,yamas201,00,,NP
+sub,ecclc201,"Claire Eccles",0,9,8
+play,4,1,yamas201,00,.,NP
+sub,studl201,"London Studer",0,4,1
+play,4,1,yamas201,00,..,NP
+sub,murpk201,"Katherine Murphy",0,5,7
+play,4,1,yamas201,11,...BFX,S8/L
+com,"$CF knocked down the ball on the slide"
+play,4,1,greeb201,00,X,9/F
+play,4,1,hastl201,20,BB1X,6/P
+play,4,1,bryad201,01,CX,S7/L.1-2
+play,4,1,paddm201,00,X,8/F
+com,"$Right in front of the wall"
+sub,brico201,"Olivia Bricker",1,0,1
+play,5,0,osulc201,01,CX,S9/F
+play,5,0,studl201,10,BX,S8/L.1-2
+play,5,0,murpk201,12,CSFB2,BK.2-3;1-2
+com,"$Disengagement violation"
+play,5,0,murpk201,12,CSFB2.X,S8/L.3-H(RBI);2-3;B-2
+play,5,0,zetta201,00,X,S7/G.3-H(RBI);2-3
+play,5,0,ciame201,00,>C,SB2
+play,5,0,ciame201,31,>C.BBBX,S7/G.3-H(RBI);2-3
+play,5,0,willm201,00,>C,CS2(26)
+play,5,0,willm201,01,>C.X,FC5/G.3XH(52)
+com,"$Runner caught in a rundown, somewhat hard contact at home plate"
+play,5,0,ecclc201,20,B1B,BK.1-2#
+com,"Willan took second uncontested and jogging."
+com,"I could not find see or hear a balk call but based on external opinion a balk seems to be most likely"
+play,5,0,ecclc201,21,B1B.FX,S4/G.2-3
+com,"$Ball took a very weird hop and deflected off of the 1B to the 2B who was backing up the play behind her."
+com,"$The throw to the 1B and pitcher covering first was not in time"
+play,5,0,yonen201,10,11B,NP
+sub,bryad201,"Denver Bryant",1,1,1
+play,5,0,yonen201,30,11B.BBX,S5/G.3-H(RBI);1-2
+com,"$Slow roller placed perfectly between pitcher and 3B"
+play,5,0,benid201,02,CSX,8/F
+play,5,1,geldt201,31,BBBCB,W
+play,5,1,padgr201,10,BX,8/F
+play,5,1,blunk201,00,B,WP.1-2
+play,5,1,blunk201,30,B.BBB,W
+play,5,1,dumam201,31,BBCBB,W.2-3;1-2
+play,5,1,yamas201,10,BX,D7/L.3-H(RBI);2-H(RBI);1-3
+com,"$Down the 3B line"
+play,5,1,greeb201,31,BBBCX,S8/G.3-H(RBI);2-3
+play,5,1,hastl201,22,CFBBS,K
+play,5,1,bryad201,22,BTFBX,8/F
+play,6,0,osulc201,31,CBBBB,W
+play,6,0,studl201,10,B>B,SB2
+play,6,0,studl201,32,B>B.BCCX,3/G.2-3
+play,6,0,murpk201,20,BBX,S6/L.3-3
+com,"ej,weekj001,M,pullj701,Catch/trap call"
+com,"$Hunters manager Weeks ejected by basepath umpire Pullano for arguing Murphy's ball had been caught"
+com,"$Low-res replay suggests the ball was indeed caught but basepath umpire was turned away"
+com,"$If ruled a catch, would have likely been a 6-5 line-into-double-play, i.e. 6(B)5(3)/LDP"
+com,"$League policy mandated an automatic one-game suspension for the ejection"
+play,6,0,zetta201,00,>B,CS2(26)
+play,6,0,zetta201,10,>B.X,8/F
+play,6,1,paddm201,00,,NP
+sub,lee-j201,"Jaida Lee",0,4,1
+play,6,1,paddm201,02,SSX,43/G
+play,6,1,geldt201,12,CSBFS,K
+play,6,1,padgr201,02,FSS,K
+play,7,0,ciame201,32,FBCBBS,K
+play,7,0,willm201,31,BBBCB,W
+play,7,0,ecclc201,22,BCBFX,S8/L.1-2
+play,7,0,yonen201,00,X,2/P/FL
+play,7,0,benid201,32,FCBBFBB,W.2-3;1-2
+play,7,0,osulc201,00,H,HP.3-H(RBI);2-3;1-2
+play,7,0,lee-j201,10,BX,63/G
+com,"$On the long throw"
+play,7,1,blunk201,21,BBCX,3/F/FL
+play,7,1,dumam201,12,CFBC,K
+play,7,1,yamas201,02,STX,53/G
+data,er,ecclc201,1
+data,er,studl201,3
+data,er,lee-j201,0
+data,er,schra201,1
+data,er,brico201,4
+data,er,bryad201,1
