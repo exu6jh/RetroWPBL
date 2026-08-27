@@ -718,3 +718,186 @@ data,er,lee-j201,0
 data,er,schra201,1
 data,er,brico201,4
 data,er,bryad201,1
+id,BSH202608220
+info,visteam,SFF
+info,hometeam,BSH
+info,site,SPR03
+info,date,2026/08/22
+info,number,0
+info,gametype,regular
+info,starttime,2:00PM
+info,daynight,day
+info,innings,7
+info,umphome,dinek701
+info,ump1b,pullj701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,81
+info,winddir,ltor
+info,fieldcond,dry
+info,precip,none
+info,sky,cloudy
+info,timeofgame,158
+info,wp,ecken201
+info,lp,benap201
+info,save,(none)
+start,giana201,"Amanda Gianelloni",0,1,4
+start,whitk201,"Kelsie Whitmore",0,2,8
+start,leguj201,"Joely Leguizamon",0,3,6
+start,lebla201,"Andreanne Leblanc",0,4,3
+start,jorga201,"Alexia Jorge",0,5,10
+start,kapls201,"Skylar Kaplan",0,6,9
+start,parkj201,"Jua Park",0,7,5
+start,gutis201,"Samantha Gutierrez",0,8,2
+start,daybe201,"Ela Day-Bedard",0,9,7
+start,ecken201,"Niki Eckert",0,0,1
+start,bryad201,"Denver Bryant",1,1,10
+start,padgr201,"Raine Padgham",1,2,6
+start,paddm201,"Molly Paddison",1,3,9
+start,geldt201,"Ticara Geldenhuis",1,4,7
+start,delee201,"Edith De Leija",1,5,4
+start,blunk201,"Kate Blunt",1,6,5
+start,hastl201,"Lexi Hastings",1,7,8
+start,dumam201,"Maika Dumais",1,8,3
+start,greeb201,"Beth Greenwood",1,9,2
+start,benap201,"Paloma Benach",1,0,1
+play,1,0,giana201,00,X,7/F
+play,1,0,whitk201,21,BBFX,HR/F9D
+play,1,0,leguj201,32,SBBFBB,W
+play,1,0,lebla201,01,C1X,S7/G.1-2
+play,1,0,jorga201,02,CCX,S8/F.2-H(RBI);1-2
+play,1,0,kapls201,00,X,3/G.2-3;1-2
+play,1,0,parkj201,12,FFBX,63/G
+play,1,1,bryad201,31,BBBFB,W
+play,1,1,padgr201,30,BBBB,W.1-2
+play,1,1,paddm201,12,CBFX,FC4/G.2-3;1-2;B-1
+com,"$2B fell backwards on the throw which went low and was not secured by the shortstop"
+play,1,1,geldt201,10,BX,64(1)/FO/G.3-H(RBI);2-3
+play,1,1,delee201,00,H,HP.1-2
+play,1,1,blunk201,12,CBFX,4/F
+play,1,1,hastl201,31,FBBBB,W.3-H(RBI);2-3;1-2
+play,1,1,dumam201,01,CX,8/F
+play,2,0,gutis201,12,BSFX,HR/F89D
+play,2,0,daybe201,02,SCX,43/G
+play,2,0,giana201,01,CX,7/L
+play,2,0,whitk201,00,X,S8/L
+play,2,0,leguj201,30,BB1BB,W.1-2
+play,2,0,lebla201,21,CBBX,S8/F.2-H(RBI);1-3
+com,"$Deflected off LF's glove"
+play,2,0,jorga201,00,X,S7/F.3-H(RBI);1-2
+com,"$Fell directly on the line and bounced into foul territory"
+play,2,0,kapls201,01,CX,S5/G.2-3;1-2
+com,"$Very slow roller"
+play,2,0,parkj201,10,BX,S7/L.3-H(RBI);2-H(NR);1-3
+play,2,0,gutis201,22,FBFBX,S7/F.3-H(RBI);1-3;BX2(76)
+play,2,1,greeb201,32,CBFBBC,K/C
+play,2,1,bryad201,01,SX,S9/F
+play,2,1,padgr201,12,CBFX,3/G.1-2
+play,2,1,paddm201,11,CBX,43/G
+play,3,0,daybe201,00,,NP
+sub,schig201,"Gigi Schiano",1,0,1
+play,3,0,daybe201,01,.SX,S9/G
+play,3,0,giana201,11,B1FX,13/BG/SH.1-2
+play,3,0,whitk201,32,FFBBF>B,SB3
+play,3,0,whitk201,32,FFBBF>B.B,W
+play,3,0,leguj201,00,X,FC5/G.3XH(52);1-2;B-1
+play,3,0,lebla201,22,BBCSFX,9/F
+play,3,1,geldt201,21,BCBX,7/F
+play,3,1,delee201,32,FFBFBBX,S8/L
+play,3,1,blunk201,10,BX,S8/L.1-2
+play,3,1,hastl201,32,BBCCBA,K
+com,"$Batter did not come set in time"
+play,3,1,dumam201,11,CBX,13/G
+play,4,0,jorga201,01,CX,6/P
+play,4,0,kapls201,11,FBX,S9/F
+com,"$Long single to the wall"
+play,4,0,parkj201,01,CX,S7/L.1-2
+play,4,0,gutis201,10,BX,143/G.2-3;1-2
+com,"$Bounced off the mound and deflected off the pitcher"
+play,4,0,daybe201,02,CFC,K/C
+play,4,1,greeb201,32,BCFBBX,63/G
+play,4,1,bryad201,10,BX,S7/G
+play,4,1,padgr201,22,CBBF1,OA.1-3(E1/TH1)
+com,"$Attempted pickoff throw went wild"
+play,4,1,padgr201,32,CBBF1.BT,K
+play,4,1,paddm201,31,BBCBB,W
+play,4,1,geldt201,00,,NP
+sub,daybe201,"Ela Day-Bedard",0,9,1
+play,4,1,geldt201,00,.,NP
+sub,parkj201,"Jua Park",0,7,7
+play,4,1,geldt201,00,..,NP
+sub,gutis201,"Samantha Gutierrez",0,8,5
+play,4,1,geldt201,00,...,NP
+sub,jorga201,"Alexia Jorge",0,5,2
+play,4,1,geldt201,12,....BCSX,7/F
+play,5,0,giana201,00,X,2/P
+play,5,0,whitk201,12,CCBX,63/G
+play,5,0,leguj201,30,BBBB,W
+play,5,0,lebla201,10,1B>B,SB2
+com,"$Ball went over SS's head but 2B backed up the play preventing extra advance"
+play,5,0,lebla201,30,1B>B.BB,W
+play,5,0,jorga201,30,BBB>S,CS3(25)
+play,5,1,delee201,31,BBBCB,W
+play,5,1,blunk201,00,B,WP.1-2
+play,5,1,blunk201,32,B.BBCFB,W
+play,5,1,hastl201,11,BC>M,SB3.2-H(E2/TH2)(NR)(UR);1-2
+com,"$Catcher threw too far left to the base while 2B was on the right side, ball got past to the CF"
+play,5,1,hastl201,12,BC>M.FX,D8/F.2-H(RBI)(UR)
+com,"$To the wall"
+play,5,1,dumam201,10,BX,S6/G.2-3
+com,"$Deflected off the pitcher at her feet, replay showed that the throw may have beaten Dumais to the bag"
+play,5,1,greeb201,10,B>C,SB2
+play,5,1,greeb201,11,B>C.X,S8/G.3-H(RBI);2-3
+play,5,1,bryad201,02,FFC,K/C
+play,5,1,padgr201,21,BCBX,4/P
+play,5,1,paddm201,31,SBBBB,W.1-2
+play,5,1,geldt201,00,,NP
+sub,gildl201,"Liz Gilder",0,9,1
+play,5,1,geldt201,12,CBCFX,5(2)/FO/P
+com,"$Ball fell right in front of 3B on a short popup, she was able to pivot and nab the runner sliding into third"
+play,6,0,jorga201,00,X,9/F
+play,6,0,kapls201,30,BBBB,W
+play,6,0,parkj201,02,C1FH,HP.1-2
+com,"$Ball hit Park's left hip and deflected into Greenwood's mask as she turned to avoid the ball"
+play,6,0,gutis201,30,BBBB,W.2-3;1-2
+play,6,0,gildl201,00,B,NP
+sub,kim-h201,"Hyeonah Kim",1,9,2
+com,"$Greenwood taken out likely due to ball deflected off her mask during the HBP"
+play,6,0,gildl201,10,B.X,6/P
+play,6,0,giana201,11,CBX,S6/G.3-H(RBI)(UR);2-H(E6/TH1)(RBI)(UR);1-3;B-2
+com,"$Very slow roller; fast throw tipped off 1B's glove"
+play,6,0,whitk201,10,BB,WP.3-H(NR)(UR);2-3
+play,6,0,whitk201,30,BB.BX,S7/L.3-H(RBI)(UR)
+play,6,0,leguj201,21,BB1SX,D9/F.1-3
+com,"$RF couldn't quite get a read on the ball"
+play,6,0,lebla201,12,BCCX,63/G
+com,"$SS bobbled the ball but managed to recover"
+play,6,1,delee201,22,CBSBFS,K
+play,6,1,blunk201,10,BX,8/L
+play,6,1,hastl201,12,TBFX,D9/G
+com,"$Down the right field line"
+play,6,1,dumam201,00,B,WP.2-3
+play,6,1,dumam201,21,B.FBX,43/G
+play,7,0,jorga201,00,,NP
+sub,dumam201,"Maika Dumais",1,8,1
+play,7,0,jorga201,00,.,NP
+sub,robis201,"Sabrina Robinson",1,1,3
+play,7,0,jorga201,31,..BFBBH,HP
+play,7,0,kapls201,00,X,46(1)/FO/G
+play,7,0,parkj201,31,BBCBX,E5/G.1-2
+com,"$Routine grounder got by the 3B to the LF"
+play,7,0,gutis201,12,BCFC,K/C
+play,7,0,gildl201,22,FBCBFT,K
+play,7,1,kim-h201,31,BBBCB,W
+play,7,1,robis201,10,B>B,SB2
+play,7,1,robis201,22,B>B.CCFS,K
+play,7,1,padgr201,00,X,53/G.2-3
+paly,7,1,paddm201,22,BBCFFX,4/L
+data,er,ecken201,2
+data,er,daybe201,1
+data,er,gildl201,0
+data,er,benap201,8
+data,er,schig201,0
+data,er,dumam201,0
