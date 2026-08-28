@@ -901,3 +901,135 @@ data,er,gildl201,0
 data,er,benap201,8
 data,er,schig201,0
 data,er,dumam201,0
+id,BSH202608230
+info,visteam,LAQ
+info,hometeam,BSH
+info,site,SPR03
+info,date,2026/08/23
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,dinek701
+info,ump1b,pullj701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,73
+info,winddir,ltor
+info,fieldcond,dry
+info,precip,none
+info,sky,sunny
+info,timeofgame,127
+info,wp,blunk201
+info,lp,shima201
+info,save,(none)
+start,davim201,"Mo'ne Davis",0,1,8
+start,lansa201,"Ashton Lansdell",0,2,9
+start,mackj201,"Jamie Mackay",0,3,10
+start,foxxm201,"Maggie Foxx",0,4,2
+start,honda201,"Amira Hondras",0,5,4
+start,rochm201,"Michelle Roche",0,6,7
+start,eynoc201,"Caitlin Eynon",0,7,5
+start,frana201,"Addie Frank",0,8,3
+start,benis201,"Samaria Benitez",0,9,6
+start,shima201,"Ayuri Shimano",0,0,1
+start,haasg201,"Gabrielle Haas",1,1,8
+start,paddm201,"Molly Paddison",1,2,9
+start,bryad201,"Denver Bryant",1,3,5
+start,geldt201,"Ticara Geldenhuis",1,4,10
+start,padgr201,"Raine Padgham",1,5,6
+start,hastl201,"Lexi Hastings",1,6,7
+start,kim-h201,"Hyeonah Kim",1,7,2
+start,robis201,"Sabrina Robinson",1,8,3
+start,yamas201,"Suzuka Yamamoto",1,9,4
+start,blunk201,"Kate Blunt",1,0,1
+play,1,0,davim201,11,CBX,63/G
+play,1,0,lansa201,10,BX,S5/G
+com,"$Ball deflected off the 3B's glove past the SS into left field"
+play,1,0,mackj201,10,BX,E5/G.1-3
+com,"$Throw went high, forcing 1B to jump off of the bag"
+play,1,0,foxxm201,32,CBBTBB,W.1-2
+play,1,0,honda201,11,CBX,7/F/SF.3-H(RBI)(UR)
+com,"$Over the shoulder catch"
+play,1,0,rochm201,30,BBBB,W.2-3;1-2
+play,1,0,eynoc201,00,X,5(2)/FO/G
+com,"$Bryant beat the runner from 2nd on the race to the bag"
+play,1,1,haasg201,30,BBBB,W
+play,1,1,paddm201,10,BN,BK.1-2
+play,1,1,paddm201,12,BN.CCX,63/G.2-3
+play,1,1,bryad201,00,X,3E1/G.3-H(RBI)(UR)
+com,"$Shimano was not able to hold onto the throw behind her on the close play at first"
+play,1,1,geldt201,30,BBBB,W.1-2
+play,1,1,padgr201,01,CX,S9/L.2-H(RBI);1-2
+play,1,1,hastl201,22,BTBCX,FC6/G.2-3;1-2;B-1
+com,"$Shortstop got to the ball to her right but the attempted forceout at second was not in time"
+play,1,1,kim-h201,32,BBCBCC,K/C
+play,1,1,robis201,12,BCFX,5/P/FL
+com,"$Slight delay as the grounds crew fixed up the mound"
+play,2,0,frana201,21,BBFX,7/F
+play,2,0,benis201,31,BBBCX,S7/L
+play,2,0,davim201,12,BF1CX,7/F
+play,2,0,lansa201,11,BCB,WP.1-2
+play,2,0,lansa201,32,BCB.FBS,K
+play,2,1,yamas201,10,BH,HP
+play,2,1,haasg201,32,BBCBCX,64(1)3/GDP
+play,2,1,paddm201,02,CCFS,K
+play,3,0,mackj201,10,BX,HR/F78D
+play,3,0,foxxm201,32,CBBSBX,8/F
+play,3,0,honda201,10,BX,13/G
+play,3,0,rochm201,10,BX,8/F
+play,3,1,bryad201,32,BBFCBX,63/G
+play,3,1,geldt201,01,CX,9/F
+play,3,1,padgr201,10,BX,7/F
+play,4,0,eynoc201,20,BBX,S5/G
+com,"$3B gloved the ball but couldn't hang on, then stumbled"
+com,"$SS (backing up the play) could not make the long throw in time"
+play,4,0,frana201,00,X,9/L
+play,4,0,benis201,12,B1FFX,S8/F.1-2
+play,4,0,davim201,21,BCBX,64(1)3/GDP
+play,4,1,hastl201,30,BBBB,W
+play,4,1,kim-h201,00,1>C,SB2
+play,4,1,kim-h201,11,1>C.BX,13/BG/SH.2-3
+play,4,1,robis201,22,BSSBS,K
+play,4,1,yamas201,20,BBX,5/P
+play,5,0,lansa201,12,BCCX,13/G
+play,5,0,mackj201,30,BBBX,8/F
+play,5,0,foxxm201,32,BCBBSX,53/G
+play,5,1,haasg201,02,CCS,K
+play,5,1,paddm201,00,X,S9/G.B-2(E9)
+com,"Fumbled catch on the grounder got to the wall"
+play,5,1,bryad201,02,SSX,43/G.2-3
+play,5,1,geldt201,12,CCBX,HR/F7D.3-H(RBI)(UR)
+play,5,1,padgr201,22,BBCSS,K.BX1(E2/TH1)
+com,"$Throw on the dropped third strike went wide"
+play,5,1,hastl201,01,FX,HR/F78D.1-H(RBI)(UR)
+play,5,1,kim-h201,00,,NP
+sub,maxit201,"Thaima Maximiliana",0,0,1
+play,5,1,kim-h201,22,.SBSBFS,K
+com,"$Foul ball hit Kim on the hand, determined that her swing brought her into the path"
+sub,dumam201,"Maika Dumais",1,0,1
+play,6,0,honda201,11,BLX,31/G
+play,6,0,rochm201,31,BBBCB,W
+play,6,0,eynoc201,22,BB1CSFS,K
+play,6,0,frana201,10,BX,S9/L.1-2
+play,6,0,benis201,20,BBX,9/F
+play,6,1,robis201,31,BBSBB,W
+play,6,1,yamas201,31,BBBCB,W.1-2
+play,6,1,haasg201,01,CX,16(1)/BG.2-3
+play,6,1,paddm201,02,FSFN,BK.3-H(NR);1-2
+play,6,1,paddm201,02,FSFN.FX,8/FDP/AP.2X2(8414)
+com,"$Beautiful running catch on the wall by Davis"
+com,"$Haas was ruled to have not tagged second on the catch, and was out on appeal"
+play,7,0,davim201,31,CBBBB,W
+play,7,0,lansa201,21,BFBH,HP.1-2
+play,7,0,mackj201,00,B,WP.2-3;1-2
+play,7,0,mackj201,20,B.BX,43/G.3-H(RBI);2-3
+play,7,0,foxxm201,21,SBBX,5/P
+play,7,0,honda201,10,BX,43/G
+data,er,shima201,3
+data,er,maxit201,1
+data,er,blunk201,1
+data,er,dumam201,1
