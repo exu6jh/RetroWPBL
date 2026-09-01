@@ -431,9 +431,9 @@ com,"$Down the RF line, great throw"
 play,1,0,lansa201,31,BSBBB,W
 play,1,0,foxxm201,00,X,S8/L.1-3(E8)
 com,"$Runner advanced to third after the bounce deflected off the CF's glove"
-play,1,0,mackj201,12,SFB1X,E3/P.3-H(UR)(RBI);1-3
+play,1,0,mackj201,12,SFB1X,E3/P.3-H(RBI)(UR);1-3
 com,"$1B called off 2B and RF but misjudged ball which fell just out of reach"
-play,1,0,frana201,00,X,S8/L.3-H(UR)(RBI);1-3
+play,1,0,frana201,00,X,S8/L.3-H(RBI)(UR);1-3
 play,1,0,maxit201,02,FCX,13/G
 play,1,1,yamas201,11,CBX,63/G
 com,"$Benitez initially fumbled the low one-hopper, but recovered for the quick toss"
@@ -509,7 +509,7 @@ sub,robis201,"Sabrina Robinson",1,5,3
 play,6,0,lansa201,32,..CBCFFBBFB,W.1-2
 play,6,0,foxxm201,10,BB+1,OA.2-H(E2/TH)(UR)(NR);1-3
 com,"$Attempted pickoff throw went far wide"
-play,6,0,foxxm201,32,BB+1.FBFX,E6/TH1.3-H(UR)(RBI)
+play,6,0,foxxm201,32,BB+1.FBFX,E6/TH1.3-H(RBI)(UR)
 com,"$Throw pulled Robinson off the bag"
 play,6,0,mackj201,02,CFX,D8/F.1-3
 play,6,0,frana201,31,FBBBX,S9/L.3-H(RBI)(UR);2-H(RBI)

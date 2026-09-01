@@ -812,3 +812,162 @@ data,er,rochm201,5
 data,er,maxit201,1
 data,er,villi201,0
 data,er,meidm201,0
+id,LAQ202608290
+info,visteam,NYH
+info,hometeam,LAQ
+info,site,SPR03
+info,date,2026/08/29
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,pullj701
+info,ump1b,liu-s701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,80
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,overcast
+info,timeofgame,127
+info,wp,shima201
+info,lp,studl201
+info,save,meidm201
+start,yonen201,"Natsuki Yonetani",0,1,9
+start,benid201,"Denae Benites",0,2,2
+start,osulc201,"Claire O'Sullivan",0,3,3
+start,studl201,"London Studer",0,4,7
+start,lahnk201,"Kylee Lahners",0,5,10
+start,perev201,"Val Perez",0,6,6
+start,izumk201,"Keira Izumi",0,7,5
+start,willm201,"Madison Willan",0,8,4
+start,ecclc201,"Claire Eccles",0,9,8
+start,saike201,"Emi Saiki",0,0,1
+start,benis201,"Samaria Benitez",1,1,10
+start,shima201,"Ayuri Shimano",1,2,6
+start,lansa201,"Ashton Lansdell",1,3,9
+start,mackj201,"Jamie Mackay",1,4,7
+start,edwas201,"Sarah Edwards",1,5,3
+start,eynoc201,"Caitlin Eynon",1,6,5
+start,honda201,"Amira Hondras",1,7,4
+start,foxxm201,"Maggie Foxx",1,8,2
+start,davim201,"Mo'ne Davis",1,9,8
+start,maxit201,"Thaima Maximiliana",1,0,1
+play,1,0,yonen201,01,CX,13/G
+play,1,0,benid201,21,BFBX,53/G
+play,1,0,osulc201,01,CX,9/L
+com,"$RF just able to get it on the low catch"
+play,1,1,benis201,01,CX,S9/G
+play,1,1,shima201,22,BCBFS,K
+play,1,1,lansa201,22,1BSBSC,K/C
+play,1,1,mackj201,00,H,HP.1-2
+com,"$Ball ricocheted off of Mackay's elbow squarely onto HP umpire Pullano's forearm, requiring attention"
+play,1,1,edwas201,31,CBBBB,W.2-3;1-2
+play,1,1,eynoc201,02,CFFX,D7/L.3-H(RBI);2-H(RBI);1-3
+com,"$Fast liner just to the left-handed fielding Izumi's right"
+play,1,1,honda201,11,FBX,2/P/FL
+com,"$Excellent sliding catch in foul territory"
+play,2,0,studl201,00,X,S9/L
+com,"$Fast liner to the wall"
+play,2,0,lahnk201,32,B1BFBFFFB,W.1-2
+play,2,0,perev201,31,BFBBX,S6/G.2-3;1-2
+com,"$Long throw on the bouncer pulled the 1B off-base"
+play,2,0,izumk201,01,CB,WP.3-H(NR);2-3;1-2
+play,2,0,izumk201,11,CB.X,14/BG.3-3;2-2
+com,"$Attempted sac bunt, runner on 3rd hesitated and held preventing advance"
+play,2,0,willm201,11,CBX,D8/L.3-H(RBI);2-H(RBI)
+play,2,0,ecclc201,20,BBX,43/G.2-3
+play,2,0,yonen201,30,BBBB,W
+play,2,0,benid201,01,CX,13/G
+play,2,1,foxxm201,00,X,5/L
+com,"$Ball was hit so directly to Izumi that she barely had to move"
+play,2,1,davim201,21,CBBX,8/F
+com,"$On the long sliding catch"
+play,2,1,benis201,00,H,HP
+play,2,1,shima201,12,CBFX,S1/G.1-2
+com,"$Soft hit right up the 1B line, Shimano slid into first in time"
+play,2,1,lansa201,10,BX,HR/F8D.2-H(RBI);1-H(RBI)
+play,2,1,mackj201,10,BX,S8/F
+play,2,1,edwas201,12,FCBX,5/P/FL
+play,3,0,osulc201,22,CBCBX,S7/L
+play,3,0,studl201,00,X,S8/L.1-3
+play,3,0,lahnk201,10,B>B,SB2
+play,3,0,lahnk201,20,B>B.H,HP
+play,3,0,perev201,00,X,9/F/SF.3-H(RBI);2X3(935)
+play,3,0,izumk201,10,BX,S7/G.1-2
+play,3,0,willm201,12,CBCFX,43/G
+com,"$Foul ball was almost caught by catcher"
+play,3,1,eynoc201,01,CX,S5/L
+com,"$Liner stopped by Izumi but too fast to be gloved"
+play,3,1,honda201,12,1F1BC+1X,46(1)/FO/G
+com,"$Throw to first was low and fell out of 1B's glove, Hondras just barely beat out the 1B picking up the ball"
+play,3,1,foxxm201,01,CX,9/F
+play,3,1,davim201,00,X,64(1)/FO/G
+play,4,0,ecclc201,01,FX,D8/F
+com,"$To the wall"
+play,4,0,yonen201,00,X,S7/G.2-3
+play,4,0,benid201,00,,NP
+sub,shima201,"Ayuri Shimano",1,2,1
+play,4,0,benid201,00,.,NP
+sub,benis201,"Samaria Benitez",1,1,6
+play,4,0,benid201,00,..>B,SB2
+play,4,0,benid201,30,..B.VVV,W
+play,4,0,osulc201,31,BBBCX,7/L/SF.3-H(E2)(RBI)(UR);2-3;1-2
+com,"$Great relay by the 3B on the throw had the runner beat, but catcher dropped the ball allowing further advance"
+play,4,0,studl201,01,SX,8/F/SF.3-H(RBI)(UR)
+play,4,0,lahnk201,12,CCB,WP.2-3
+play,4,0,lahnk201,22,CCB.BFS,K
+play,4,1,benis201,22,BCCBX,53/G
+play,4,1,shima201,02,SCC,K/C
+play,4,1,lansa201,32,CSBFBBX,S7/G
+play,4,1,mackj201,01,CX,8/F
+play,5,0,perev201,12,BFFX,43/G
+play,5,0,izumk201,02,CCC,K/C
+play,5,0,willm201,32,CBCBBFFX,31/G
+play,5,1,edwas201,00,,NP
+sub,zetta201,"Alyssa Zettlemoyer",0,7,5
+play,5,1,edwas201,00,.X,S9/L
+com,"$2B was just barely unable to make the over-the-shoulder catch"
+play,5,1,eynoc201,22,BBFCX,14(1)/FO/G
+com,"$First foul ball went straight back and hit Benites on the left side of her mask"
+play,5,1,honda201,01,CX,43/G.1-2
+com,"$Great diving play by Willan"
+play,5,1,foxxm201,21,BCBX,E5/P.2-3
+com,"$3B overshot the ball"
+play,5,1,davim201,02,CCX,S9/L.3-H(RBI)(UR);1-2
+play,5,1,benis201,12,CCBX,43/G
+play,6,0,ecclc201,21,BBSX,43/G
+com,"$2B had some trouble with the ball but made the assist on the close play at the plate"
+play,6,0,yonen201,01,FX,1/P
+play,6,0,benid201,21,BBSX,4/P
+play,6,1,shima201,00,,NP
+sub,studl201,"London Studer",0,4,1
+play,6,1,shima201,00,.,NP
+sub,murpk201,"Katherine Murphy",0,5,7
+play,6,1,shima201,30,..BBBB,W
+play,6,1,lansa201,00,B,PB.1-2
+play,6,1,lansa201,32,B.BCB+2FFFB,W
+play,6,1,mackj201,00,X,S8/F.2-H(RBI)(UR);1X3(8125)
+play,6,1,edwas201,00,H,HP.1-2
+play,6,1,eynoc201,31,BCB+2BB,W.2-3;1-2
+play,6,1,honda201,30,BBBB,W.3-H(RBI)(UR);2-3;1-2
+play,6,1,foxxm201,00,,NP
+sub,lee-j201,"Jaida Lee",0,4,1
+play,6,1,foxxm201,02,.FCX,4/P
+play,6,1,davim201,22,BCBCFX,D7/F.3-H(RBI)(UR);2-H(RBI)(UR);1-3
+play,6,1,benis201,00,X,43/G
+play,7,0,osulc201,00,,NP
+sub,meidm201,"Meggie Meidlinger",1,2,1
+play,7,0,osulc201,01,.CX,43/G
+play,7,0,lee-j201,22,FCFFBBS,K
+play,7,0,murpk201,22,BBFFX,8/F
+data,er,saike201,5
+data,er,studl201,0
+data,er,lee-j201,0
+data,er,maxit201,4
+data,er,shima201,0
+data,er,meidm201,0

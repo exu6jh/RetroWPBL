@@ -523,9 +523,9 @@ play,2,1,giana201,11,CBX,S8/F
 play,2,1,whitk201,11,FBX,E6/G.1-2
 com,"$Fumbled catch"
 play,2,1,albaj201,32,CCBBBFB,W.2-3;1-2
-play,2,1,lebla201,20,BBX,S9/G.3-H(UR)(RBI);2-3;1-2
+play,2,1,lebla201,20,BBX,S9/G.3-H(RBI)(UR);2-3;1-2
 com,"$Both balls nearly hit Leblanc"
-play,2,1,jorga201,22,BFFBX,S8/F.3-H(UR)(RBI);2-H(UR)(RBI);1-3;B-2
+play,2,1,jorga201,22,BFFBX,S8/F.3-H(RBI)(UR);2-H(RBI)(UR);1-3;B-2
 com,"$Jorge ducked to avoid a HBP, but the ball hit her still-upright bat leading to foul ball 1"
 play,2,1,kapls201,00,,NP
 sub,mackj201,"Jamie Mackay",0,4,1
@@ -754,10 +754,186 @@ play,6,1,whitk201,00,X,E5/G
 com,"$1B was not able to glove the long throw from Zettlemoyer"
 play,6,1,albaj201,32,F1BBFBX,9/F
 com,"$After 46 minute delay, game was called for lightning"
-com,"$Game was initially officially listed as a 10-8 victory concluding after 5 innings,"
-com,"$this was later changed to an 11-8 game with the partial 6th inning being counted."
+com,"Game was initially officially listed as a 10-8 victory concluding after 5 innings,"
+com,"this was later changed to an 11-8 game with the partial 6th inning being counted."
 data,er,izumk201,7
 data,er,osulc201,0
 data,er,gildl201,4
 data,er,daybe201,4
+data,er,corip201,1
+id,SFF202608280
+info,visteam,BSH
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/08/28
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,liu-s701
+info,ump1b,pullj701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,81
+info,winddir,unknown
+info,fieldcond,dry
+info,precip,none
+info,sky,cloudy
+info,timeofgame,149
+info,wp,whitk201
+info,lp,schra201
+info,save,(none)
+start,bryad201,"Denver Bryant",0,1,5
+start,haasg201,"Gabrielle Haas",0,2,4
+start,geldt201,"Ticara Geldenhuis",0,3,8
+start,paddm201,"Molly Paddison",0,4,9
+start,delee201,"Edith De Leija",0,5,10
+start,hastl201,"Lexi Hastings",0,6,7
+start,blunk201,"Kate Blunt",0,7,6
+start,dumam201,"Maika Dumais",0,8,3
+start,greeb201,"Beth Greenwood",0,9,2
+start,schra201,"Alli Schroder",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,1
+start,leguj201,"Joely Leguizamon",1,3,6
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,jorga201,"Alexia Jorge",1,5,2
+start,kapls201,"Skylar Kaplan",1,6,9
+start,parkj201,"Jua Park",1,7,5
+start,eystj201,"Jordan Eyster",1,8,7
+start,daybe201,"Ela Day-Bedard",1,9,8
+play,1,0,bryad201,00,X,S1/G
+com,"$Roller up the mound went below Whitmore's glove"
+play,1,0,haasg201,00,1X,S7/G.1-2
+play,1,0,geldt201,00,X,1/P
+play,1,0,paddm201,22,CSFBFBX,3/G.2-3;1-2
+com,"$Foul ball 2 was a high pop-up which struck the Hunters' Yamamoto in the dugout on the hand as she blocked her face from getitng hit"
+play,1,0,delee201,32,CBCBFBS,K
+play,1,1,giana201,12,BCCS,K
+play,1,1,whitk201,00,X,D9/F
+com,"$CF made a diving effort but couldn't reach it, allowing extra bases"
+play,1,1,leguj201,22,BBCSS,K
+play,1,1,lebla201,01,CX,43/G
+play,2,0,hastl201,22,CBBCS,K
+play,2,0,blunk201,22,CCBBX,S6/G
+com,"$Very high bounce on the short grounder, went over the leaping pitcher"
+play,2,0,dumam201,12,CB1CX,46(1)/FO/G
+play,2,0,greeb201,00,X,3/L
+play,2,1,jorga201,22,BBCFX,8/F
+play,2,1,kapls201,01,CX,S8/L
+play,2,1,parkj201,12,BCCFX,13/G.1-2
+com,"$Very short roller, pitcher threw high forcing 1B Dumais to jump, but she was able to get her foot down just in time"
+play,2,1,eystj201,10,BX,9/F
+play,3,0,bryad201,01,FX,63/G
+play,3,0,haasg201,20,BBX,63/G
+play,3,0,geldt201,21,BCBX,D7/L
+com,"$Right into the LF corner"
+play,3,0,paddm201,22,BCBFS,K
+play,3,1,daybe201,22,BBSCS,K
+play,3,1,giana201,00,X,8/F
+play,3,1,whitk201,01,CX,HR/F78D
+play,3,1,leguj201,11,BCX,4/P
+play,4,0,delee201,10,BX,43/G
+play,4,0,hastl201,31,BCBBB,W
+play,4,0,blunk201,00,>B,SB2
+play,4,0,blunk201,20,>B.BX,S8/L.2-H(RBI)
+com,"$Fielding was mildly fumbled but batter did not advance"
+play,4,0,dumam201,10,BX,S9/L.1-3
+play,4,0,greeb201,00,>B,SB2
+com,"$Great swim move"
+play,4,0,greeb201,10,>B.X,S8/G.3-H(RBI);2-H(RBI)
+com,"$2B made a valiant diving effort and took a tumble"
+play,4,0,bryad201,00,X,9/F
+play,4,0,haasg201,02,CFS,K
+play,4,1,lebla201,22,CBBFX,E4/P
+com,"$Dropped the easy pop-up"
+play,4,1,jorga201,32,BBBCFB,W.1-2
+play,4,1,kapls201,10,BX,S9/G.2-3;1-2
+play,4,1,parkj201,00,X,S7/L.3-H(RBI)(UR);2-3;1-2
+com,"$Over the head of the shortstop"
+play,4,1,eystj201,22,CFBBFX,9/F/SF.3-H(RBI);2-3
+play,4,1,daybe201,01,C>B,SB2
+play,4,1,daybe201,11,C>B.X,S8/G.3-H(RBI)(UR);2-H(RBI)(UR);B-2(E4)
+com,"$Past the diving effort by the 2B, slightly fumbled by CF though runner from 2nd likely would have scored anyway"
+com,"$Missed catch by 2B allowed batter to advance to 2nd"
+play,4,1,giana201,00,,NP
+sub,benap201,"Paloma Benach",0,0,1
+play,4,1,giana201,11,.CBX,53/G.2-3
+play,4,1,whitk201,30,BVVV,I
+play,4,1,leguj201,02,CSS,K
+play,5,0,geldt201,32,BCBBCC,K/C
+play,5,0,paddm201,12,SBFFFS,K
+play,5,0,delee201,22,CBBSFFFFX,31/G
+play,5,1,lebla201,31,BBBCB,W
+play,5,1,jorga201,00,X,9/F
+play,5,1,kapls201,31,BCBBX,S8/F.1-2
+com,"$SS, LF, and CF all converged but none could make the play"
+play,5,1,parkj201,20,BBX,C/E2.2-3;1-2;B-1
+com,"$Park's swing hit Greenwood on the glove"
+play,5,1,eystj201,12,BFSX,S7/L.3-H(UR);2-3;1-2
+com,"$Foul ball hit home plate umpire Liu in the face, but she stayed in"
+play,5,1,daybe201,11,FBX,7/F/SF.3-H(UR)
+play,5,1,giana201,00,X,S7/L.2-H(UR);1-2
+com,"$Fumbled on the fielding attempt"
+play,5,1,whitk201,00,,NP
+sub,dumam201,"Maika Dumais",0,8,1
+play,5,1,whitk201,00,.,NP
+sub,robis201,"Sabrina Robinson",0,5,3
+play,5,1,whitk201,00,..X,E6/TH1/G.2-H(UR);1-3;B-2
+com,"$Low pitch got past the 1B"
+play,5,1,leguj201,10,BX,D7/G.3-H(UR);2-H(E7)(UR);BX3(765)
+com,"$Ball got past the diving shortstop, the LF fumbled the fielding attempt and the ball got to the wall"
+com,"First ball listed on PBP and in broadcast, but not shown in footage"
+play,6,0,hastl201,00,,NP
+sub,corip201,"Peyton Coria",1,8,1
+play,6,0,hastl201,00,.,NP
+sub,whitk201,"Kelsie Whitmore",1,2,8
+play,6,0,hastl201,00,..,NP
+sub,daybe201,"Ela Day-Bedard",1,9,7
+play,6,0,hastl201,22,...BBSCFX,S1/G
+com,"$Very soft grounder"
+play,6,0,blunk201,00,1>B,SB2
+play,6,0,blunk201,11,1>B.CX,63/G.2-3
+play,6,0,dumam201,31,BBFBB,W
+play,6,0,greeb201,01,1F>C,SB2
+play,6,0,greeb201,02,1F>C.H,HP
+play,6,0,bryad201,00,X,46(1)/FO/G.3-H(RBI);2-3
+play,6,0,haasg201,10,B>B,SB2
+play,6,0,haasg201,32,B>B.CFBB,W
+play,6,0,geldt201,32,CBCBBFS,K
+play,6,1,lebla201,31,BCBBB,W
+play,6,1,jorga201,32,BBFCB1H,HP.1-2
+play,6,1,kapls201,10,BX,S8/F.2-3;1-2
+com,"$Long single at the wall"
+play,6,1,parkj201,32,BFBFBB,W.3-H;2-3;1-2
+play,6,1,corip201,00,,NP
+sub,blunk201,"Kate Blunt",0,7,1
+play,6,1,corip201,00,.,NP
+sub,haasg201,"Gabrielle Haas",0,2,6
+play,6,1,corip201,00,..,NP
+sub,yamas201,"Suzuka Yamamoto",0,8,4
+play,6,1,corip201,12,...CBCC,K
+play,6,1,daybe201,01,SS,WP.3-H;2-3;1-2
+play,6,1,daybe201,12,SS.BS,K
+play,6,1,giana201,32,CSBFBBB,W
+play,6,1,whitk201,32,BBSBSB,W.3-H;2-3;1-2
+play,6,1,leguj201,12,CCBS,K
+play,7,0,paddm201,22,CBCBS,K
+play,7,0,robis201,12,FBFX,E3/G
+com,"$1B fumbled the ball and accidentally kicked it away"
+play,7,0,hastl201,01,FX,D7/F.1-3
+com,"$To the wall"
+play,7,0,blunk201,10,BX,2/P/FL
+play,7,0,yamas201,22,BFBFFS,K.3-H(E2/THH)(UR);2-H(UR);BX2(426)
+com,"$Runner on 3rd hesitated on the way home, likely would have been out if not for an errant throw to the pitcher."
+com,"$The 2B threw to the catcher on an unsuccessful attempt to get the runner from 2nd, the catcher then threw to"
+com,"$the shortstop to nab Yamamoto trying for 2nd."
+data,er,schra201,2
+data,er,benap201,0
+data,er,dumam201,3
+data,er,blunk201,0
+data,er,whitk201,3
 data,er,corip201,1
