@@ -650,3 +650,165 @@ data,er,lee-j201,0
 data,er,satoa201,0
 data,er,foxxm201,0
 data,er,meidm201,3
+id,LAQ202608260
+info,visteam,BSH
+info,hometeam,LAQ
+info,site,SPR03
+info,date,2026/08/26
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,pullj701
+info,ump1b,liu-s701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,82
+info,winddir,ltor
+info,fieldcond,dry
+info,precip,none
+info,sky,sunny
+info,timeofgame,138
+info,wp,villi201
+info,lp,brico201
+info,save,meidm201
+start,haasg201,"Gabrielle Haas",0,1,10
+start,paddm201,"Molly Paddison",0,2,9
+start,bryad201,"Denver Bryant",0,3,5
+start,geldt201,"Ticara Geldenhuis",0,4,8
+start,padgr201,"Raine Padgham",0,5,6
+start,hastl201,"Lexi Hastings",0,6,7
+start,delee201,"Edith De Leija",0,7,4
+start,schra201,"Alli Schroder",0,8,3
+start,kim-h201,"Hyeonah Kim",0,9,2
+start,schig201,"Gigi Schiano",0,0,1
+start,benis201,"Samaria Benitez",1,1,4
+start,lansa201,"Ashton Lansdell",1,2,9
+start,mackj201,"Jamie Mackay",1,3,10
+start,shima201,"Ayuri Shimano",1,4,6
+start,eynoc201,"Caitlin Eynon",1,5,5
+start,edwas201,"Sarah Edwards",1,6,3
+start,foxxm201,"Maggie Foxx",1,7,2
+start,villi201,"Isabella Villarreal",1,8,7
+start,ibard201,"Diana Ibarra",1,9,8
+start,rochm201,"Michelle Roche",1,0,1
+play,1,0,haasg201,02,CFX,63/G
+play,1,0,paddm201,32,BBBCCB,W
+play,1,0,bryad201,30,BBBB,W.1-2
+play,1,0,geldt201,21,CBBX,S5/L.2-H(RBI);1-3;B-2
+com,"$Lined over the head of the 3B, runners advanced on the throw home"
+play,1,0,padgr201,10,BX,S4/L.3-H(RBI);2-H(RBI)
+com,"$2B slid for the catch but it deflected off her glove to the CF allowing runners to advance"
+com,"$Before next at-bat, attempted appeal was made for possible failure of runner to tag 3B, but no one was ruled out"
+play,1,0,hastl201,02,S1MF>B,SB2
+com,"$Good pop time but throw hit the ground right by the bag and thus bounced under the shortstop's glove to the 2B"
+play,1,0,hastl201,12,S1MF>B.X,9/F.2-3
+play,1,0,delee201,21,FBBX,43/G
+play,1,1,benis201,01,CX,S9/F
+com,"$Right down the 1B line"
+play,1,1,lansa201,01,CH,HP.1-2
+play,1,1,mackj201,10,BX,64(1)/FO/G.2-3
+play,1,1,shima201,22,B1SBF>S,K+SB2
+com,"$Strike 3 fell out of catcher's glove"
+play,1,1,eynoc201,01,CX,S6/G.3-H(RBI);2-H(RBI)
+com,"$Past the diving 3B, long throw by SS"
+com,"$Low bouncer forced 1B to backpedal onto the base, where she collided with Eynon"
+play,1,1,edwas201,31,BBF1BB,W.1-2
+play,1,1,foxxm201,31,BBBCB,W.2-3;1-2
+play,1,1,villi201,32,BFBBFB,W.3-H(RBI);2-3;1-2
+com,"After ball 2, count suddenly jumped to 22. Official PBP records pitch sequence as BFBCBFB but I could find no"
+com,"indiciation of a pitch clock violation."
+play,1,1,ibard201,01,CH,HP.3-H(RBI);2-3;1-2
+play,1,1,benis201,12,BCFX,9/F
+play,2,0,schra201,12,CSBFX,S9/L
+play,2,0,kim-h201,00,H,HP.1-2
+play,2,0,haasg201,00,X,S8/L.2-3;1-2
+play,2,0,paddm201,12,CBSX,S7/G.3-H(RBI);2-H(RBI);1-3
+play,2,0,bryad201,30,BBBB,W.1-2
+play,2,0,geldt201,12,CBFS,K
+play,2,0,padgr201,32,BFBCBS,K
+play,2,0,hastl201,12,TFBX,43/G
+play,2,1,lansa201,00,X,53/G
+play,2,1,mackj201,00,X,7/F
+play,2,1,shima201,10,BX,S9/L
+play,2,1,eynoc201,10,1BX,7/F
+play,3,0,delee201,12,FFBFS,K.BX1(23)
+play,3,0,schra201,01,CX,S9/L
+com,"$The throw beat Schroder to the plate, however the 1B lifted her foot off from the bag at the last moment"
+play,3,0,kim-h201,00,,NP
+sub,maxit201,"Thaima Maximiliana",1,0,1
+play,3,0,kim-h201,32,.BSBBTX,9/F
+play,3,0,haasg201,10,BX,7/F
+play,3,1,edwas201,12,CFFBX,9/F
+play,3,1,foxxm201,30,BBBB,W
+play,3,1,villi201,01,FX,S7/L.1-2
+play,3,1,ibard201,31,BCBBX,6/P/IF
+play,3,1,benis201,00,X,S8/G.2-H(RBI);1-2
+play,3,1,lansa201,22,BBFFC,K/C
+com,"$First foul ball fell between pitcher and 1B down the first base line"
+com,"$Second foul ball fell out of 1B's glove"
+play,4,0,paddm201,00,X,4/F
+play,4,0,bryad201,12,FBCC,K/C
+play,4,0,geldt201,11,BCX,7/F
+play,4,1,mackj201,20,BBX,53/G
+play,4,1,shima201,21,BBCX,9/F
+play,4,1,eynoc201,02,FCT,K
+play,5,0,padgr201,31,BBBCX,8/L
+play,5,0,hastl201,32,BBCBCFT,K
+play,5,0,delee201,11,BSX,S8/G
+play,5,0,schra201,00,>C,SB2
+play,5,0,schra201,01,>C.X,S8/L.2-H(RBI)
+com,"$Fielding attempt was mildly fumbled, but runner on 2nd likely would have scored anyhow"
+play,5,0,kim-h201,00,B,WP.1-2
+play,5,0,kim-h201,10,B.X,5/L
+play,5,1,edwas201,00,X,6/P
+play,5,1,foxxm201,32,BCBFBB,W
+play,5,1,villi201,22,B1FBFX,S7/G.1-2
+com,"$Foul ball 1 was caught by Bryant but batter was ruled not out"
+com,"$as ball would have landed within the out-of-play chalk outline"
+com,"Once again after foul ball 1, count became 2-2 though I couldn't find indication of pitch clock violation."
+play,5,1,ibard201,00,,NP
+sub,brico201,"Olivia Bricker",0,0,1
+play,5,1,ibard201,00,.,NP
+sub,davim201,"Mo'ne Davis",1,9,11
+play,5,1,davim201,01,..CX,64(1)3/GDP
+play,6,0,haasg201,00,,NP
+sub,davim201,"Mo'ne Davis",1,9,8
+play,6,0,haasg201,00,.,NP
+sub,villi201,"Isabella Villarreal",1,8,1
+play,6,0,haasg201,00,..,NP
+sub,mackj201,"Jamie Mackay",1,3,7
+play,6,0,haasg201,32,...CBBSBB,W
+play,6,0,paddm201,01,CX,S8/L.1-2
+play,6,0,bryad201,00,X,64(1)3/GDP.2-3
+play,6,0,geldt201,12,SBCC,K/C
+play,6,1,benis201,02,CFFFX,S8/G
+play,6,1,lansa201,32,FFBBBB,W.1-2
+play,6,1,mackj201,00,,NP
+sub,schra201,"Alli Schroder",0,8,1
+play,6,1,mackj201,00,.,NP
+sub,robis201,"Sabrina Robinson",0,1,3
+play,6,1,mackj201,00,..H,HP.2-3;1-2
+play,6,1,shima201,12,CFBB,WP.3-H(NR);2-3;1-2
+play,6,1,shima201,32,CFBB.FFFFBFC,K/C
+play,6,1,eynoc201,12,CCBFC,K/C
+play,6,1,edwas201,02,CCFX,S9/L.3-H(RBI);2-3
+play,6,1,foxxm201,12,FCFBB,WP.3-H(NR);1-3
+com,"$Throw by the catcher got away from the pitcher, allowing for the runner from 1st to advance an extra base"
+play,6,1,foxxm201,32,FCFBB.BB,W
+play,6,1,villi201,02,FCC,K/C
+play,7,0,padgr201,00,,NP
+sub,meidm201,"Meggie Meidlinger",1,8,1
+play,7,0,padgr201,20,.BBX,63/G
+play,7,0,hastl201,32,BBSCFBFX,63/G
+play,7,0,delee201,02,CCC,K/C
+data,er,schig201,5
+data,er,brico201,2
+data,er,schra201,1
+data,er,rochm201,5
+data,er,maxit201,1
+data,er,villi201,0
+data,er,meidm201,0

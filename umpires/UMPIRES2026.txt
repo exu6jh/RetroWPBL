@@ -3,6 +3,7 @@ beras701,Berardino,Steve
 delpb701,Delp,Brian
 dinek701,Elliott Dine,Kelly
 herpe701,Herpick,Emilie
+liu-s701,Liu,Sophiyah
 mckej701,Thomas McKeen,Janet
 monaa701,Monachello,Annie
 pullj701,Pullano,Joelyn
