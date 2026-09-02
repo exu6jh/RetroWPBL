@@ -937,3 +937,177 @@ data,er,dumam201,3
 data,er,blunk201,0
 data,er,whitk201,3
 data,er,corip201,1
+id,SFF202608300
+info,visteam,NYH
+info,hometeam,SFF
+info,site,SPR03
+info,date,2026/08/30
+info,number,0
+info,gametype,regular
+info,starttime,6:30PM
+info,daynight,night
+info,innings,7
+info,umphome,liu-s701
+info,ump1b,pullj701
+info,ump2b,(none)
+info,ump3b,(none)
+info,umplf,(none)
+info,umprf,(none)
+info,temp,88
+info,winddir,rtol
+info,fieldcond,dry
+info,precip,none
+info,sky,cloudy
+info,timeofgame,144
+info,wp,gildl201
+info,lp,osulc201
+info,save,(none)
+start,yonen201,"Natsuki Yonetani",0,1,9
+start,benid201,"Denae Benites",0,2,2
+start,studl201,"London Studer",0,3,3
+start,lahnk201,"Kylee Lahners",0,4,10
+start,perev201,"Valerie Perez",0,5,6
+start,saike201,"Emi Saiki",0,6,5
+start,ecclc201,"Claire Eccles",0,7,7
+start,ciame201,"Elodie Ciamarro",0,8,4
+start,naras201,"Suzu Narasaki",0,9,8
+start,kim-r201,"Rakyung Kim",0,0,1
+start,giana201,"Amanda Gianelloni",1,1,4
+start,whitk201,"Kelsie Whitmore",1,2,8
+start,leguj201,"Joely Leguizamon",1,3,6
+start,lebla201,"Andreanne Leblanc",1,4,3
+start,jorga201,"Alexia Jorge",1,5,10
+start,kapls201,"Skylar Kaplan",1,6,9
+start,parkj201,"Jua Park",1,7,5
+start,gutis201,"Samantha Gutierrez",1,8,2
+start,eystj201,"Jordan Eyster",1,9,7
+start,ecken201,"Niki Eckert",1,0,1
+play,1,0,yonen201,21,CBBX,53/G
+play,1,0,benid201,22,BBFSS,K+WP.B-1
+play,1,0,studl201,01,CX,13/G.1-2
+com,"$Slight bobble on the catch, might have prevented DP but likely would have been difficult anyway"
+play,1,0,lahnk201,20,BB>B,SB3
+play,1,0,lahnk201,30,BB>B.B,W
+play,1,0,perev201,10,BX,6/P
+com,"$Great running catch on the low pop-up"
+play,1,1,giana201,20,BBX,S8/G
+play,1,1,whitk201,12,BCCFX,S8/G.1-2
+com,"$Foul ball was just a few inches foul of the line"
+play,1,1,leguj201,32,BSBBCFC,K/C
+play,1,1,lebla201,22,CFFBBX,3/P
+play,1,1,jorga201,32,BBCFBB,W.2-3;1-2
+play,1,1,kapls201,02,CCFB,PB.3-H(NR)(UR);2-3;1-2
+play,1,1,kapls201,12,CCFB.X,7/F
+play,2,0,saike201,32,BCBCFBB,W
+play,2,0,ecclc201,00,X,S8/G.1-2
+com,"$Perfectly up the mound and over the bag; pitcher reached down but the ball went just under her glove"
+play,2,0,ciame201,00,X,S7/G.2-3;1-2
+play,2,0,naras201,02,CSX,S6/L.3-H(RBI);2-3;1-2
+com,"$Shortstop slightly overshot the ball and it deflected off the end of her glove to the CF"
+play,2,0,yonen201,31,BCBBX,4/P
+play,2,0,benid201,11,BSX,HR/F8D.3-H(RBI);2-H(RBI);1-H(RBI)
+play,2,0,studl201,01,FX,3/G
+com,"Foul ball not shown on broadcast due to auxiliary footage following home run"
+com,"Listed on PBP and shown through 0-1 count on broadcast, possible sound of foul ball during footage as well"
+play,2,0,lahnk201,11,BCX,63/G
+play,2,1,parkj201,00,X,S8/L
+play,2,1,gutis201,10,BX,S8/L.1-2
+play,2,1,eystj201,12,CFBX,64(1)/FO/G.2-3
+play,2,1,giana201,31,BBFB,WP.3-H(NR);1-2
+play,2,1,giana201,31,BBFB.B,W
+play,2,1,whitk201,00,S,WP.2-3;1-2
+play,2,1,whitk201,01,S.X,63/G.3-H(RBI);2-3
+play,2,1,leguj201,12,BFFC,K/C
+play,3,0,perev201,32,BCBSFBFFX,E6/TH1/G.B-2
+com,"$Low bouncer could not be scooped at first"
+play,3,0,saike201,02,CFFS,K
+play,3,0,ecclc201,00,X,13/BG/SH.2-3
+play,3,0,ciame201,12,SCBFX,S9/L.3-H(RBI)(UR)
+com,"$Right in front of the sliding RF"
+play,3,0,naras201,00,B,WP.1-2
+play,3,0,naras201,20,B.BX,FC4/G.1X3(465);B-1
+com,"$2B made a beautiful diving stop on the ball up the mound, taking a tumble in the process"
+com,"$Her throw to the 2nd base bag could not be secured by the running shortstop, allowing the runner to reach"
+com,"$The runner, seeing the ball get away, attempted to take 3rd and was thrown out by the shortstop"
+play,3,1,lebla201,01,CX,S8/G
+play,3,1,jorga201,31,BBBCX,8/F
+play,3,1,kapls201,30,BB1B+1B,W.1-2
+play,3,1,parkj201,00,H,HP.2-3;1-2
+play,3,1,gutis201,01,FX,64(1)/FO/G.3-H(RBI);2-3
+com,"$Yet another amazing diving stop from the middle infield, but ball was dropped on the transfer"
+play,3,1,eystj201,02,CFC,K/C
+play,4,0,yonen201,00,,NP
+sub,delcr201,"Rosi Del Castillo",1,0,1
+play,4,0,yonen201,22,.FFBBH,HP
+play,4,0,benid201,22,CBBCX,64(1)3/GDP
+play,4,0,studl201,32,BBBCSFX,5/P/FL
+play,4,1,giana201,00,,NP
+sub,reynj201,"Jacqui Reynolds",0,0,1
+play,4,1,giana201,02,.CFX,E5/P
+com,"$Missed easy pop-up"
+play,4,1,whitk201,00,X,4/P
+play,4,1,leguj201,00,X,4/P
+play,4,1,lebla201,21,BCBB,WP.1-2
+play,4,1,lebla201,31,BCBB.X,43/G
+play,5,0,lahnk201,00,,NP
+sub,gildl201,"Liz Gilder",1,0,1
+play,5,0,lahnk201,12,.CFFBFH,HP
+play,5,0,perev201,32,BBCBFFX,54(1)3/GDP
+play,5,0,saike201,32,BBBCCB,W
+play,5,0,ecclc201,10,BX,5/P
+play,5,1,jorga201,00,X,S9/L
+play,5,1,kapls201,02,CCX,S1/G.1-2
+com,"$Reynolds hesitated looking to second, ending up with no outs"
+play,5,1,parkj201,22,BFCB2FFX,8/F
+com,"$Pickoff through to 2nd went wild but CF backed up play preventing advance"
+com,"$Runners apparently attempted to take off on a dead ball but were prevented from doing so"
+com,"$SF manager Matt Williams given a warning for arguing about it"
+play,5,1,gutis201,01,CX,16(1)3/GDP
+play,6,0,ciame201,00,X,7/F
+play,6,0,naras201,10,BX,E5/TH1/G.B-2
+com,"$Throw could not be picked at first base and went out of play"
+play,6,0,yonen201,00,>C,SB3
+play,6,0,yonen201,21,>C.BBB,WP.3-H(NR)(UR)
+play,6,0,yonen201,32,>C.BBB.CB,W
+play,6,0,benid201,10,1BS,WP.1-2
+play,6,0,benid201,21,1BS.BX,E6/TH1/G.2-H(RBI)(UR);B-2
+com,"$Wide throw pulled 1B off the base, ball fell out of glove during the tag attempt"
+com,"$Leblanc checked for injury, stayed in"
+play,6,0,studl201,01,CX,S9/L.2-H(RBI)(UR)
+play,6,0,lahnk201,11,CBX,E7/F.1-2
+com,"$LF missed the catch, possibly losing the ball in the lights"
+play,6,0,perev201,00,X,8/F
+play,6,0,saike201,00,X,31/G
+play,6,1,eystj201,22,BFBTS,K
+play,6,1,giana201,11,BFX,D8/L
+com,"$To left field, Eccles' diving effort wasn't quite able to make it"
+play,6,1,whitk201,31,BSBBB,W
+play,6,1,leguj201,11,BSX,2/BINT/BG
+com,"$Leguizamon called for interference for running into her own batted ball"
+play,6,1,lebla201,12,BCCFX,9/F
+play,7,0,ecclc201,01,CX,3/G
+com,"$Out on the tag application by Leblanc"
+play,7,0,ciame201,11,CBX,53/G
+play,7,0,naras201,01,CX,S7/L
+play,7,0,yonen201,22,C1BFFFBFFS,K
+play,7,1,jorga201,00,,NP
+sub,osulc201,"Claire O'Sullivan",0,0,1
+play,7,1,jorga201,02,.FCH,HP
+play,7,1,kapls201,02,FCX,S8/L.1-2
+play,7,1,parkj201,11,BCX,E5/G/TH2.2-3;1-2;B-1
+com,"$3B threw the ball over the SS but the CF backed up the play preventing extra bases"
+play,7,1,gutis201,00,X,D8/L.3-H(RBI);2-H(RBI);1-3
+play,7,1,eystj201,00,,NP
+sub,daybe201,"Ela Day-Bedard",1,9,11
+play,7,1,daybe201,32,FBBBFC,K/C
+play,7,1,giana201,12,CFBX,1/L
+play,7,1,whitk201,30,VVVV,I
+play,7,1,leguj201,00,X,S8/L.3-H(RBI)(UR);2-3;1-2
+play,7,1,lebla201,32,BBCBCX,HR/F8D.3-H(RBI)(UR);2-H(RBI)(UR);1-H(RBI)(UR);B-H(RBI)(UR)
+com,"$First walkoff in WPBL history"
+data,er,kim-r201,3
+data,er,reynj201,0
+data,er,osulc201,2
+data,er,ecken201,5
+data,er,delcr201,0
+data,er,gildl201,0
