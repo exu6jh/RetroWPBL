@@ -120,13 +120,12 @@ sub,hastl201,"Lexi Hastings",1,5,7
 play,5,0,albaj201,32,....BBCBCX,8/L8
 play,5,0,lebla201,32,CBCFBBFFB,W
 play,5,0,jorga201,02,FCX,S9/F9DW.1-3;BX2(946)
-play,5,0,ecken201,00,,NP
+play,5,0,daybe201,00,,NP
 sub,eystj201,"Jordan Eyster",0,6,11
 play,5,0,eystj201,01,.SX,9/F9
 play,5,1,blunk201,00,,NP
-play,5,1,blunk201,00,.,NP
 sub,eystj201,"Jordan Eyster",0,6,7
-play,5,1,blunk201,30,..BBBB,W
+play,5,1,blunk201,30,.BBBB,W
 play,5,1,delee201,12,BC1CX,S1/G4S.1-2
 com,"$Pitcher whiffed on attempting to pick up the ball"
 com,"Initially ruled an error"
