@@ -61,7 +61,8 @@ com,"$Excellent over-the-shoulder catch"
 play,3,0,haasg201,12,CCBX,4/L
 com,"$Stellar catch by the tumbling Gianelloni"
 play,3,1,yamaa201,31,BBBCX,S4/P
-com,"$Yamamoto made a great diving effort and gloved the ball on a dive, but it was knocked loose when she hit the ground"
+com,"$Yamamoto made a great effort and gloved the ball on a dive"
+com,"$but it was knocked loose when she hit the ground"
 play,3,1,daybe201,00,X,64(1)/FO/G
 play,3,1,giana201,00,>C,SB2
 play,3,1,giana201,22,>C.BFBX,S9/F.2-3
@@ -113,8 +114,9 @@ play,6,0,greeb201,20,BB>C,SB2
 play,6,0,greeb201,32,BB>C.BFS,K
 play,6,0,yamas201,20,BBX,43/G.2-3
 play,6,0,padgr201,22,CBBCFX,4/P
-com,"$Foul ball was right on the line, call was controversial as the tying run would have scored if the ball were fair"
-com,"$Ball was also almost caught by Gianelloni who took a tumble and dropped it on colliding with the ground"
+com,"$Foul ball was right on the line, call was controversial as the tying run would have scored"
+com,"$if the ball were fair. Foul ball was also almost caught by Gianelloni who took a tumble and"
+com,"$dropped it on colliding with the ground"
 play,6,1,parkj201,00,,NP
 sub,brico201,"Olivia Bricker",0,0,1
 play,6,1,parkj201,10,.BX,DGR8/F
@@ -213,7 +215,7 @@ play,3,0,jorga201,10,BX,HR/F7D
 play,3,0,leguj201,00,,NP
 sub,schig201,"Gigi Schiano",1,0,1
 play,3,0,leguj201,32,.BCCFBFFBFB,W
-play,3,0,parkj201,02,C1FX,E5/G.1-2
+play,3,0,parkj201,02,C1FX,FC5/G.1-2(E5)
 com,"$Fumbled catch with ball getting past 3B"
 play,3,0,delcr201,12,FBCFFX,36(1)/FO/G.2-3
 play,3,0,yamaa201,01,CX,64(1)/FO/G.3-H(RBI)(UR)
@@ -256,8 +258,8 @@ play,5,1,bryad201,21,BBFB,WP.1-2
 play,5,1,bryad201,32,BBFB.FB,W
 play,5,1,geldt201,11,BCX,9/L
 com,"$Great catch by a diving Kaplan"
-play,5,1,greeb201,32,BBCBSB,W.2-3;1-2
-com,"$Ball very nearly hit Greenwood on her back foot"
+play,5,1,greeb201,32,BBCBSH,HP.2-3;1-2
+com,"$Ball hit Greenwood on her back foot"
 play,5,1,delee201,00,B,PB.3-H(NR);2-3;1-2
 play,5,1,delee201,31,B.FBBB,W
 play,5,1,yamas201,02,SSX,8/L
@@ -273,7 +275,8 @@ play,6,1,hastl201,01,.FX,S9/L
 play,6,1,haasg201,02,CCX,53/G.1-2
 com,"$On the long throw by Yamamoto"
 play,6,1,schra201,00,X,S7/G.2-H(RBI);BX2(7524)
-com,"$Fast grounder took a hop away from the 3B, the relay couldn't nab the runner from 2nd but it could get the batter"
+com,"$Fast grounder took a hop away from the 3B"
+com,"$Relay couldn't nab the runner from 2nd but it could get the batter"
 play,6,1,bryad201,10,BX,53/G
 play,7,0,parkj201,00,,NP
 sub,dumam201,"Maika Dumais",1,0,1
@@ -289,7 +292,7 @@ com,"$Slow roller, Geldenhuis dove head-first"
 play,7,1,greeb201,20,BBX,54(1)3/GDP/G
 play,7,1,delee201,22,BBFCFFX,43/L
 com,"$Last foul ball was tipped but not held onto"
-com,"$Soft liner bounced directly in front of 2B who handled it to sweep the semifinals for the Firebells"
+com,"$Soft liner bounced right in front of 2B who handled it for the Firebells semifinals sweeep"
 data,er,albaj201,2
 data,er,ecken201,2
 data,er,gildl201,1

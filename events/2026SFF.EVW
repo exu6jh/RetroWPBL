@@ -63,7 +63,7 @@ play,2,1,leguj201,00,B,WP.3-H(NR)(UR);2-3;1-2
 play,2,1,leguj201,12,B.FCS,K
 play,2,1,parkj201,11,CBX,53/G
 play,3,0,perev201,31,BBBCX,E5/TH1/G
-com,"$Offline throw caught along the basepath; Perez evaded the attempted tag application by Leblanc"
+com,"$Offline throw caught along the basepath; Perez evaded the tag attempt by Leblanc"
 play,3,0,yonen201,12,BCCX,S6/G.1-2
 play,3,0,benid201,30,BBBX,S7/F.2-H(RBI)(UR);1-2
 play,3,0,lahnk201,22,CBCBB,WP.2-3;1-2
@@ -92,7 +92,8 @@ play,4,0,ibard201,32,FFBVFBB,W.2-3;1-2
 com,"$First foul ball almost caught"
 play,4,0,kim-r201,32,BBCFBX,12(3)/FO/G
 play,4,0,izumk201,32,CBCBBFB,W.3-H(RBI);2-3;1-2
-com,"$Last ball hit Izumi on the elbow, but this was explicitly ruled a ball rather than an HBP by HP umpire, likely due to Izumi's lack of attempt to not get hit"
+com,"$Last ball hit Izumi on the elbow, but this was emphatically clarified as ball 4 rather"
+com,"than an HBP by HP umpire, likely due to Izumi's lack of attempt to not get hit"
 play,4,0,zetta201,00,,NP
 sub,daybe201,"Ela Day-Bedard",1,6,1
 play,4,0,zetta201,00,.,NP
@@ -224,7 +225,7 @@ play,1,1,whitk201,00,X,S7/L.1-2
 com,"$Down the left field line"
 play,1,1,albaj201,00,X,S8/F.2-H(RBI);1-H(RBI)
 com,"$Fumble by 2B on the relay and deft avoidance of the tag allowed runner from 1st to score"
-play,1,1,lebla201,01,CX,3(B)6(1)/G
+play,1,1,lebla201,01,CX,3(B)6(1)/GDP/G
 play,1,1,leguj201,22,FBBSX,S7/L
 play,1,1,daybe201,00,B,WP.1-2
 play,1,1,daybe201,22,B.SBFFC,K/C
@@ -233,7 +234,7 @@ com,"$Throw went high over 1B's head"
 play,2,0,maxit201,01,CX,6/L
 play,2,0,frana201,22,BCFBS,K.BX1(23)
 play,2,0,benis201,01,CX,S6/G.2-3
-com,"$Leguizamon made a good stop, but could not make a throw to first in time so held onto the ball"
+com,"$Leguizamon made a good stop, but could not make a throw to first in time"
 play,2,0,apgab201,31,BBCBB,W.1-2
 play,2,0,eynoc201,22,FBFBC,K/C
 play,2,1,parkj201,02,CFS,K
@@ -293,7 +294,7 @@ com,"$Basket catch on the run"
 play,5,1,albaj201,32,BBCFBX,D8/L
 play,5,1,lebla201,10,BX,5/P
 play,5,1,leguj201,00,X,S8/F.2-H(RBI);BX2(846)
-com,"$Deflected by CF (possibly lost in lights); nevertheless, great relay play to nab batter just in time"
+com,"$Deflected by CF (possibly lost in lights); nevertheless, great relay play to nab batter"
 play,6,0,mackj201,01,CH,HP
 play,6,0,maxit201,02,CSB,WP.1-2
 play,6,0,maxit201,12,CSB.X,8/F
@@ -497,7 +498,7 @@ play,1,1,lebla201,12,CBFS,K
 play,1,1,jorga201,21,BFBX,S7/L.2-H(RBI);1-3
 com,"$LF moved forward a bit too far to make the play on the fast liner"
 play,1,1,kapls201,31,BBBCX,S8/L.3-H(RBI);1-2
-play,1,1,leguj201,10,BX,S7/L.2-H(RBI);1-3;B-2(E2)
+play,1,1,leguj201,10,BX,S7/L.2-H(RBI);1-3(E2);B-2
 com,"$Runners took an extra base as the ball skipped away during the tag attempt at home"
 play,1,1,eystj201,00,X,1/P
 play,2,0,foxxm201,21,BBCX,8/F
@@ -531,7 +532,7 @@ play,4,0,davim201,31,BBBCB,W
 play,4,0,lansa201,10,BX,D8/L.1-3
 play,4,0,mackj201,02,CCB,WP.3-H(NR);2-3
 play,4,0,mackj201,12,CCB.FX,S6/G.3-H(RBI)
-com,"$Good stop on the ball, but a combination of distance from 1B and an offline throw allowed Mackay on base"
+com,"$Good stop on the ball, but a bit too far and the throw to 1st was offline"
 play,4,0,foxxm201,02,CCX,54(1)/FO/G
 play,4,0,edwas201,01,CX,7/F
 play,4,0,eynoc201,00,X,S7/G.1-2
@@ -677,7 +678,8 @@ play,2,1,albaj201,30,1B.BBB,W
 play,2,1,lebla201,00,,NP
 sub,osulc201,"Claire O'Sullivan",0,0,1
 play,2,1,lebla201,00,.X,3/G.2-3;1-2
-com,"$Ball took a high hop and hit 1B at chest level; deflected over to first base bag where she made the out"
+com,"$Ball took a high hop and hit 1B at chest level"
+com,"$It was deflected over to first base bag where she made the out"
 play,2,1,jorga201,22,BBCCX,S5/G.3-H(RBI);2-3
 com,"$SS fumbled twice"
 play,2,1,kapls201,12,CCFBX,E5/TH1/G.3-H(RBI)(UR);1-3;B-2
@@ -689,10 +691,10 @@ play,3,0,kim-r201,02,CCC,K/C
 play,3,0,ciame201,22,CSBBFFX,5/P
 play,3,0,ecclc201,01,FX,8/F
 play,3,1,parkj201,00,X,S5/G
-com,"$Very long throw. Replay indicates Park was out but ump ruled safe, and no formal replay could overturn call"
+com,"$Very long throw. Replay indicates Park was out, but no formal replay could overturn call"
 play,3,1,daybe201,02,SSS,K
 play,3,1,giana201,01,CX,3/P/FL.1-2
-com,"$C and 1B both ran in for the catch, 1B made the catch but took a tumble, allowing runner to tag"
+com,"$C and 1B both converged, 1B made the catch but took a tumble, allowing runner to tag"
 play,3,1,whitk201,32,BCCFBBB,W
 play,3,1,albaj201,22,BFBCS,K
 play,4,0,yonen201,10,BX,8/F
@@ -711,8 +713,8 @@ play,5,0,zetta201,32,BFFBBX,43/G
 play,5,0,kim-r201,12,FBFX,S9/L
 play,5,0,ciame201,02,FCX,8/F
 play,5,0,ecclc201,12,M+1BF>B,SB2
-com,"$On pickoff attempt after missed bunt, it seems the runner was tagged out but the call was safe"
-com,"$Runner took off on ball that got away from catcher, ruled stolen base instead of wild pitch due to timing"
+com,"$On pickoff attempt after missed bunt, it seems the runner was tagged out but call was safe"
+com,"$Steal was on ball that got away from catcher, ruled SB2 instead of wild pitch due to timing"
 play,5,0,ecclc201,22,M+1BF>B.X,D9/L.2-H(RBI)
 com,"$Right down the 1B line"
 play,5,0,yonen201,01,CB,WP.2-3
@@ -787,9 +789,10 @@ start,daybe201,"Ela Day-Bedard",1,9,8
 play,1,0,bryad201,00,X,S1/G
 com,"$Roller up the mound went below Whitmore's glove"
 play,1,0,haasg201,00,1X,S7/G.1-2
-play,1,0,geldt201,00,X,1/P
+play,1,0,geldt201,00,X,1/P/IF
 play,1,0,paddm201,22,CSFBFBX,3/G.2-3;1-2
-com,"$Foul ball 2 was a high pop-up which struck the Hunters' Yamamoto in the dugout on the hand as she blocked her face from getitng hit"
+com,"$Foul ball 2 was a high pop-up which struck the Hunters' Yamamoto in the dugout on the hand"
+com,"$as she blocked her face from getitng hit"
 play,1,0,delee201,32,CBCBFBS,K
 play,1,1,giana201,12,BCCS,K
 play,1,1,whitk201,00,X,D9/F
@@ -804,7 +807,8 @@ play,2,0,greeb201,00,X,3/L
 play,2,1,jorga201,22,BBCFX,8/F
 play,2,1,kapls201,01,CX,S8/L
 play,2,1,parkj201,12,BCCFX,13/G.1-2
-com,"$Very short roller, pitcher threw high forcing 1B Dumais to jump, but she was able to get her foot down just in time"
+com,"$Very short roller, pitcher threw high forcing 1B Dumais to"
+com,"$jump but she was able to get her foot down just in time"
 play,2,1,eystj201,10,BX,9/F
 play,3,0,bryad201,01,FX,63/G
 play,3,0,haasg201,20,BBX,63/G
@@ -836,8 +840,8 @@ com,"$Over the head of the shortstop"
 play,4,1,eystj201,22,CFBBFX,9/F/SF.3-H(RBI);2-3
 play,4,1,daybe201,01,C>B,SB2
 play,4,1,daybe201,11,C>B.X,S8/G.3-H(RBI);2-H(RBI);B-2(E4)
-com,"$Past the diving effort by the 2B, slightly fumbled by CF though runner from 2nd likely would have scored anyway"
-com,"$Missed catch by 2B allowed batter to advance to 2nd"
+com,"$Past the diving effort by the 2B, slightly fumbled by CF though runner from 2nd likely"
+com,"$would have scored anyway. Missed catch by 2B allowed batter to advance to 2nd"
 play,4,1,giana201,00,,NP
 sub,benap201,"Paloma Benach",0,0,1
 play,4,1,giana201,11,.CBX,53/G.2-3
@@ -864,7 +868,7 @@ sub,robis201,"Sabrina Robinson",0,5,3
 play,5,1,whitk201,00,..X,E6/TH1/G.2-H(NR)(UR);1-3;B-2
 com,"$Low pitch got past the 1B"
 play,5,1,leguj201,10,BX,S7/G.3-H(RBI)(UR);2-H(E7)(NR)(UR);BX3(765)
-com,"$Ball got past the diving shortstop, the LF fumbled the fielding attempt and the ball got to the wall"
+com,"$Ball got past the diving SS, the LF fumbled the fielding and the ball got to the wall"
 com,"First ball listed on PBP and in broadcast, but not shown in footage"
 play,6,0,hastl201,00,,NP
 sub,corip201,"Peyton Coria",1,8,1
@@ -903,14 +907,13 @@ play,6,1,leguj201,12,CCBS,K
 play,7,0,paddm201,22,CBCBS,K
 play,7,0,robis201,12,FBFX,S3/G
 com,"$1B fumbled the ball and accidentally kicked it away"
-com,"Initially ruled an error"
 play,7,0,hastl201,01,FX,D7/F.1-3
 com,"$To the wall"
 play,7,0,blunk201,10,BX,2/P/FL
-play,7,0,yamas201,22,BFBFFS,K.3-H(E2/THH)(UR);2-H(UR);BX2(426)
-com,"$Runner on 3rd hesitated on the way home, likely would have been out if not for an errant throw to the pitcher."
-com,"$The 2B threw to the catcher on an unsuccessful attempt to get the runner from 2nd, the catcher then threw to"
-com,"$the shortstop to nab Yamamoto trying for 2nd."
+play,7,0,yamas201,22,BFBFFS,K+WP.3-H(E2/THH)(UR);2-H(UR);BX2(426)
+com,"$Runner on 3rd hesitated on the way home, likely would have been out if not for an errant"
+com,"$throw to the pitcher. The 2B threw to the catcher on an unsuccessful attempt to get the"
+com,"$runner from 2nd, the catcher then threw to the shortstop to nab Yamamoto trying for 2nd."
 data,er,schra201,4
 data,er,benap201,1
 data,er,dumam201,3
@@ -961,7 +964,7 @@ start,ecken201,"Niki Eckert",1,0,1
 play,1,0,yonen201,21,CBBX,53/G
 play,1,0,benid201,22,BBFSS,K+WP.B-1
 play,1,0,studl201,01,CX,13/G.1-2
-com,"$Slight bobble on the catch, might have prevented DP but likely would have been difficult anyway"
+com,"$Slight bobble on the catch, might have prevented DP but would have been difficult anyway"
 play,1,0,lahnk201,20,BB>B,SB3
 play,1,0,lahnk201,30,BB>B.B,W
 play,1,0,perev201,10,BX,6/P
@@ -970,21 +973,21 @@ play,1,1,giana201,20,BBX,S8/G
 play,1,1,whitk201,12,BCCFX,S8/G.1-2
 com,"$Foul ball was just a few inches foul of the line"
 play,1,1,leguj201,32,BSBBCFC,K/C
-play,1,1,lebla201,22,CFFBBX,3/P
+play,1,1,lebla201,22,CFFBBX,3/P/IF
 play,1,1,jorga201,32,BBCFBB,W.2-3;1-2
 play,1,1,kapls201,02,CCFB,PB.3-H(NR)(UR);2-3;1-2
 play,1,1,kapls201,12,CCFB.X,7/F
 play,2,0,saike201,32,BCBCFBB,W
 play,2,0,ecclc201,00,X,S8/G.1-2
-com,"$Perfectly up the mound and over the bag; pitcher reached down but the ball went just under her glove"
+com,"$Perfectly up the mound and over the bag; pitcher reached down but ball went under her glove"
 play,2,0,ciame201,00,X,S7/G.2-3;1-2
 play,2,0,naras201,02,CSX,S6/L.3-H(RBI);2-3;1-2
 com,"$Shortstop slightly overshot the ball and it deflected off the end of her glove to the CF"
-play,2,0,yonen201,31,BCBBX,4/P
+play,2,0,yonen201,31,BCBBX,4/P/IF
 play,2,0,benid201,11,BSX,HR/F8D.3-H(RBI);2-H(RBI);1-H(RBI)
 play,2,0,studl201,01,FX,3/G
 com,"Foul ball not shown on broadcast due to auxiliary footage following home run"
-com,"Listed on PBP and shown through 0-1 count on broadcast, possible sound of foul ball during footage as well"
+com,"Listed on PBP and shown as 0-1 count on broadcast, possible sound of foul ball during footage"
 play,2,0,lahnk201,11,BCX,63/G
 play,2,1,parkj201,00,X,S8/L
 play,2,1,gutis201,10,BX,S8/L.1-2
@@ -1000,18 +1003,16 @@ play,3,0,saike201,02,CFFS,K
 play,3,0,ecclc201,00,X,13/BG/SH.2-3
 play,3,0,ciame201,12,SCBFX,S9/L.3-H(RBI)(UR)
 com,"$Right in front of the sliding RF"
-play,3,0,naras201,00,B,WP.1-2
-play,3,0,naras201,20,B.BX,S4/G.1X3(465)
+play,3,0,naras201,20,BBX,S4/G.1X3(465)
 com,"$2B made a beautiful diving stop on the ball up the mound, taking a tumble in the process"
-com,"$Her throw to the 2nd base bag could not be secured by the running shortstop, allowing the runner to reach"
-com,"$The runner, seeing the ball get away, attempted to take 3rd and was thrown out by the shortstop"
-com,"Initially ruled a fielder's choice"
+com,"$Her throw to 2nd could not be secured by the running SS, allowing the runner to reach"
+com,"$The runner, seeing the ball get away, attempted to take 3rd and was thrown out"
 play,3,1,lebla201,01,CX,S8/G
 play,3,1,jorga201,31,BBBCX,8/F
 play,3,1,kapls201,30,BB1B+1B,W.1-2
 play,3,1,parkj201,00,H,HP.2-3;1-2
 play,3,1,gutis201,01,FX,64(1)/FO/G.3-H(RBI);2-3
-com,"$Yet another amazing diving stop from the middle infield, but ball was dropped on the transfer"
+com,"$Yet another amazing diving stop, but ball was dropped on the transfer"
 play,3,1,eystj201,02,CFC,K/C
 play,4,0,yonen201,00,,NP
 sub,delcr201,"Rosi Del Castillo",1,0,1
@@ -1071,7 +1072,7 @@ play,7,1,jorga201,00,,NP
 sub,osulc201,"Claire O'Sullivan",0,0,1
 play,7,1,jorga201,02,.FCH,HP
 play,7,1,kapls201,02,FCX,S8/L.1-2
-play,7,1,parkj201,11,BCX,E5/TH2/G.2-3;1-2;B-1
+play,7,1,parkj201,11,BCX,FC5/G.2-3(E5/TH2);1-2;B-1
 com,"$3B threw the ball over the SS but the CF backed up the play preventing extra bases"
 play,7,1,gutis201,00,X,D8/L.3-H(RBI);2-H(RBI)(UR);1-3
 play,7,1,eystj201,00,,NP

@@ -1,0 +1,300 @@
+game,type,inning,half,batter,retro,official,note
+NYH202608010,pitches,1,0,davim201,SX,FX,
+NYH202608010,pitches,1,1,willm201,BCX,BFFBX,
+NYH202608010,pitches,4,0,edwas201,CBFBBFB,CBFBBB,
+NYH202608010,pitches,4,1,lahnk201,CBBBFFB,CBBFFBB,
+NYH202608010,pitches,5,1,murpk201,FBSX,FBCX,
+NYH202608010,pitches,6,0,foxxm201,BBX,SBX,
+NYH202608010,pitches,7,0,edwas201,CFBFFC,CFBFC,
+NYH202608010,pitches,7,0,honda201,BBX,,
+NYH202608010,pitches,7,0,benis201,FBFBFBC,FFBFBC,
+NYH202608010,pitches,7,1,murpk201,BCX,CBX,
+NYH202608010,pitches,7,1,ecclc201,CFBFX,CSBFX,
+BSH202608020,pitches,4,1,schra201,FSS,FFS,
+BSH202608020,pitches,4,1,bryad201,FBSFBBS,FBSFBS,
+BSH202608020,pitches,5,1,paddm201,CBCFBC,CBCFC,
+BSH202608020,pitches,6,0,ecken201,SBCBFBB,CBCBFBB,
+BSH202608020,pitches,6,0,giana201,FBBBFFX,BFBBFX,
+LAQ202608050,pitches,2,0,geldt201,BCSX,CSX,
+LAQ202608050,pitches,3,0,paddm201,BFFX,BFBFX,
+LAQ202608050,pitches,3,1,frana201,BBX,BX,
+SFF202608060,pitches,1,1,giana201,BFFX,BFFFX,
+SFF202608060,pitches,2,1,daybe201,X,BX,
+SFF202608060,pitches,2,1,kapls201,BBFBB,BFCBBB,
+SFF202608060,pitches,2,1,parkj201,CBX,CX,
+SFF202608060,pitches,3,0,kim-r201,CCFBS,CCFBBS,
+SFF202608060,pitches,4,0,izumk201,CBCBBFB,CBCBBFH,Officially recorded as a HBP but umpire emphatically clarified it was ball 4 rathre than a HBP
+SFF202608060,ruling,4,0,izumk201,W,HP,Officially recorded as a HBP but umpire emphatically clarified it was ball 4 rather than a HBP
+SFF202608060,pitches,4,1,leguj201,SCH,CCH,
+SFF202608060,pitches,5,1,daybe201,CBCS,CBCFS,
+SFF202608060,pitches,6,1,gutis201,BBBBCB,BBBCB,Pitch count mistake (5-ball walk)
+LAQ202608070,pitches,3,1,lansa201,BBCBX,BBCX,
+LAQ202608070,pitches,5,1,eynoc201,BCFX,BBFX,
+NYH202608080,pitches,1,1,lahnk201,CBSBFC,CBCBFC,
+NYH202608080,pitches,3,0,robis201,BCSBC,BCSBXC,
+NYH202608080,pitches,4,1,lahnk201,CFFFFBFH,CFFFBFH,
+NYH202608080,pitches,5,0,schra201,FCH,CH,
+NYH202608080,pitches,5,0,kim-h201,BSFFH,BCFFH,
+NYH202608080,pitches,5,0,robis201,X,BX,
+NYH202608080,pitches,5,1,willm201,BCBCC,CCBBC,
+NYH202608080,pitches,6,0,geldt201,CCX,SCX,
+NYH202608080,pitches,6,0,haasg201,BBCX,BBX,
+NYH202608080,pitches,6,0,robis201,BCBBB,CBBBB,
+SFF202608080,pitches,3,0,edwas201,CX,CCX,
+SFF202608080,hittype,3,1,leguj201,3/P/IF,3/G,
+SFF202608080,pitches,3,1,daybe201,CCFS,CCFFS,
+SFF202608080,pitches,6,1,ecken201,CFBFBS,SFBFS,
+SFF202608080,pitches,7,0,apgab201,BBCBCB,BCBBCB,
+SFF202608080,pitches,7,0,lansa201,BBCFS,BBCFFS,
+BSH202608090,pitches,1,0,zetta201,CFBBFX,CSBBFX,
+BSH202608090,pitches,4,0,ecclc201,BBCBCB,BCBBB,
+BSH202608090,pitches,4,0,lahnk201,CSBS,CSBC,
+BSH202608090,pitches,8,1,delee201,FBCBX,FBCX,
+SFF202608120,pitches,3,0,rochm201,BCFX,BCX,
+SFF202608120,pitches,3,1,eystj201,CFBC,CFBBC,
+SFF202608120,pitches,4,1,jorga201,BX,BBX,
+SFF202608120,pitches,6,1,eystj201,BBFFS,BBFFC,
+NYH202608130,event,5,0,padgr201,FLE2,(none),Dropped popup appeared to be fair but was called foul during Padgham AB
+NYH202608130,pitches,5,0,padgr201,BCBFS,BBBFFS,
+NYH202608130,event,5,0,hastl201,(none),FLE2,No such event occurred during Hastings AB
+SFF202608140,pitches,5,1,bepph201,CSBC,CCBC,
+NYH202608150,pitches,1,0,giana201,BSSS,BSBSS,
+NYH202608150,pitches,2,0,parkj201,BFCFS,BFCFC,
+NYH202608150,pitches,4,0,whitk201,BCBSC,BCBSS,
+NYH202608150,pitches,5,1,zetta201,FCFBS,FFBS,
+NYH202608150,pitches,6,0,gutis201,BCH,BFX,
+BSH202608150,pitches,1,0,frana201,X,,Ball in play omitted
+BSH202608150,pitches,2,0,benis201,FSBBBX,FCBBBX,
+BSH202608150,pitches,2,0,naras201,CBBX,BBCX,
+BSH202608150,pitches,5,0,maxit201,SFBS,CFBS,
+BSH202608150,pitches,6,0,mackj201,CFX,CFFX,
+BSH202608150,pitches,6,1,dumam201,CFFBC,CCFFBC,
+NYH202608160,pitches,1,0,delee201,BFBBSB,BFBBFB,Foul tip designated as foul ball instead of swinging strike
+NYH202608160,pitches,5,0,dumam201,BBFBB,BBBCB,
+NYH202608160,pitches,6,1,kim-r201,CBCX,CBCFX,
+NYH202608160,pitches,7,1,osulc201,FX,SX,
+SFF202608190,event,1,0,lahnk201,SB2,(none),
+SFF202608190,pitches,1,0,lahnk201,BBX,BX,
+SFF202608190,pitches,3,1,daybe201,SSS,CCS,
+SFF202608190,event,4,0,studl201,WP.1-2,(none),
+SFF202608190,pitches,6,0,lahnk201,CCBC,CCBBC,
+SFF202608190,pitches,6,1,whitk201,X,,Ball in play omitted
+SFF202608190,pitches,6,1,albaj201,FBBFBX,FBBFBFX,
+BSH202608200,pitches,2,1,dumam201,CX,BX,
+BSH202608200,batter,5,0,,ecclc201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,event,5,0,ecclc201,BK.1-2,(none),
+BSH202608200,event,5,0,ecclc201,S3/G.2-3,(none),
+BSH202608200,pitches,5,0,ecclc201,BFX,BBFX,Apparent balk on ball 2, not clearly signalled and thus possibly missed by scorer
+BSH202608200,batter,5,0,,yonen201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,event,5,0,yonen201,S5/G.3-H(RBI);1-2,(none),
+BSH202608200,batter,5,0,,benid201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,6,0,,osulc201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,6,0,,studl201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,6,0,,murpk201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,6,0,,zetta201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,7,0,,ciame201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,7,0,,willm201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,7,0,,ecclc201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,7,0,,yonen201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,7,0,,benid201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,7,0,,osulc201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+BSH202608200,batter,7,0,,lee-j201,(none),August 20th game had missing batter information for the away team from the top of the 5th onwards
+LAQ202608210,pitches,6,0,giana201,FBSBC,FBFBS,
+BSH202608220,pitches,1,0,parkj201,FFBX,BFBX,
+BSH202608220,pitches,4,0,daybe201,CFC,CSC,
+BSH202608220,pitches,4,1,padgr201,CBBFBS,CBBFS,
+LAQ202608220,pitches,1,0,yonen201,BCFFBBS,BCFFFBBS,
+LAQ202608220,pitches,1,1,lansa201,BCH,BCCH,
+LAQ202608220,pitches,3,0,ecclc201,CBCX,SBCX,
+LAQ202608220,pitches,3,0,benid201,BFX,BFFX,
+LAQ202608220,pitches,4,1,shima201,CFX,CFBBX,
+LAQ202608220,pitches,4,1,frana201,BFCFFFFBBB,BFSFFFFBBB,
+LAQ202608220,pitches,5,0,yonen201,BSCX,BSBX,
+LAQ202608220,pitches,5,1,mackj201,FCFFBX,FCFBX,
+LAQ202608220,pitches,5,1,frana201,FCBB,FCBX,Batter's interference
+LAQ202608220,pitches,6,0,ciame201,SCBBC,CCBBC,
+LAQ202608220,pitches,8,0,studl201,CBFX,CBCX,
+LAQ202608220,pitches,8,1,edwas201,BBCCS,BBCCFS,
+BSH202608230,pitches,2,1,paddm201,CCFS,CCFC,
+BSH202608230,pitches,5,0,foxxm201,BCBBSX,BCBBFX,
+LAQ202608260,pitches,1,0,hastl201,SSFBX,SCFBX,
+LAQ202608260,pitches,1,1,villi201,BFBBFB,BFBCBFB,
+LAQ202608260,pitches,2,0,hastl201,SFBX,CFBX,
+LAQ202608260,pitches,2,1,eynoc201,BX,BBX,
+LAQ202608260,pitches,3,0,kim-h201,BSBBSX,BSBBFX,
+LAQ202608260,pitches,5,1,villi201,BFBFX,BFFBFX,
+LAQ202608260,pitches,6,1,benis201,CFFFX,BFFX,
+LAQ202608260,pitches,7,0,hastl201,BBSCFBFX,BBCCFBFX,
+NYH202608270,pitches,1,1,benid201,SCBS,CCBS,
+NYH202608270,pitches,3,1,naras201,X,,Ball in play omitted
+NYH202608270,pitches,3,1,yonen201,BCFFFX,BCFFFFX,
+NYH202608270,pitches,4,1,izumk201,CBBFFFX,CBBFFX,
+NYH202608270,pitches,4,1,ecclc201,FBX,FBXX,
+NYH202608270,batter,5,0,,davim201,satoa201,
+NYH202608270,pitches,5,0,davim201,CBSC,BBSCC,
+NYH202608270,pitches,6,0,honda201,BSFC,CBFC,
+NYH202608270,pitches,6,1,lee-j201,BSCX,BSX,
+NYH202608270,batter,7,0,,davim201,satoa201,
+SFF202608280,pitches,3,1,daybe201,BBSCS,BBCCS,
+SFF202608280,pitches,4,1,parkj201,X,BX,
+LAQ202608290,pitches,2,0,lahnk201,BBFBFFFB,BBSBFFFB,
+LAQ202608290,pitches,2,0,izumk201,CBX,FBX,
+LAQ202608290,pitches,2,1,edwas201,FCBX,FBCX,
+LAQ202608290,pitches,4,0,osulc201,BBBCX,BBCX,
+LAQ202608290,pitches,4,0,lahnk201,CCBBFS,BCBBFS,
+SFF202608300,pitches,2,1,whitk201,SX,S,Ball in play omitted
+SFF202608300,pitches,3,0,ciame201,SCBFX,CCBFX,
+SFF202608300,pitches,3,1,eystj201,CFC,FFC,
+SFF202608300,pitches,6,1,leguj201,BSX,SX,
+BSH202609020,pitches,2,0,kapls201,BCFFX,BCFX,
+BSH202609020,pitches,4,0,daybe201,FBFX,FFBX,
+BSH202609020,pitches,4,0,giana201,SBSBBB,SBCBBB,
+BSH202609020,hittype,5,0,leguj201,7/F,7/F/FL,
+LAQ202609030,pitches,1,0,osulc201,CX,CCX,
+LAQ202609030,pitches,2,0,lahnk201,BSBSBX,BSBCBX,
+LAQ202609030,pitches,2,1,baira201,CX,X,
+LAQ202609030,pitches,3,1,davim201,CBCBC,CBCC,
+LAQ202609030,pitches,5,0,saike201,BBBCB,BBBCCB,
+LAQ202609030,pitches,5,1,benis201,BFBFS,BFBFC,
+LAQ202609030,pitches,5,1,lansa201,BBBCSS,BBBCCS,
+LAQ202609030,pitches,6,0,benid201,FBBFFH,FBBFH,
+LAQ202609030,batter,6,0,,murpk201,lahnk201,
+LAQ202609030,pitches,6,1,villi201,BBCSS,BBCCS,
+LAQ202609030,batter,7,0,,naras201,murpk201,
+NYH202609040,pitches,2,1,benid201,FFBX,,
+NYH202609040,pitches,4,0,leguj201,SSC,SFC,
+NYH202609040,pitches,5,1,murpk201,CBBBFFB,CCBBFFBB,
+NYH202609040,pitches,7,0,eystj201,SFFFBFBFS,SFFBFBFS,
+BSH202609050,pitches,3,0,shima201,BBBCFFX,BBCFFX,
+BSH202609050,pitches,3,1,hastl201,SBBBFB,FBBBFB,
+BSH202609050,pitches,3,1,paddm201,SSX,SFX,Foul tip designated as foul ball instead of swinging strike
+BSH202609050,pitches,3,1,padgr201,SX,X,
+BSH202609050,pitches,6,0,villi201,X,,Ball in play omitted
+SFF202609060,pitches,3,1,leguj201,BBX,BBBX,
+SFF202609060,pitches,5,1,kapls201,CX,BX,
+SFF202609090,pitches,1,0,hastl201,BFX,BF,Ball in play omitted
+SFF202609090,pitches,1,0,haasg201,BX,B,Ball in play omitted
+SFF202609090,pitches,1,0,schra201,BX,B,Ball in play omitted
+SFF202609090,pitches,1,1,giana201,FCBX,FCB,Ball in play omitted
+SFF202609090,pitches,1,1,whitk201,X,,Ball in play omitted
+SFF202609090,pitches,1,1,kapls201,X,,Ball in play omitted
+SFF202609090,pitches,2,0,bryad201,CBBBFX,CBBBF,Ball in play omitted
+SFF202609090,pitches,2,0,paddm201,BBBB,BBB,Walk pitch omitted
+SFF202609090,pitches,2,0,geldt201,CCX,CS,
+SFF202609090,pitches,2,0,greeb201,BX,B,Ball in play omitted
+SFF202609090,pitches,2,1,lebla201,CBBBB,CBBB,Walk pitch omitted
+SFF202609090,pitches,2,1,leguj201,FX,F,Ball in play omitted
+SFF202609090,pitches,2,1,parkj201,BCX,BC,Ball in play omitted
+SFF202609090,pitches,3,0,padgr201,SBBX,SBB,Ball in play omitted
+SFF202609090,pitches,3,0,hastl201,BX,B,Ball in play omitted
+SFF202609090,pitches,3,0,haasg201,CCBX,CCB,Ball in play omitted
+SFF202609090,pitches,3,1,yamaa201,BBBCX,BBBC,Ball in play omitted
+SFF202609090,pitches,3,1,daybe201,X,,Ball in play omitted
+SFF202609090,pitches,3,1,giana201,CBFBX,CSBB,
+SFF202609090,pitches,3,1,whitk201,VVVV,,
+SFF202609090,pitches,3,1,kapls201,BX,B,Ball in play omitted
+SFF202609090,pitches,3,1,lebla201,BCX,BC,Ball in play omitted
+SFF202609090,pitches,3,1,leguj201,X,,Ball in play omitted
+SFF202609090,pitches,4,0,schra201,BX,B,Ball in play omitted
+SFF202609090,pitches,4,0,bryad201,FFBBFBX,FFBBFB,Ball in play omitted
+SFF202609090,pitches,4,0,geldt201,BX,B,Ball in play omitted
+SFF202609090,pitches,4,0,greeb201,FX,F,Ball in play omitted
+SFF202609090,pitches,4,0,padgr201,SFBBX,CFBB,
+SFF202609090,pitches,4,1,yamaa201,BCX,BC,Ball in play omitted
+SFF202609090,pitches,5,0,hastl201,FX,F,Ball in play omitted
+SFF202609090,pitches,5,0,bryad201,CX,C,Ball in play omitted
+SFF202609090,pitches,5,0,paddm201,BSFBS,BFFBS,
+SFF202609090,pitches,6,0,greeb201,BBCBFS,BBCFBS,
+SFF202609090,pitches,6,1,giana201,BBSFBX,BBSSBX,
+SFF202609090,pitches,6,1,whitk201,VVVV,,
+NYH202609100,fielders,1,0,shima201,43/G,46/G,
+NYH202609100,pitches,1,0,mackj201,X,,Ball in play omitted
+NYH202609100,pitches,1,1,benid201,CX,SX,
+NYH202609100,pitches,2,1,zetta201,X,,Ball in play omitted
+NYH202609100,pitches,2,1,ecclc201,X,,Ball in play omitted
+NYH202609100,pitches,3,0,davim201,BCFFC,BSFFC,
+NYH202609100,pitches,3,0,lansa201,X,,Ball in play omitted
+NYH202609100,pitches,3,1,benid201,H,,Hit by pitch omitted
+NYH202609100,pitches,3,1,lahnk201,BBCCFFX,BCBFFX,
+NYH202609100,pitches,4,0,villi201,X,BBFFBX,
+NYH202609100,pitches,4,0,honda201,BBFFBX,,
+NYH202609100,pitches,4,1,willm201,CBX,BCX,
+NYH202609100,pitches,5,0,mackj201,X,,Ball in play omitted
+NYH202609100,pitches,5,0,edwas201,BCCFX,BSCFX,
+NYH202609100,pitches,5,1,ecclc201,CFX,BFBX,
+NYH202609100,pitches,5,1,yonen201,X,,Ball in play omitted
+NYH202609100,pitches,5,1,lahnk201,BBBCCFS,BBBCCFC,
+NYH202609100,pitches,6,0,davim201,X,,Ball in play omitted
+NYH202609100,pitches,6,0,shima201,BCCBX,BCCB,Ball in play omitted
+NYH202609100,pitches,6,0,lansa201,X,,Ball in play omitted
+NYH202609100,pitches,7,1,perev201,X,,Ball in play omitted
+NYH202609100,pitches,7,1,izumk201,CFX,SFX,
+BSH202609110,pitches,1,0,jorga201,BBBFB,BBFBB,
+BSH202609110,pitches,3,0,giana201,X,,Ball in play omitted
+BSH202609110,pitcher,3,1,bryad201,albaj201,ecken201,This may have an effect on run assignment
+BSH202609110,pitcher,3,1,geldt201,albaj201,ecken201,This may have an effect on run assignment
+BSH202609110,pitcher,3,1,greeb201,albaj201,ecken201,This may have an effect on run assignment
+BSH202609110,pitches,7,0,yamaa201,BBSCX,BBFCX,
+BSH202609110,pitches,7,1,delee201,BBFCFFX,BBFCFSFX,
+LAQ202609120,pitches,3,0,yonen201,X,,Ball in play omitted
+LAQ202609120,pitches,3,0,benid201,CBCX,BCCX,
+LAQ202609120,pitches,3,0,osulc201,X,,Ball in play omitted
+LAQ202609120,pitches,3,0,lahnk201,CBBSX,CBBFX,Foul tip designated as foul ball instead of swinging strike
+LAQ202609120,pitches,3,1,lansa201,X,,Ball in play omitted
+LAQ202609120,pitches,3,1,mackj201,CX,C,Ball in play omitted
+LAQ202609120,pitches,3,1,eynoc201,X,,Ball in play omitted
+LAQ202609120,pitches,3,1,villi201,X,,Ball in play omitted
+LAQ202609120,pitches,4,0,perev201,X,,Ball in play omitted
+LAQ202609120,pitches,4,0,saike201,CX,CFX,Balk occurred on foul ball and no-pitch was not recorded
+LAQ202609120,pitches,4,1,davim201,CSBBFX,CFBBFX,Foul tip designated as foul ball instead of swinging strike
+LAQ202609120,pitches,4,1,honda201,BBX,BX,
+LAQ202609120,pitches,6,0,yonen201,SCBBX,CSBBX,
+NYH202609140,pitches,1,0,shima201,CBBX,SBBX,
+NYH202609140,pitches,1,0,honda201,X,,Ball in play omitted
+NYH202609140,pitches,1,1,lahnk201,CBBFS,BCBFS,
+NYH202609140,pitches,2,0,davim201,X,,Ball in play omitted
+NYH202609140,pitches,2,0,mackj201,X,,Ball in play omitted
+NYH202609140,pitches,2,1,willm201,BFSBS,BFCBS,
+NYH202609140,pitches,3,0,edwas201,X,,Ball in play omitted
+NYH202609140,pitches,3,0,davim201,X,,Ball in play omitted
+NYH202609140,pitches,3,1,lahnk201,H,,Hit by pitch omitted
+NYH202609140,pitches,3,1,perev201,CBFX,CFX,
+NYH202609140,pitches,3,1,yonen201,BBBCX,BBBX,
+NYH202609140,pitches,4,0,eynoc201,X,,Ball in play omitted
+NYH202609140,pitches,4,0,edwas201,BX,,
+NYH202609140,pitches,4,1,osulc201,X,,Ball in play omitted
+NYH202609140,pitches,5,0,foxxm201,CBBBB,BBBB,
+NYH202609140,pitches,5,0,lansa201,X,,Ball in play omitted
+NYH202609140,pitches,5,0,eynoc201,X,,Ball in play omitted
+NYH202609140,pitches,5,1,willm201,CBBBCFB,BSBBCFB,
+NYH202609140,pitches,5,1,osulc201,BFBBFH,BFBBFB,
+NYH202609140,pitches,6,1,ecclc201,BSSFFBX,BSSFBX,
+NYH202609140,pitches,7,0,foxxm201,BBH,,
+NYH202609140,pitches,7,0,shima201,CBX,SBX,
+NYH202609140,pitches,7,0,foxxm201,X,,Ball in play omitted
+NYH202609140,pitches,7,1,benid201,CFBBS,SFBBS,
+SFF202609160,pitches,3,1,lebla201,BCBBB,BBBCB,
+SFF202609160,pitches,4,0,davim201,BBCFFBC,BBCFBC,
+SFF202609160,pitches,5,0,edwas201,BCX,BX,
+SFF202609170,pitches,1,0,mackj201,BSBBFS,CBBBFS,
+SFF202609170,pitches,2,1,parkj201,X,,Ball in play omitted
+SFF202609170,pitches,4,0,eynoc201,BCFX,BSFX,
+SFF202609170,pitches,4,0,davim201,BCS,BC,Batter's interference
+SFF202609170,pitches,4,1,gutis201,CSBX,CCBX,
+SFF202609170,pitches,7,0,lansa201,CFX,BCFX,
+SFF202609170,pitches,7,0,foxxm201,BCBFX,BCBSX,
+LAQ202609190,pitches,1,1,lansa201,BBCBCX,BBBCCX,
+LAQ202609190,pitches,1,1,mackj201,BBFFFS,BBFFS,
+LAQ202609190,pitches,2,0,gutis201,X,,Ball in play omitted
+LAQ202609190,pitches,5,1,mackj201,CSS,CFS,
+LAQ202609190,pitches,7,1,shima201,FCBX,FCBXX,
+LAQ202609200,pitches,1,0,albaj201,SFFBX,FFFBX,Foul tip designated as foul ball instead of swinging strike
+LAQ202609200,pitches,1,1,lansa201,SX,FX,
+LAQ202609200,pitches,2,1,honda201,CSS,CFS,Foul tip designated as foul ball instead of swinging strike
+LAQ202609200,pitches,2,1,lansa201,BX,X,
+LAQ202609200,pitches,2,1,mackj201,FFFX,CFFX,
+SFF202609220,pitches,3,0,davim201,BCFFBX,BFSFBX,
+SFF202609220,pitches,3,0,eynoc201,BBCFFBFX,BBFFFBFX,
+SFF202609220,pitches,3,1,giana201,BSCS,BSC,Strikeout pitch omitted
+SFF202609220,pitches,5,0,shima201,CBCBBB,CBSBBB,
+SFF202609220,pitches,6,1,gutis201,CX,BX,

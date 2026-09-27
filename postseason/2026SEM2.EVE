@@ -115,7 +115,7 @@ play,5,1,lahnk201,32,BBBCCFS,K
 play,6,0,honda201,00,,NP
 sub,izumk201,"Keira Izumi",1,6,7
 play,6,0,honda201,30,.BBBB,W
-play,6,0,davim201,00,X,E1/TH2/BG.1-2
+play,6,0,davim201,00,X,FC1/BG.1-2(E1/TH2)
 com,"$Throw to second was off and hit Hondras"
 play,6,0,benis201,10,BX,S8/G.2-H(RBI)(UR);1-3
 play,6,0,shima201,12,1BCC>B,CS2(26)
@@ -135,8 +135,8 @@ play,6,1,zetta201,12,.SBCFX,1(B)3(1)/LDP/L
 play,6,1,ecclc201,01,CX,8/F
 play,7,0,mackj201,02,FCFX,8/F
 play,7,0,edwas201,11,BFH,HP
-com,"$May have been intentional, Mackay appeared to chirp at Studer after her flyout and HBP was right after"
-com,"$Both benches were warned"
+com,"$May have been intentional, Mackay appeared to chirp at Studer after"
+com,"$her flyout and HBP was right after. Both benches were warned"
 play,7,0,ibard201,32,BCBSBB,W.1-2
 play,7,0,meidm201,31,BFBBX,S7/P.2-3;1-2
 com,"$LF, 3B, and SS all converged but no one could catch it"
@@ -223,7 +223,8 @@ com,"$On the long run by Davis"
 play,2,0,ecclc201,32,CBFBBB,W
 play,2,0,willm201,00,H,HP.1-2
 play,2,0,saike201,20,B>B+2,CS3(265)
-com,"$Saiki pulled away from a bunt attempt, perhaps tricking the runner into thinking a sacrifice as on the way"
+com,"$Saiki pulled away from a bunt attempt, perhaps tricking"
+com,"$the runner into thinking a sacrifice was on the way"
 play,2,0,saike201,31,B>B+2.BCX,43/G
 com,"$2B bobbled the ball but recovered to throw the diving runner out"
 play,2,1,edwas201,10,BX,S8/G
@@ -243,7 +244,7 @@ play,3,0,studl201,21,BBCX,53/G
 com,"$Strong throw to first"
 play,3,0,osulc201,00,X,8/F
 play,3,0,lahnk201,22,CBBTX,53/G
-com,"$Bounce came up high and deflected off of Lansdell, but she still managed to recover for the out"
+com,"$Bounce came up high and deflected off of Lansdell, but she managed to recover for the out"
 play,3,1,lansa201,00,X,53/G
 play,3,1,mackj201,01,CX,8/F
 play,3,1,eynoc201,00,X,S7/G
@@ -261,10 +262,10 @@ play,4,0,saike201,01,CN,BK.3-H(NR);1-2
 com,"$Balk was called on what would otherwise have been a foul ball"
 play,4,0,saike201,01,CN.X,S9/L.2-3
 play,4,0,yonen201,20,BB>B,SB2
-com,"$Runner at first was too far off base, catcher hesitated to determine where to throw to and threw to the 2B who"
-com,"$threw to the 1B to try to start the rundown. However, the 1B threw to the catcher to stop a potential steal of"
-com,"$home although Willan was not that far off third. The subsequent throw to the 3B did not get her."
-com,"$a potential steal of home"
+com,"$Runner at first was too far off base, catcher hesitated to determine where to throw to and"
+com,"$threw to the 2B who threw to the 1B to try to start the rundown. However, the 1B threw to"
+com,"$the catcher to stop a potential steal of home although Willan was not that far off third."
+com,"$The subsequent throw to the 3B did not get her."
 play,4,0,yonen201,30,BB>B.B,W
 play,4,0,benid201,00,X,S7/L.3-H(RBI);2-3;1-2
 play,4,0,studl201,01,CX,S7/L.3-H(RBI);2-H(E7)(NR)(UR);1-2
@@ -288,7 +289,8 @@ play,5,1,villi201,31,B1BBCX,S8/G.1-2
 play,5,1,satoa201,00,,NP
 sub,shima201,"Ayuri Shimano",1,8,11
 play,5,1,shima201,01,.CX,S9/G.2-H(NR)(UR);1-H(NR)(UR);BX3(E9)(945)
-com,"$Past the diving 2B and under the RF's glove, second run may not have crossed the plate before the out"
+com,"$Past the diving 2B and under the RF's glove"
+com,"$Second run may not have crossed the plate before the out"
 play,6,0,saike201,00,,NP
 sub,ibard201,"Diana Ibarra",1,8,9
 play,6,0,saike201,00,.,NP
@@ -301,13 +303,13 @@ play,6,0,studl201,12,1FFB>B,CS2(26)
 play,6,1,davim201,10,BX,S9/G
 com,"$Very close play at the plate"
 play,6,1,benis201,00,H,HP.1-2
-com,"$Benitez attempted to duck but the ball curved into her helmet anyhow; she was checked out and stayed in"
+com,"$Benitez attempted to duck but the ball curved into her helmet; she was checked and stayed in"
 play,6,1,honda201,10,BX,15(2)/FO/BG
 play,6,1,lansa201,11,BFX,S7/F.2-H(RBI);1-2
-com,"$Deep fly ball right near the top of the wall; LF ran in for the long catch but couldn't glove it"
-com,"$The subsequent relay throw to home plate bounced off of the diving Benitez's right foot to O'Sullivan who"
-com,"$was backing up the play. Relays to the 3B and then the 1B could not get any outs though runners were off base"
-com,"$in anticipation of a possible advance"
+com,"$Deep fly ball near the top of the wall; LF ran in for the long catch but couldn't glove it"
+com,"$The subsequent relay throw to home plate bounced off of the diving Benitez's right foot to"
+com,"$O'Sullivan who was backing up the play. Relays to the 3B and then the 1B could not get any"
+com,"$outs even though runners were off base in anticipation of a possible advance"
 play,6,1,mackj201,11,FBB,WP.2-3;1-2
 play,6,1,mackj201,21,FBB.,NP
 sub,ecclc201,"Claire Eccles",0,7,1
@@ -404,15 +406,17 @@ play,1,0,edwas201,10,BX,7/F
 com,"Outage 2: feed disappeared after Villarreal reached base, returned before the first pitch"
 play,1,1,yonen201,32,BBBCCFX,T9/F
 com,"$RF made a long run but seemed to slip, missing the ball which deflected into foul territory"
-com,"$2B came over for the throw, but by then Yonetani was already at 3rd for the WPBL's first ever triple"
+com,"$2B came over for the throw, but by then Yonetani was already at 3rd"
+com,"$The WPBL's first ever triple"
 play,1,1,benid201,11,CBX,HR/F7D.3-H(RBI)
 com,"Outage 3: feed disappeared after Yonetani reached, returned just in time for the home run"
 play,1,1,studl201,21,BBFX,43/G#
-com,"Outage 4: feed disappeared after ball 1, did not return for a few minutes until strike 1 to Lahners"
+com,"Outage 4: feed disappeared after ball 1, did not return until strike 1 to Lahners"
 play,1,1,osulc201,22,BBCSFX,S8#
 play,1,1,lahnk201,22,CBBFS,K
-com,"Inputter note: official PBP has BCBFS, edited replay no longer contains first couple of pitches. However, I am"
-com,"fairly confident in this as previous pitch sequence transposition discrepancies have generally been in my favor"
+com,"Inputter note: official PBP has BCBFS, edited replay no longer contains first couple of"
+com,"pitches. However, I am fairly confident in this as previous pitch sequence transposition"
+com,"discrepancies have generally been in my favor"
 play,1,1,perev201,00,X,9/L
 com,"Fielding attempt not shown due to camera unavailability following outage"
 play,2,0,davim201,00,,NP
@@ -429,17 +433,17 @@ play,2,1,willm201,22,BFSBS,K
 play,2,1,saike201,30,BBBB,W
 play,2,1,yonen201,20,BBX,S8/L.1-2
 play,2,1,benid201,20,BBX,S7/G.2-3;1-2
-com,"Outage 6: feed disappeared right after Yonetani reached base, returned just in time for the single"
+com,"Outage 6: feed disappeared right after Yonetani reached base, returned in time for the single"
 play,2,1,studl201,20,BBX,43/G
 com,"Outage 7: occurred entirely during break"
 play,3,0,eynoc201,11,BCX,HR/F8D
 play,3,0,honda201,31,BBBCB,W
 com,"Outage 8: feed disappeared as Eynon was rounding the bases and returned before ball 3"
 play,3,0,villi201,11,C1BX,D8/F.1-3
-com,"$Ball landed right in front of the wall and bounced off the top of the wall back to the running CF"
+com,"$Ball landed in front of the wall and bounced off the top of the wall back to the running CF"
 play,3,0,edwas201,00,X,FC3/L.3-3;2X2(3616);B-1
-com,"$Low liner was fielded by the 1B and thrown to the SS for what was initially thought a 3-6 line-into-double-play"
-com,"$Runner on 2nd headed to the dugout, but after some confusion it was clarified that the call was trap/no catch"
+com,"$Low liner was fielded by the 1B and thrown to the SS for what was thought to be a 3-6 LIDP"
+com,"$Runner on 2nd headed to the dugout, but it was clarified that the call was trap/no catch"
 com,"$The pitcher threw it back to the shortstop, who tagged the runner as she went for 2nd"
 play,3,0,davim201,00,X,S8/P.3-H(RBI);1-2
 com,"$Popup just beyond the infield dirt, 2B, SS, and CF all converged"
@@ -449,7 +453,7 @@ play,3,0,benis201,32,BBCBFH,HP.2-3;1-2
 com,"Outage 9: feed disappeared after ball 2 and reappeared before the foul ball"
 play,3,0,shima201,20,BBX,HR/F7D.3-H(RBI);2-H(RBI);1-H(RBI)
 play,3,0,lansa201,11,BCX,53/G
-com,"Outage 10: feed disappeared as the ball-in-play pitch was being delivered and returned for ball 1 to Mackay"
+com,"Outage 10: feed disappeared as the last pitch was delivered and returned for ball 1 to Mackay"
 play,3,0,mackj201,11,BCX,8/F
 com,"$Great home run robbery right at the wall by CF Eccles"
 play,3,1,osulc201,21,BCBX,43/G
@@ -457,21 +461,21 @@ play,3,1,lahnk201,00,H,HP
 play,3,1,perev201,12,CBFX,64(1)/FO/G#
 com,"Outage 11: feed disappeared after the first foul ball and returned before strike 1 to Eccles"
 play,3,1,ecclc201,02,CCX,S4/G.1-2
-com,"$Slow roller, 2B made a great attempt on the quick, off-balance throw, but Eccles just barely beat it out"
+com,"$Slow roller, 2B made a great attempt on the off-balance throw but Eccles barely beat it out"
 play,3,1,willm201,22,CBCBX,FC6/L.2-H(E6/TH2)(NR)(UR);1-3;B-1
 com,"$Short liner took a hop right in front of the SS, whose throw to the 2B was offline"
 play,3,1,saike201,32,CBBCFFBFX,S9/G.3-H(RBI)(UR);1-3
 com,"Outage 12: feed disappeared after ball 3 and returned just after the play"
-com,"$Queens 2B Benitez suffered a non-contact injury to her left knee and needed to be carted off of the field"
+com,"$Queens 2B Benitez suffered an injury to her left knee and had to be carted off of the field"
 play,3,1,yonen201,00,,NP
 sub,foxxm201,"Maggie Foxx",0,1,9
 play,3,1,yonen201,00,.,NP
 sub,honda201,"Amira Hondras",0,6,4
 play,3,1,yonen201,20,..BBB,WP.3-H(NR)(UR);1-2
 play,3,1,yonen201,31,..BBB.CX,13/L
-com,"$Fast liner hit Roche in the arm and deflected shortly away from her, she fielded it for the out"
+com,"$Fast liner hit Roche in the arm and deflected shortly away, she fielded it for the out"
 play,4,0,eynoc201,00,X,S7/F
-com,"Outage 13: feed disappeared before plate appearance and returned in time for ball hit into play"
+com,"Outage 13: feed disappeared before the at-bat and returned in time for the single"
 com,"$Long single off the wall"
 play,4,0,honda201,20,BBX,S9/G.1-2
 play,4,0,villi201,00,,NP
@@ -515,18 +519,19 @@ play,5,0,eynoc201,00,X,63/G
 com,"Outage 21: feed disappeared and reappeared during the break"
 play,5,1,willm201,32,CBBBCFB,W
 com,"Outage 22: feed disappeared right as ball 2 was being delivered and returned for strike 2"
-com,"Inputter note: the Youtube replay was amended to remove all outages while I was watching, outages 23 onwards"
-com,"may previously have had audio-only or video pitches towards the end of the outage that have since been removed"
+com,"Inputter note: the Youtube replay was amended to remove all outages while I was watching."
+com,"Outages 23 onwards may previously have had audio-only or video pitches towards the end of the"
+com,"outage that have since been removed"
 com,"Outage 23: feed disappeared right after walk was issued, returned in time for ball 1 to Saiki"
-com,"$Queens player Apgar caught the foul ball in the dugout, though this could not be shown on the feed"
+com,"$Queens player Apgar caught the foul in the dugout, though this couldn't be seen on the feed"
 play,5,1,saike201,22,BBCCFX,S9.1-2#
-com,"Outage 24: feed disappeared after strike 2, returned only in time for Studer's plate appearance"
+com,"Outage 24: feed disappeared after strike 2, returned only before Studer's plate appearance"
 play,5,1,yonen201,21,BFBX,46(1)3/GDP/G.2-3#
 play,5,1,benid201,30,VVVV,I
 play,5,1,studl201,12,FBFFX,D7/F.3-H(RBI);1-H(RBI)
 play,5,1,osulc201,32,BFBBFH,HP
 com,"Outage 25: feed disappeared before plate appearance, reappeared for first foul ball"
-com,"Outage 26: feed disappeared again after second foul ball, returned in time to capture O'Sullivan heading to first"
+com,"Outage 26: feed disappeared after second foul ball, returned as O'Sullivan went to first"
 play,5,1,lahnk201,21,BFBX,HR/F7D.2-H(RBI);1-H(RBI)
 com,"Outage 27: feed disappeared before plate appearance, reappeared for first foul ball"
 com,"$O'Sullivan dropped to one knee on the swing"
@@ -545,7 +550,7 @@ sub,shima201,"Ayuri Shimano",0,2,6
 play,6,1,ecclc201,00,..,NP
 sub,satoa201,"Ayami Sato",0,5,1
 play,6,1,ecclc201,22,...BSSFFBX,1/P/FL
-com,"Outage 29: final outage, feed disappared before plate appearance and reappeared for the first pitch"
+com,"Outage 29: final outage, feed disappared before AB and reappeared for the first pitch"
 com,"$On the basket catch by Sato"
 play,6,1,willm201,22,BCBFS,K
 play,6,1,saike201,11,CBX,43/G

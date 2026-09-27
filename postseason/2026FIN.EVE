@@ -210,7 +210,7 @@ play,2,0,edwas201,32,BCBBCX,43/G
 play,2,0,foxxm201,20,BBX,HR/F7D
 play,2,0,honda201,10,BX,43/G
 play,2,0,ibard201,12,CCBX,53/G
-com,"$Good snag by the 3B, long throw took Leblanc into Ibarra's path and they softly collided at the bag"
+com,"$Good snag, long throw took Leblanc into Ibarra's path and they softly collided at the bag"
 play,2,1,lebla201,32,BCFBFFBFX,S8/F
 com,"$CF Davis almost caught it on the long run but the ball popped out of her glove"
 play,2,1,jorga201,21,CBBX,4/P
@@ -220,7 +220,8 @@ play,2,1,gutis201,01,FX,S7/L.3-H(RBI);2-H(RBI)(UR)
 play,2,1,leguj201,20,1BBX,54(1)/FO/G
 com,"$Stellar diving catch, followed by the tag application"
 play,2,1,yamaa201,00,1>B,CS2(24)
-com,"$Pickoff throw was initially ruled an out, this was reversed only for the runner to be caught on the first pitch"
+com,"$Pickoff throw was initially ruled an out, this was reversed"
+com,"$only for the runner to be caught on the first pitch"
 play,3,0,davim201,21,CBBX,63/G
 com,"$On the tag application"
 play,3,0,shima201,10,BX,S8/L
@@ -264,13 +265,13 @@ play,4,0,edwas201,00,.X,7/F.3-H(E2)(NR)(UR);1-2
 com,"$Throw to the catcher went under her glove"
 play,4,0,foxxm201,00,X,S8/G.2-H(RBI)(UR)
 play,4,0,honda201,00,X,D9/F.1-H(96E2)(NR)(UR)
-com,"$To the wall, relay throw had the runner from first well beat but the catcher fumbled the catch"
+com,"$To the wall, relay throw had the runner from first well beat but the catcher fumbled"
 play,4,0,ibard201,11,BCH,HP
 com,"$The throw caught Ibarra flush on the shoulder"
 play,4,0,davim201,10,B>C,SB3
 play,4,0,davim201,11,B>C.S,2/BINT
-com,"$Davis swung hard, as she was recovering her balance the catcher made an attempted pickoff throw to 3rd"
-com,"$During the attempt, the catcher's hand hit Davis on the helmet, and Davis was ruled out for interference"
+com,"$Davis swung hard, as she was recovering her balance the catcher attempted a pickoff to 3rd"
+com,"$The catcher's hand hit Davis's helmet, and she was ruled out for interference"
 play,4,1,gutis201,12,CSBX,S7/G
 play,4,1,leguj201,02,CFX,S7/L.1-2
 play,4,1,yamaa201,12,CFBS,K
@@ -332,7 +333,7 @@ play,7,1,gutis201,01,.CX,S7/G
 play,7,1,leguj201,22,1CBFBC,K/C
 play,7,1,yamaa201,01,CX,54(1)/FO/G
 com,"$Stellar sliding catch to get the forceout, not in time to get the diving Yamamoto"
-com,"$Yamamoto was checked out for injury as she suffered a nosebleed from her detached helmet hitting her face"
+com,"$Yamamoto suffered a nosebleed from her detached helmet hitting her face"
 play,7,1,giana201,00,X,7/L
 com,"$Yet another stellar catch on the slide by Ibarra"
 data,er,villi201,1
@@ -402,11 +403,12 @@ play,2,0,leguj201,01,CX,HR/F7D
 play,2,0,giana201,22,SBBFX,S8/G
 play,2,0,whitk201,01,1FX,S8/F.1-2
 play,2,0,kapls201,00,X,S3/G.2-3;1-2
-com,"$Ball down the 1B line, Edwards did a good job getting to it but hesitated on the fair/foul call and Kaplan dove in on time"
+com,"$Ball down the 1B line, Edwards did a good job getting to it but"
+com,"$hesitated on the fair/foul call and Kaplan dove in on time"
 play,2,0,lebla201,12,BFFX,S8/L.3-H(RBI);2-H(RBI);1-2
 play,2,0,albaj201,02,CFX,S7/L.2-H(RBI);1-2
 com,"$To the wall"
-play,2,0,jorga201,22,BFBCX,5(2)4(1)/GDP/G
+play,2,0,jorga201,22,BFBCX,5(2)4(1)/GDP/FO/G
 play,2,0,gutis201,00,X,63/G
 play,2,1,edwas201,20,BBX,3/G
 play,2,1,foxxm201,31,BBBCX,S9/L
@@ -424,12 +426,15 @@ play,3,0,kapls201,00,X,63/L
 com,"$Short liner up the middle, nice throw just beat the runner"
 play,3,1,shima201,30,BBBB,W
 play,3,1,lansa201,01,1SX,4/L.1-2(E4/TH1)
-com,"$Great sliding play on the low liner but the throw to 1st got between Shimano and the 1B and went out of play"
+com,"$Great sliding play on the low liner but the throw to"
+com,"$1st got between Shimano and the 1B and went out of play"
 play,3,1,mackj201,00,X,HR/F7D.2-H(RBI)
 play,3,1,eynoc201,12,BCCX,53/G
-com,"Feed cut out before plate appearance and returned for strike 2, two pitches taken directly from official PBP"
+com,"Feed cut out before plate appearance and returned for strike 2"
+com,"Two pitches taken directly from official PBP"
 play,3,1,edwas201,22,BCCBX,8/F
-com,"Feed cut out after strike 1 and returned for the out, two pitches taken directly from official PBP"
+com,"Feed cut out after strike 1 and returned for the out"
+com,"Two pitches taken directly from official PBP"
 play,4,0,lebla201,00,,NP
 sub,villi201,"Isabella Villarreal",1,7,1
 play,4,0,lebla201,00,.,NP
@@ -438,7 +443,7 @@ play,4,0,lebla201,30,..BBBB,W
 play,4,0,albaj201,00,X,S7/F.1-2
 play,4,0,jorga201,01,CH,HP.2-3;1-2
 play,4,0,gutis201,01,CX,9(B)23(1)/FDP/F
-com,"$Jorge took off well in advance likely thinking the ball wouldn't be caught, and was easily doubled off"
+com,"$Jorge took off well in advance thinking the ball wouldn't be caught, and was easily out"
 com,"$No other runners attempted an advance"
 play,4,0,parkj201,00,X,S8/F.3-H(RBI);2-H(RBI)
 com,"$CF seemed to completely lose the ball in the lights"
@@ -479,8 +484,8 @@ play,6,0,whitk201,00,X,6/P
 play,6,1,shima201,32,FCBBBS,K.BX1(23)
 play,6,1,lansa201,00,X,S7/L
 play,6,1,mackj201,02,1FFX,S6/G.1X3(654)
-com,"$Ground ball took a very high hop and deflected offZ the shortstop, but the 3B backed up the play"
-com,"$Noticing that the runner from 1st had rounded too far, the 3B threw to the 2B to get the out on the tag"
+com,"$Ground ball took a very high hop and deflected off the SS, but 3B backed up the play"
+com,"$Seeing that the runner from 1st had rounded too far, the 3B threw to get her out on the tag"
 play,6,1,eynoc201,30,BBBB,W.1-2
 play,6,1,edwas201,32,SBFBBB,W.2-3;1-2
 com,"$Ball three, upon replay, appeared to be a swing and dropped third strike."
@@ -563,7 +568,7 @@ play,2,0,daybe201,22,FBCBS,K
 com,"$Foul ball hit Day-Bedard on the very top of the helmet and went wild"
 com,"$However, it was called a foul ball either because no umps could definitively tell"
 com,"$Or because they thought Day-Bedard had offered (she was in bunt stance)"
-play,2,0,giana201,01,SX,65(2)/G
+play,2,0,giana201,01,SX,65(2)/FO/G
 com,"$Excellent play on the running catch and throw near 3rd base"
 play,2,0,whitk201,11,TBX,5/P/FL
 play,2,1,foxxm201,00,X,S9/F
@@ -590,9 +595,9 @@ play,3,0,albaj201,00,..,NP
 sub,mackj201,"Jamie Mackay",1,3,1
 play,3,0,albaj201,01,...CX,S8/G
 play,3,0,jorga201,30,BBBX,54(1)/FO/G
-com,"$Excellent diving catch by Lansdell, Shimano juggled the ball a bit preventing a DP but got th out"
+com,"$Excellent diving catch by Lansdell, Shimano juggled the ball a bit preventing a DP"
 play,3,0,parkj201,12,CCBX,E5/G.1-2
-com,"$Very slow grounder, the running 3B could not grab the ball, which also went by the SS into left"
+com,"$Very slow grounder, the running 3B could not grab the ball which also went by the SS"
 play,3,0,leguj201,32,BBCBCX,D9/L.2-H(RBI)(UR);1-H(RBI)(UR)
 com,"$Just past the running RF, to the wall"
 play,3,0,daybe201,02,CCH,HP
@@ -614,11 +619,11 @@ com,"$Bobbled catch"
 play,4,0,lebla201,12,BCSX,5(2)/FO/G
 com,"$Throw to first could not be gloved"
 play,4,0,albaj201,01,FX,S4/F.2-3;1-2
-com,"$1B, 2B, and RF all converged on the ball down the RF line but none could make it, 2B came closest"
+com,"$1B, 2B, and RF all converged down the RF line but none could make it, 2B came closest"
 play,4,0,jorga201,12,BCCFX,D7/L.3-H(RBI)(UR);2-H(RBI);1-3
 com,"$Down the LF line"
 play,4,0,parkj201,12,FBFX,D9/L.3-H(RBI);2-H(RBI);B-3(E4/THH)
-com,"$Relay throw to home was wide, catcher Foxx dove for the ball but couldn't reach it and faceplanted"
+com,"$Relay throw to home was wide, catcher Foxx dove for it but couldn't reach it and faceplanted"
 com,"$Foxx was somewhat slow to get up but was ultimately fine"
 play,4,0,leguj201,00,,NP
 sub,mackj201,"Jamie Mackay",1,3,9
@@ -669,7 +674,8 @@ play,6,1,baira201,21,.CBBX,1/P
 play,6,1,davim201,12,BCCFC,K/C
 play,6,1,shima201,00,X,4/P
 play,7,0,giana201,00,X,8/F
-com,"$Both the LF and CF went for the ball and collided, but luckily it was not hard and there were no injuries"
+com,"$Both the LF and CF went for the ball and collided"
+com,"$Luckily it was not hard and there were no injuries"
 play,7,0,whitk201,30,BBBB,W
 play,7,0,kapls201,10,BX,43/G.1-2
 play,7,0,lebla201,01,CX,8/F
@@ -743,7 +749,7 @@ play,2,1,jorga201,01,CX,6/L
 play,2,1,parkj201,10,BX,53/G
 play,3,0,edwas201,31,BCBBB,W
 play,3,0,ibard201,00,X,E4/P.1-2
-com,"$2B shifted back down the slope of the turtleback field to make the play, but missed and tripped"
+com,"$2B shifted down the slope of the turtleback field to make the play, but missed and tripped"
 com,"$In doing so, she took a tumble and kicked the ball away mid-tumble"
 play,3,0,davim201,22,BCLFBX,S7/L.2-3;1-2
 play,3,0,shima201,00,X,FC3/L.3-H;2-3;1-2(E3);B-1(RBI)(UR)

@@ -57,7 +57,7 @@ play,1,1,lahnk201,02,CCX,D8/F78D.3-H(RBI);2-H(RBI);1-3
 play,1,1,lee-j201,00,X,S7/L56D.3-H(RBI);2-3
 play,1,1,willm201,00,>B,SB2
 play,1,1,willm201,11,>B.CX,7/F7/SF.3-H(RBI);2-3(E2)#
-com,"PBP says error on catcher, but advance was not shown on feed and it seems Mackay never had the ball"
+com,"PBP says E2, but advance was not shown on feed and it seems Mackay never had the ball"
 play,1,1,ibard201,22,BFFBX,S7/L7S.3-H(RBI)
 play,1,1,studl201,21,B1SBX,64(1)3/GDP/G6
 play,2,0,honda201,20,BBX,93/G34D
@@ -119,7 +119,7 @@ sub,ciame201,"Elodie Ciamarro",1,9,4
 play,6,0,foxxm201,00,.,NP
 sub,murpk201,"Katherine Murphy",1,7,7
 play,6,0,foxxm201,20,..BBX,D7/L7
-com,"$LF attempted to field too far forward and was only able to deflect the ball while backpedaling"
+com,"$LF attempted to field too far forward and could only deflect the ball while backpedaling"
 play,6,0,rochm201,00,X,D7/L78DW.2-H(RBI)
 play,6,0,honda201,02,CFB,WP.2-3
 play,6,0,honda201,12,CFB.FFX,3/G3.3-H(RBI)
@@ -246,14 +246,14 @@ com,"$Zettlemoyer hesitated on the way home but made it nevertheless"
 play,2,1,lee-j201,12,SBCX,53/G
 play,3,0,bryad201,10,BX,S3/L
 com,"$Lahners stopped to make the catch but misread the ball, which went to her right"
-com,"Initially ruled an error"
 play,3,0,haasg201,20,B1BX,4/P
-com,"Video feed cut out again after ball 1 and returned for the out, pickoff not shown but surmised from audio"
+com,"Video feed cut out again after ball 1 and returned for the out"
+com,"pickoff not shown but surmised from audio"
 play,3,0,robis201,12,BC>S+1,SB2
-com,"$Attempted pickoff seems to have pulled 1B off base, she threw to 2B but ball popped out of glove"
-play,3,0,robis201,12,BC>S+1.>B,CS3(25)
-com,"$Ball got away from Benites, who recovered and threw out Bryant, who attempted a flying swim move"
-play,3,0,robis201,22,BC>S+1.>B.C,K/C
+com,"$Attempted pickoff seems to have pulled 1B away, she threw to 2B but ball popped out of glove"
+play,3,0,robis201,12,BC>S+1.B,OA.2X3(25)
+com,"$Ball got away from Benites, who recovered and threw out Bryant attempting a flying swim move"
+play,3,0,robis201,22,BC>S+1.B.C,K/C
 play,3,1,yonen201,00,X,D7/G
 com,"$Down the line"
 play,3,1,benid201,00,B,WP.2-3
@@ -275,7 +275,6 @@ play,4,1,lee-j201,32,BSCBBB,W
 play,4,1,yonen201,11,BS>B,SB2
 play,4,1,yonen201,22,BS>B.CFX,S7/L.2-H(RBI)
 com,"$Bobbled ball"
-com,"Initially ruled a score on error"
 play,4,1,benid201,10,B>B,SB2.1-3(E2/TH2)
 com,"$Errant throw sailed to center field"
 play,4,1,benid201,32,B>B.BFCX,7/F/SF.3-H(RBI)(UR)
@@ -341,8 +340,10 @@ play,6,1,benid201,31,BFBBX,7/F
 play,6,1,lahnk201,22,BCBC,NP
 com,"umpchange,6,umphome,monaa701"
 com,"umpchange,6,ump1b,chare601"
-com,"$HP umpire Steve Berardino collapsed from heat exhaustion, was attended to on the field before he was able to stand up and be carted off for further treatment"
-com,"$Base path umpire Annie Monachello moves to home, Queens coach and minor league umpire Emma Charlesworth-Seiler comes in as base path umpire"
+com,"$HP umpire Steve Berardino collapsed from heat exhaustion, was attended to on the field"
+com,"$before he was able to stand up and be carted off for further treatment. Base path umpire"
+com,"$Annie Monachello moves to HP, Queens coach and minor league umpire Emma Charlesworth-Seiler"
+com,"$comes in as base path umpire"
 play,6,1,lahnk201,32,BCBC.BS,K
 play,7,0,bryad201,00,,NP
 sub,murpk201,"Katherine Murphy",1,5,7
@@ -459,7 +460,7 @@ play,4,1,izumk201,00,X,7/F/SF.3-H(RBI)
 play,4,1,yonen201,12,CBFX,8/F
 play,4,1,willm201,12,CBCFX,3/G
 play,5,0,bryad201,32,CBCFBBX,E3/TH1/G.B-2
-com,"$Ball went wide on the throw to the pitcher as both she and Bryant (silding headfirst) arrived at 1B"
+com,"$Ball went wide to the pitcher as both she and Bryant (silding headfirst) arrived at 1B"
 play,5,0,geldt201,01,SX,D8/F.2-3
 com,"$CF completely lost the ball perhaps due to lights"
 play,5,0,blunk201,20,BBS,PB.3-H(NR)(UR);2-3
@@ -469,7 +470,7 @@ play,5,0,kim-h201,00,X,D9/L.3-H(RBI);1-3
 play,5,0,padgr201,00,,NP
 sub,studl201,"London Studer",1,0,1
 play,5,0,padgr201,21,.BCBF,FLE2
-com,"$Ball was popped up in fair territory and bounced out of catcher's glove, but it was ruled foul"
+com,"$Ball was popped up in fair territory and bounced out of catcher's glove, but was ruled foul"
 play,5,0,padgr201,22,.BCBFS,K.BX1(23)
 play,5,0,hastl201,32,BFFBBB,W
 play,5,0,delee201,10,BB,WP.3-H(NR)(UR);2-3;1-2
@@ -573,7 +574,7 @@ play,1,1,yonen201,00,X,63/G
 play,1,1,ciame201,10,BX,S6/L
 com,"$SS had a long run; she stumbled on the grass but batter likely would have made it anyhow"
 play,1,1,benid201,10,BX,S7/L.1-2
-play,1,1,lahnk201,00,X,64(1)/G.2-H(E4/TH1)(UR)
+play,1,1,lahnk201,00,X,64(1)/FO/G.2-H(E4/TH1)(UR)
 com,"2B threw a bit high and the ball tipped off the end of the 1B's glove"
 play,1,1,zetta201,22,SBFBC,K/C
 play,2,0,leguj201,11,BCX,7/F
@@ -606,7 +607,8 @@ play,3,1,lahnk201,32,BCBFBX,7/F
 play,3,1,zetta201,31,BBBFB,W
 play,3,1,ibard201,01,FX,S7/L.1-2
 play,3,1,studl201,32,BBBCCX,S6/G.2-3;1-2
-com,"$Excellent diving stop by Leguizamon; she slipped getting up preventing the out but likely saved a run"
+com,"$Excellent diving stop by Leguizamon"
+com,"$She slipped getting up preventing the out but likely saved a run"
 play,3,1,lee-j201,12,SBCS,K
 play,4,0,whitk201,22,BCBSC,K/C
 play,4,0,albaj201,11,BCH,HP
@@ -662,10 +664,11 @@ play,6,1,yonen201,12,>B.CCX,D8/F.3-H(RBI)
 play,6,1,willm201,31,BCBBB,W
 play,6,1,benid201,12,CFBX,S7/G.2-H(RBI);1-2
 play,6,1,lahnk201,31,CB+1BBH,HP.2-3;1-2
-play,6,1,zetta201,11,BCC,OA.3XH(242);2-3;1-2
-com,"$Benites was caught off 2nd base on the pickoff throw, at which point Reynolds also took off from 3rd"
-com,"$The throw from 2B got to the catcher in time for the rundown, Reynolds was called out for leaving the baseline"
-play,6,1,zetta201,22,BCC.BX,53/G
+play,6,1,zetta201,11,BC>C,CSH(242).2-3;1-2
+com,"$Benites was caught off 2nd base on the pickoff throw, at which point Reynolds also took off"
+com,"$from 3rd; the throw from 2B got to the catcher in time for the rundown, Reynolds was called"
+com,"$out for leaving the baseline"
+play,6,1,zetta201,22,BC>C.BX,53/G
 play,7,0,lebla201,00,,NP
 sub,izumk201,"Keira Izumi",1,9,1
 play,7,0,lebla201,00,.,NP
@@ -787,7 +790,7 @@ com,"$Ball deflected off of Blunt's back"
 play,3,1,ibard201,12,BF1FX,E5/G.1-2
 com,"$Bobbled ball"
 play,3,1,kim-r201,22,ACBFFBX,S7/F.2-H(RBI)(UR);1-3;BX2(764)
-com,"$Shortstop cut off the throw to 3B and threw quickly to the 2B to nab Kim, who slipped near the base"
+com,"$Shortstop cut off the throw to 3B and threw quickly to 2nd to nab Kim, who slipped nearby"
 play,4,0,geldt201,31,BCBBB,W
 play,4,0,kim-h201,02,C1C+1X,S9/F.1-2
 play,4,0,padgr201,00,X,FC4/G.2-H(NR);1-3;B-2(E4/TH2)
@@ -812,13 +815,14 @@ play,5,0,bryad201,31,.BBBSB,W
 play,5,0,geldt201,11,BF1>B,SB2
 play,5,0,geldt201,31,BF1>B.BB,W
 play,5,0,kim-h201,00,H,HP.2-3;1-2
-com,"$Throw got Kim right on the back of the helmet (which flew off) as she turned away to avoid it"
+com,"$Throw got Kim right on the back of the helmet (which flew off) as she turned to avoid it"
 play,5,0,padgr201,32,BFCBFBX,64(1)/FO/P.3-H(RBI);2-3
 com,"$Shortstop could not get a good read on the ball and hesitated, fell between her and CF"
 play,5,0,dumam201,10,B>B,SB2
 com,"$Sudden downpour of rain"
 play,5,0,dumam201,31,B>B.FBB,W
-com,"$Few minutes delay to replace cleat cleaner and to make substitutions during the rain, which continued drizzling"
+com,"$Few minutes delay to replace cleat cleaner and to make"
+com,"$substitutions during the rain, which continued drizzling"
 play,5,0,yamas201,00,,NP
 sub,studl201,"London Studer",1,6,1
 play,5,0,yamas201,00,.,NP
@@ -828,11 +832,11 @@ sub,osulc201,"Claire O'Sullivan",1,3,3
 play,5,0,yamas201,00,...,NP
 sub,zetta201,"Alyssa Zettlemoyer",1,4,5
 play,5,0,yamas201,10,....BX,S6/L.3-H(RBI);2XH(621);1-3;B-2
-com,"$High liner went over third base and fell between shortstop and LF, SS threw wide past 3B to dugout wall causing"
-com,"$runner from 2nd to attempt to advance home; catcher retrieved ball and made a quick throw to the pitcher to nab"
-com,"$the runner at the plate"
+com,"$High liner went over third base and fell between shortstop and LF, SS threw wide past 3B to"
+com,"$dugout wall causing runner from 2nd to attempt to advance home; catcher retrieved ball and"
+com,"$made a quick throw to the pitcher to nab the runner at the plate"
 play,5,0,haasg201,10,BB,WP.3-H(NR);2-3
-com,"$Benites made a huge diving leap for the errant (perhaps rain-slippery) pitch but could only deflect it"
+com,"$Benites made a huge leap for the errant (perhaps slippery) pitch but could only deflect it"
 play,5,0,haasg201,31,BB.CBB,W
 play,5,0,delee201,02,CCX,S1/G.3-H(RBI);1-2
 com,"$Fumbled catch got past Studer"
@@ -934,7 +938,6 @@ play,2,0,foxxm201,00,>C,CS2(24)
 play,2,1,willm201,02,CCX,53/G
 play,2,1,naras201,02,CSX,S6/G.B-2(E6/TH1)
 com,"$Very slow roller was thrown wide of 1B and out of play, granting an extra base"
-com,"Initially ruled a reach on error"
 play,2,1,yonen201,01,CX,5E3/G.2-3
 com,"$Unusual play, 3B's throw pulled 1B off base but rather than going back to tag first"
 com,"the 1B threw to 3B on the unsuccessful try to get the runner from 2nd."
@@ -944,9 +947,10 @@ play,2,1,studl201,00,X,S9/L.3-H(RBI);2-H(RBI)(UR);1-3
 play,2,1,lahnk201,00,>C,SB2
 play,2,1,lahnk201,12,>C.FBFFFX,S7/L.3-H(RBI);2-H(RBI)
 play,2,1,zetta201,00,X,463/L.1-2
-com,"$Unusual play yet again. 2B dropped the ball, probably intentionally, and seemed to turn a 46(1)3 DP."
-com,"$However, this was nullified by the base path umpire, who initially ruled both runners safe and then"
-com,"$changed it to an out only at first. Being not a fly ball, technically DP should have been called."
+com,"$Unusual play. 2B dropped the ball, probably intentionally, and seemed to turn a 46(1)3 DP."
+com,"$However, this was nullified by the basepath umpire, who first ruled both runners safe and"
+com,"$then changed it to an out only at first. With no force at 3rd and being not a fly ball"
+com,"$infield fly was not applicable and technically DP should have been called."
 play,2,1,saike201,00,B,WP.2-3
 play,2,1,saike201,11,B.CX,S8/G.3-H(RBI)(UR)
 play,2,1,ecclc201,02,FFT,K
@@ -973,7 +977,7 @@ play,4,0,edwas201,32,SCBBBB,W.1-2
 play,4,0,rochm201,02,CCX,S7/G.2-3;1-2
 play,4,0,honda201,10,BB,WP.3-H(NR);2-3;1-2
 play,4,0,honda201,31,BB.BCB+3,W+PO3(25)#
-com,"Broadcast and throw angle in replay of tag seems to indicate pickoff was from Benites, but actual throw not shown"
+com,"Broadcast and tag replay suggests pickoff was from Benites, but actual throw not shown"
 play,4,0,foxxm201,00,X,9/F
 com,"$Stellar over-the-shoulder catch on the long run by Yonetani"
 play,4,0,benis201,02,2CCS,K
@@ -1111,7 +1115,8 @@ play,2,1,studl201,00,1,OA.3-H(NR)(UR);1-2(E3)
 com,"$Ball got away from the 1B during the attempted pickoff swipe"
 play,2,1,studl201,00,1.>B,SB3
 play,2,1,studl201,30,1.>B.BBB,W
-play,2,1,osulc201,21,BBCX,53/G
+play,2,1,osulc201,00,>B,SB2
+play,2,1,osulc201,21,>B.BCX,53/G
 play,3,0,bepph201,02,SFX,43/G
 play,3,0,whitk201,00,X,6/L
 play,3,0,kapls201,31,BCBBX,43/G
@@ -1147,7 +1152,7 @@ com,"$Izumi on 3rd held in case of catch, but play was too close to advance"
 play,4,1,naras201,00,X,7/F/SF.3-H(RBI)
 play,4,1,yonen201,22,BSFBFFFX,5(2)/FO/G
 com,"$Ball bounced directly on the 3B bag and hit Yamamoto in the chest"
-com,"$She stopped it, picked it up with her foot on the bag, and declined to make a late throw to first"
+com,"$She stopped it, gloved it with her foot on the bag, and declined to make a late throw to 1st"
 play,4,1,benid201,12,FFFFBX,64(1)/FO/G
 play,5,0,yamaa201,00,,NP
 sub,izumk201,"Keira Izumi",1,6,5
@@ -1165,20 +1170,20 @@ sub,bepph201,"Hinano Beppu",0,9,7
 play,5,1,studl201,00,..,NP
 sub,giana201,"Amanda Gianelloni",0,7,4
 play,5,1,studl201,32,...BBBCFB,W
-play,5,1,osulc201,01,C>B,SB2
-play,5,1,osulc201,12,C>B.CS,K
+play,5,1,osulc201,01,CB,WP.1-2
+play,5,1,osulc201,12,CB.CS,K
 play,5,1,perev201,31,BBFBB,W
 play,5,1,izumk201,12,CFBX,S3/G.2-3;1-2
-com,"$Soft infield grounder, pitcher initially appeared poised to make the play but held in anticipation of"
-com,"$1B fielding; by then Izumi had all but reached the bag and no one was there to make a play"
+com,"$Soft infield grounder, pitcher initially seemed poised to field it but held expecting 1B to"
+com,"$do so instead; by then Izumi had all but reached the bag and no one was there to make a play"
 play,5,1,ecclc201,00,X,FC4/G/RINT.3-3;2-2;1X2(4);B-1
 com,"ej,perev201,P,hawkc701,Runner interference"
-com,"$Heights shortstop Valerie Perez ejected by basepath umpire Cody Hawkins reportedly for arguing about either"
-com,"$the interference call or the subsequent placement of runners. Batted ball made contact with Izumi's foot,"
-com,"$and after long conference, umpires recalled runners who had advanced. Perez apparently verbalized her"
-com,"$disagreement as she walked back to second base, and was then ejected. League policy mandated an automatic"
-com,"$one-game suspension for the ejection, however it was confirmed that such a suspension would be served in"
-com,"$the next season rather than during the postseason."
+com,"$Heights SS Valerie Perez ejected by basepath umpire Cody Hawkins reportedly for arguing"
+com,"$about either the interference call or the placement of runners. Batted ball hit Izumi's foot"
+com,"$and after long conference, umpires called Izumi out and recalled runners. Perez apparently"
+com,"$verbalized her disagreement as she walked back to second base and was then ejected. League"
+com,"$policy mandated an automatic one-game suspension for the ejection, however it was confirmed"
+com,"$that such a suspension would be served in the next season rather than during the postseason."
 play,5,1,willm201,00,,NP
 sub,ciame201,"Elodie Ciamarro",1,5,12
 play,5,1,willm201,02,.CCH,HP.3-H(RBI);2-3;1-2
@@ -1218,7 +1223,7 @@ play,7,0,eystj201,00,,NP
 sub,osulc201,"Claire O'Sullivan",1,4,1
 play,7,0,eystj201,22,.SFFFBFBFS,K
 play,7,0,whitk201,32,BBCBSFB,W
-com,"$Foul ball came down very quickly; Benites got under and almost caught it but couldn't secure it"
+com,"$Foul ball came down quickly; Benites got under and almost caught it but couldn't secure it"
 play,7,0,kapls201,00,X,S7/L.1-3(E7)
 com,"$Bobble on the fielding attempt"
 play,7,0,leguj201,12,CBCFX,1/L

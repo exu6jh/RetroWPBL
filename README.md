@@ -23,7 +23,7 @@ I go through a standardized process:
 1. I watch and score all games live directly in the event file, making notes of plays that I have either missed or that need to be reviewed later.
 2. I go through archived game footage on Youtube and fill in said missing information.
 3. I cross reference with official PBP (as of the last week of the 2026 regular season, the official WPBL stats site is no longer publicly available, and thus I use [SportyDolphin's website](sportydolphin.fun) as a proxy), checking for discrepancies in listed events, runner advances, or pitch sequences.
-4. I once again go through game footage to compare, amending incorrect information either on my part or in official scoring, and making notes as needed.
+4. I once again go through game footage to compare, amending incorrect information either on my part or in official scoring, and making notes as needed. Note that, following the end of the season, I have begun collating information into a specific [discrepancies CSV file](./discrepancies.csv).
 5. Once events are verified, I fill out game metadata. Temperature data - if not explicitly given on broadcast - is taken from Weather Underground historic data of Springfield. Sky, precipitation, wind direction, and field condition are visually confirmed by feed. Game time is from first pitch to last out.
 6. I then construct game logs and box scores from event files.
 
