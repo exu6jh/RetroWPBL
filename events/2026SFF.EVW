@@ -70,7 +70,7 @@ play,3,0,lahnk201,22,CBCBB,WP.2-3;1-2
 play,3,0,lahnk201,32,CBCBB.FX,S7/G.3-H(RBI);2-H(RBI);B-2
 play,3,0,ibard201,12,CBCFS,K
 play,3,0,kim-r201,12,CCFBS,K.BX1(2)
-com,"On the tag"
+com,"$On the tag"
 play,3,0,izumk201,22,CBBCX,S8/L.2-3
 play,3,0,zetta201,00,,NP
 sub,parkj201,"Jua Park",1,9,1
@@ -85,6 +85,7 @@ play,3,1,lebla201,31,BBCBX,63/G
 play,4,0,perev201,32,BBBCCX,S7/L
 play,4,0,yonen201,32,BBCBFX,S8/L.1-H(E8)(NR);B-2
 com,"$Ball snuck under CF's glove"
+com,"Listed as a throwing error in official PBP but I can't find any indication of how"
 play,4,0,benid201,00,X,S8/L.2-H(RBI)
 play,4,0,lahnk201,22,BBFC>B,SB2
 play,4,0,lahnk201,32,BBFC>B.B,W
@@ -93,7 +94,7 @@ com,"$First foul ball almost caught"
 play,4,0,kim-r201,32,BBCFBX,12(3)/FO/G
 play,4,0,izumk201,32,CBCBBFB,W.3-H(RBI);2-3;1-2
 com,"$Last ball hit Izumi on the elbow, but this was emphatically clarified as ball 4 rather"
-com,"than an HBP by HP umpire, likely due to Izumi's lack of attempt to not get hit"
+com,"$than an HBP by HP umpire, likely due to Izumi's lack of attempt to not get hit"
 play,4,0,zetta201,00,,NP
 sub,daybe201,"Ela Day-Bedard",1,6,1
 play,4,0,zetta201,00,.,NP
@@ -526,7 +527,7 @@ play,3,1,parkj201,31,CBBBX,63/G
 play,3,1,giana201,11,BFH,HP
 play,3,1,whitk201,00,1X,HR/F7D.1-H(RBI)
 play,3,1,albaj201,22,BCFBX,3/F
-com,"Great over the shoulder catch as RF, 2B, and 1B all converged"
+com,"$Great over the shoulder catch as RF, 2B, and 1B all converged"
 play,3,1,lebla201,21,CBBX,63/G
 play,4,0,davim201,31,BBBCB,W
 play,4,0,lansa201,10,BX,D8/L.1-3
@@ -649,7 +650,6 @@ com,"$Down the LF line"
 play,1,0,zetta201,00,X,63/G.2-3
 play,1,0,kim-r201,02,CFS,K
 play,1,0,ciame201,00,X,S8/G.3-H(RBI)(UR)
-com,"Unclear why this was scored as unearned"
 play,1,0,ecclc201,01,CX,8/F
 play,1,1,giana201,30,BBBB,W
 play,1,1,whitk201,10,BX,HR/F78D.1-H(RBI)
@@ -839,9 +839,9 @@ play,4,1,parkj201,00,X,S7/L.3-H(RBI)(UR);2-3;1-2
 com,"$Over the head of the shortstop"
 play,4,1,eystj201,22,CFBBFX,9/F/SF.3-H(RBI);2-3
 play,4,1,daybe201,01,C>B,SB2
-play,4,1,daybe201,11,C>B.X,S8/G.3-H(RBI);2-H(RBI);B-2(E4)
+play,4,1,daybe201,11,C>B.X,S8/G.3-H(RBI);2-H(RBI);B-2(E8/TH2)
 com,"$Past the diving effort by the 2B, slightly fumbled by CF though runner from 2nd likely"
-com,"$would have scored anyway. Missed catch by 2B allowed batter to advance to 2nd"
+com,"$would have scored anyway. Wide throw by 2B allowed batter to advance to 2nd"
 play,4,1,giana201,00,,NP
 sub,benap201,"Paloma Benach",0,0,1
 play,4,1,giana201,11,.CBX,53/G.2-3
@@ -910,7 +910,7 @@ com,"$1B fumbled the ball and accidentally kicked it away"
 play,7,0,hastl201,01,FX,D7/F.1-3
 com,"$To the wall"
 play,7,0,blunk201,10,BX,2/P/FL
-play,7,0,yamas201,22,BFBFFS,K+WP.3-H(E2/THH)(UR);2-H(UR);BX2(426)
+play,7,0,yamas201,22,BFBFFS,K+WP.3-H(E2/THH)(UR);2-H(UR);BX2(416)
 com,"$Runner on 3rd hesitated on the way home, likely would have been out if not for an errant"
 com,"$throw to the pitcher. The 2B threw to the catcher on an unsuccessful attempt to get the"
 com,"$runner from 2nd, the catcher then threw to the shortstop to nab Yamamoto trying for 2nd."
@@ -1072,7 +1072,7 @@ play,7,1,jorga201,00,,NP
 sub,osulc201,"Claire O'Sullivan",0,0,1
 play,7,1,jorga201,02,.FCH,HP
 play,7,1,kapls201,02,FCX,S8/L.1-2
-play,7,1,parkj201,11,BCX,FC5/G.2-3(E5/TH2);1-2;B-1
+play,7,1,parkj201,11,BCX,FC5/G.2-3;1-2(E5/TH2);B-1
 com,"$3B threw the ball over the SS but the CF backed up the play preventing extra bases"
 play,7,1,gutis201,00,X,D8/L.3-H(RBI);2-H(RBI)(UR);1-3
 play,7,1,eystj201,00,,NP
@@ -1130,7 +1130,6 @@ start,parkj201,"Jua Park",1,7,7
 start,daybe201,"Ela Day-Bedard",1,8,8
 start,yamaa201,"Ayaka Yamamoto",1,9,5
 start,ecken201,"Niki Eckert",1,0,1
-com,"Official stats website not available; error and unearned run assignments may be speculatory"
 play,1,0,hastl201,20,BBX,S9/L
 play,1,0,bryad201,01,1S>B,WP.1-2
 com,"$Ball got away from the catcher, runner just barely beat out the tag"
@@ -1206,7 +1205,7 @@ play,5,0,delee201,11,BC1X,16(1)/FO/G
 com,"$Throw to 1B for attempted double play went wide, but catcher backed up the play"
 play,5,0,geldt201,01,CX,53/G
 play,5,1,yamaa201,22,CFBBX,S8/L
-play,5,1,giana201,32,BBC1SBX,DGR7/G.1-3
+play,5,1,giana201,32,BBC1SBX,DGR/G.1-3
 com,"$Into the LF corner and lodged under the fence"
 play,5,1,whitk201,10,BX,8/F/SF.3-H(RBI);2-H(E8/THH)(NR)
 com,"$Relay throw from CF got away from the 2B, allowing additional advance"

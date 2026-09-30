@@ -59,7 +59,7 @@ play,2,1,kim-h201,32,FBBCBB,W
 play,2,1,geldt201,31,CBB+1BB,W.1-2
 play,2,1,schra201,12,CCBS,K
 com,"$Strikeout may have been dropped, but ruled catch so no throw down"
-play,2,1,bryad201,11,CBX,4(1)/FO/G4M.2-H(NR)(UR);B-2(E4/TH1)
+play,2,1,bryad201,11,CBX,4(1)/FO/G4M.2-H(E4/TH1)(NR)(UR);B-2
 com,"$Out was on the tag application before errant throw over 1B's head"
 play,2,1,greeb201,01,CB,WP.2-3
 com,"$The ball was blocked but the runner took off, and a high throw pulled the 3B away"
@@ -254,7 +254,7 @@ com,"$League-leading 5th home run for Benites in only 4 games"
 play,3,0,lahnk201,22,BFCBX,D7/L
 com,"$Up the third base line"
 play,3,0,murpk201,01,CX,7/F
-play,3,0,zetta201,00,X,6/LDP/L.2X2(64)
+play,3,0,zetta201,00,X,6(B)4(2)/LDP/L
 play,3,1,delee201,00,X,7/F
 com,"$Great catch on the run by Murphy"
 play,3,1,paddm201,12,BCCX,D9/G
@@ -422,7 +422,7 @@ com,"$Down the RF line, great throw"
 play,1,0,lansa201,31,BSBBB,W
 play,1,0,foxxm201,00,X,S8/L.1-3(E8)
 com,"$Runner advanced to third after the bounce deflected off the CF's glove"
-play,1,0,mackj201,12,SFB1X,S3/P.3-H(RBI)(UR);1-3
+play,1,0,mackj201,12,SFB1X,S3/P.3-H(RBI);1-3
 com,"$1B called off 2B and RF but misjudged ball which fell just out of reach"
 play,1,0,frana201,00,X,S8/L.3-H(RBI)(UR);1-3
 play,1,0,maxit201,02,FCX,13/G
@@ -459,7 +459,7 @@ com,"$runner on third took off as the ball bobbled out. 2B backed up the play; h
 com,"$for a close play but the runner won out"
 play,3,1,paddm201,11,C1>B.X,43/G
 play,4,0,maxit201,32,BCBBFB,W
-play,4,0,benis201,11,BC1,PO1(136)
+play,4,0,benis201,11,BC1,POCS2(136)
 play,4,0,benis201,32,BC1.CFBBX,8/F
 com,"$Over-the-shoulder catch"
 play,4,0,naras201,02,CFX,53/G
@@ -508,7 +508,7 @@ com,"$Attempted pickoff throw went far wide"
 play,6,0,foxxm201,32,BB+1.FBFX,E6/TH1/G.3-H(NR)(UR)
 com,"$Throw pulled Robinson off the bag"
 play,6,0,mackj201,02,CFX,D8/F.1-3
-play,6,0,frana201,31,FBBBX,S9/L.3-H(RBI)(UR);2-H(RBI)
+play,6,0,frana201,31,FBBBX,S9/L.3-H(RBI)(UR);2-H(RBI)(UR)
 play,6,0,maxit201,22,BBFCX,13/G
 play,6,1,geldt201,00,,NP
 sub,meidm201,"Meggie Meidlinger",0,0,1
@@ -537,10 +537,10 @@ play,7,1,haasg201,10,BX,4/P
 data,er,rochm201,2
 data,er,satoa201,0
 data,er,meidm201,0
-data,er,benap201,1
+data,er,benap201,2
 data,er,padgr201,4
 data,er,brico201,1
-data,er,dumam201,2
+data,er,dumam201,1
 id,BSH202608200
 info,visteam,NYH
 info,hometeam,BSH
@@ -655,8 +655,9 @@ play,5,0,zetta201,00,X,S7/G.3-H(RBI);2-3
 play,5,0,ciame201,00,>C,SB2
 play,5,0,ciame201,31,>C.BBBX,S7/G.3-H(RBI);2-3
 play,5,0,willm201,00,>C,CS2(26)
-play,5,0,willm201,01,>C.X,FC5/G.3XH(52)
+play,5,0,willm201,01,>C.X,FC5/G.3XH(52);B-1
 com,"$Runner caught in a rundown, somewhat hard contact at home plate"
+com,"Official PBP is missing many details for Heights events, some are at inputter's discretion"
 play,5,0,ecclc201,10,B1N,BK.1-2#
 com,"Willan took second uncontested and jogging. I could not find detect a balk call but based on"
 com,"external opinion a balk seems to be most likely. Umpire signalled 1 ball"
@@ -780,8 +781,8 @@ play,2,0,jorga201,00,X,S7/F.3-H(RBI)(UR);1-2
 com,"$Fell directly on the line and bounced into foul territory"
 play,2,0,kapls201,01,CX,S5/G.2-3;1-2
 com,"$Very slow roller"
-play,2,0,parkj201,10,BX,S7/L.3-H(RBI)(UR);2-H(RBI)(UR);1-3
-play,2,0,gutis201,22,FBFBX,S7/F.3-H(RBI)(UR);1-3;BX2(76)
+play,2,0,parkj201,10,BX,S7/L.3-H(RBI)(UR);2-H(RBI)(UR);1-2
+play,2,0,gutis201,22,FBFBX,S7/F.2-H(RBI)(UR);1-3;BX2(764)
 play,2,1,greeb201,32,CBFBBC,K/C
 play,2,1,bryad201,01,SX,S9/F
 play,2,1,padgr201,12,CBFX,3/G.1-2
@@ -835,6 +836,7 @@ play,5,1,blunk201,00,B,WP.1-2
 play,5,1,blunk201,32,B.BBCFB,W
 play,5,1,hastl201,11,BC>M,SB3.2-H(E2/TH2)(NR);1-2
 com,"$Catcher threw too far left while 2B was on the right side, ball got past to the CF"
+com,"$Possibly was attempting a pickoff throw but runner was already well to 3rd"
 play,5,1,hastl201,12,BC>M.FX,D8/F.2-H(RBI)
 com,"$To the wall"
 play,5,1,dumam201,10,BX,S6/G.2-3
@@ -937,7 +939,7 @@ start,blunk201,"Kate Blunt",1,0,1
 play,1,0,davim201,11,CBX,63/G
 play,1,0,lansa201,10,BX,S5/G
 com,"$Ball deflected off the 3B's glove past the SS into left field"
-play,1,0,mackj201,10,BX,E5/G.1-3
+play,1,0,mackj201,10,BX,E5/TH1/G.1-3
 com,"$Throw went high, forcing 1B to jump off of the bag"
 play,1,0,foxxm201,32,CBBTBB,W.1-2
 play,1,0,honda201,11,CBX,7/F/SF.3-H(RBI)(UR)
@@ -948,10 +950,10 @@ com,"$Bryant beat the runner from 2nd on the race to the bag"
 play,1,1,haasg201,30,BBBB,W
 play,1,1,paddm201,10,BN,BK.1-2
 play,1,1,paddm201,12,BN.CCX,63/G.2-3
-play,1,1,bryad201,00,X,3E1/G.3-H(RBI)(UR)
+play,1,1,bryad201,00,X,E3/TH1/G.3-H(RBI)
 com,"$Shimano was not able to hold onto the throw behind her on the close play at first"
 play,1,1,geldt201,30,BBBB,W.1-2
-play,1,1,padgr201,01,CX,S9/L.2-H(RBI);1-2
+play,1,1,padgr201,01,CX,S9/L.2-H(RBI)(UR);1-2
 play,1,1,hastl201,22,BTBCX,S6/G.2-3;1-2
 com,"$Shortstop got to the ball to her right but the attempted forceout at second was not in time"
 play,1,1,kim-h201,32,BBCBCC,K/C
@@ -988,12 +990,12 @@ play,5,0,mackj201,30,BBBX,8/F
 play,5,0,foxxm201,32,BCBBSX,53/G
 play,5,1,haasg201,02,CCS,K
 play,5,1,paddm201,00,X,S9/G.B-2(E9)
-com,"Fumbled catch on the grounder got to the wall"
+com,"$Fumbled catch on the grounder got to the wall"
 play,5,1,bryad201,02,SSX,43/G.2-3
-play,5,1,geldt201,12,CCBX,HR/F7D.3-H(RBI)(UR)
+play,5,1,geldt201,12,CCBX,HR/F7D.3-H(RBI)
 play,5,1,padgr201,22,BBCSS,K.BX1(E2/TH1)
 com,"$Throw on the dropped third strike went wide"
-play,5,1,hastl201,01,FX,HR/F78D.1-H(RBI)(UR)
+play,5,1,hastl201,01,FX,HR/F78D.1-H(RBI)(UR);B-H(RBI)(UR)
 play,5,1,kim-h201,00,,NP
 sub,maxit201,"Thaima Maximiliana",0,0,1
 play,5,1,kim-h201,22,.SBSBFS,K
@@ -1062,11 +1064,10 @@ start,padgr201,"Raine Padgham",1,7,6
 start,greeb201,"Beth Greenwood",1,8,2
 start,yamas201,"Suzuka Yamamoto",1,9,4
 start,blunk201,"Kate Blunt",1,0,1
-com,"Official stats website not available; error and unearned run assignments may be speculatory"
 play,1,0,giana201,02,CSC,K
 play,1,0,whitk201,32,FBBFFBH,HP
 play,1,0,leguj201,02,SCX,8/F
-com,"Leguizamon could not check her swing for strike 1"
+com,"$Leguizamon could not check her swing for strike 1"
 play,1,0,lebla201,01,CX,S9/G.1-2
 play,1,0,jorga201,10,BX,13/G
 com,"$Ball in play on the attempted check swing"
@@ -1119,9 +1120,9 @@ com,"$3B inadvertently deflected the ball foul"
 play,4,0,daybe201,12,FBFX,9/F
 play,4,0,yamaa201,00,>B,SB2
 com,"$Ball went over the 2B's head, but CF backed up the play"
-play,4,0,yamaa201,10,>B.X,S9/L.2-3;B-2(E9/THH)
-com,"$Ball thrown home to cut off runner from 1st went wide"
-com,"Credit is speculatory; error not shown in full on broadcast"
+play,4,0,yamaa201,10,>B.X,S9/L.2-3;B-2(E2)
+com,"$Ball thrown home to cut off runner from 1st seems to have gotten away from catcher"
+com,"Comment is speculatory; events at home plate not shown in full on broadcast"
 play,4,0,giana201,32,SBSBBB,W
 play,4,0,whitk201,32,BBBFFC,K/C
 play,4,1,hastl201,32,BBSFFBB,W
@@ -1233,13 +1234,12 @@ start,blunk201,"Kate Blunt",1,7,4
 start,dumam201,"Maika Dumais",1,8,3
 start,kim-h201,"Hyeonah Kim",1,9,2
 start,schra201,"Alli Schroder",1,0,1
-com,"Official stats website not available; error and unearned run assignments may be speculatory"
 play,1,0,benis201,12,CCBX,E6/TH1/G
 com,"$Long throw that pulled 1B off of the bag"
 play,1,0,shima201,21,BFBX,S9/L.1-2
 play,1,0,lansa201,20,BBX,S8/G.2-H(E8)(RBI)(UR);1-3
 com,"$Ball was bobbled on the transfer"
-play,1,0,mackj201,00,>B,SB2.3-H(E2/TH2)(NR)(UR);1-3
+play,1,0,mackj201,00,>B,SB2.3-H(E2/TH2)(NR);1-3
 com,"$Ball was thrown well over the 2B's head"
 play,1,0,mackj201,31,>B.CBBB,W
 play,1,0,eynoc201,00,>C,SB2
@@ -1249,7 +1249,7 @@ play,1,0,edwas201,11,BCX,S8/L.3-H(RBI);2-3
 play,1,0,villi201,00,X,S9/G.3-H(RBI);1-2
 play,1,0,honda201,32,CBFFFBBB,W.2-3;1-2
 play,1,0,davim201,31,BBBCB,W.3-H(RBI);2-3;1-2
-play,1,0,benis201,22,BCBSFX,64(1)/FO/G.3-H(RBI);2-3
+play,1,0,benis201,22,BCBSFX,46(1)/FO/G.3-H(RBI)(UR);2-3
 play,1,0,shima201,12,BSCS,K
 play,1,0,lansa201,10,BX,S9/G.3-H(RBI)(UR);1-2
 com,"$Just past the running 2B"

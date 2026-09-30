@@ -98,8 +98,7 @@ com,"$Down the LF line into the corner"
 play,5,0,mackj201,00,X,D8/L.2-H(RBI)
 play,5,0,edwas201,00,,NP
 sub,studl201,"London Studer",1,0,1
-play,5,0,edwas201,12,.BCCFX,9/F/SF.2-3
-com,"Sac fly awarded although no runners scored"
+play,5,0,edwas201,12,.BCCFX,9/F.2-3
 play,5,0,eynoc201,32,BBCFBB,W
 play,5,0,villi201,32,BBBCFS,K
 play,5,1,zetta201,01,FX,53/G
@@ -152,13 +151,14 @@ play,7,0,shima201,32,BFBBFB,W
 com,"$Second foul ball hit the catcher square in the mask"
 play,7,0,lansa201,32,FCBBBB,W.3-H(RBI);2-3;1-2
 play,7,0,mackj201,11,BFX,9/L
-play,7,1,yonen201,32,CSBFFFFBBX,DGR7/F
+play,7,1,yonen201,32,CSBFFFFBBX,DGR/F
+com,"$Ball bounced on top of, and over, the left-center field fence"
 play,7,1,benid201,21,BBCX,S6/L.2-3
 com,"$SS was not able to make what would be an over-the-shoulder catch"
 play,7,1,osulc201,00,1X,E6/G.3-H(RBI);1-2
 com,"$High bouncer, potential DP ball but SS bobbled the catch"
 play,7,1,studl201,10,BX,S7/L.2-H(RBI);1-2
-play,7,1,perev201,00,X,46(1)3/GDP/G
+play,7,1,perev201,00,X,46(1)3/GDP/G.2-3
 play,7,1,izumk201,02,CFX,8/F
 data,er,rochm201,1
 data,er,villi201,0
@@ -514,7 +514,7 @@ com,"Outage 20: feed disappeared after strike 2 and returned after the play"
 play,5,0,lansa201,00,X,D8/L.2-H(RBI);1-3
 com,"$To the wall"
 play,5,0,mackj201,02,SFFX,8/F/SF.3-H(RBI)
-com,"1B made a good effort for a sliding catch on foul ball 1 to no avail"
+com,"$1B made a good effort for a sliding catch on foul ball 1 to no avail"
 play,5,0,eynoc201,00,X,63/G
 com,"Outage 21: feed disappeared and reappeared during the break"
 play,5,1,willm201,32,CBBBCFB,W
